@@ -1,0 +1,16 @@
+[31/12/2024] 21:39:14 No se encontró WorldEdit
+[31/12/2024] 21:39:14 Se ha activado el plugin.
+[31/12/2024] 21:48:17 Día cambiado a: 40
+[31/12/2024] 21:48:17 Se ha recargado el plugin
+[31/12/2024] 21:48:21 Día cambiado a: 1
+[31/12/2024] 21:48:21 Se ha recargado el plugin
+[31/12/2024] 21:48:24 Día cambiado a: 40
+[31/12/2024] 21:48:24 Se ha recargado el plugin
+[31/12/2024] 21:50:11 Día cambiado a: 50
+[31/12/2024] 21:50:11 Se ha recargado el plugin
+[31/12/2024] 22:00:27 Día cambiado a: 60
+[31/12/2024] 22:00:27 Se ha recargado el plugin
+[31/12/2024] 23:25:35 No se encontró WorldEdit
+[31/12/2024] 23:25:36 Se ha activado el plugin.
+[31/12/2024] 23:26:59 No se encontró WorldEdit
+[31/12/2024] 23:26:59 Se ha activado el plugin.
