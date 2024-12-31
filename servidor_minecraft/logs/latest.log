@@ -124,3 +124,4 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 [23:31:15] [Server thread/INFO]: MauGP issued server command: /pdc storm removeHours -1
 [23:31:17] [Server thread/INFO]: MauGP issued server command: /pdc storm removeHours 100000
 [23:31:18] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[23:55:22] [Async Chat Thread - #1/INFO]: [Not Secure] <MauGP> 63 66 46
