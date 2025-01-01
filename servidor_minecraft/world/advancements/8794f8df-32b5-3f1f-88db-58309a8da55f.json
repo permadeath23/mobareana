@@ -9,7 +9,9 @@
     "criteria": {
       "minecraft:river": "2024-12-31 21:40:15 +0000",
       "minecraft:forest": "2024-12-31 21:39:47 +0000",
-      "minecraft:ocean": "2024-12-31 21:47:42 +0000"
+      "minecraft:ocean": "2024-12-31 21:47:42 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-01 00:06:41 +0000",
+      "minecraft:plains": "2025-01-01 00:24:00 +0000"
     },
     "done": false
   },
@@ -469,12 +471,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-31 23:42:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-31 23:41:41 +0000"
@@ -484,6 +480,54 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-31 23:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-31 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-01 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-01 00:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-01 00:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-01 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-01-01 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-01-01 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-01 00:25:40 +0000"
     },
     "done": true
   },
