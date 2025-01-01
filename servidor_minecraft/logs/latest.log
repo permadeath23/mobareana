@@ -61,3 +61,68 @@
 [23:33:57] [User Authenticator #0/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
 [23:33:59] [Server thread/INFO]: MauGP se ha unido al servidor.
 [23:34:00] [Server thread/INFO]: MauGP[/127.75.54.12:57799] logged in with entity id 119 at ([world]74.30000001192093, 87.0, 35.521213989081005)
+[23:40:18] [User Authenticator #1/INFO]: UUID of player nacholacabragod is f37ebab5-21bb-3a98-b599-742d6628c9df
+[23:40:19] [Server thread/INFO]: nacholacabragod se ha unido al servidor.
+[23:40:19] [Server thread/INFO]: nacholacabragod[/127.78.145.104:40471] logged in with entity id 164772 at ([world]64.1269005890553, 89.15814676123665, 39.92669823446621)
+[23:43:51] [Server thread/INFO]: nacholacabragod issued server command: /pl
+[23:44:16] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getBukkitEntity()" because the return value of "net.minecraft.world.entity.EntityTypes.spawn(net.minecraft.server.level.WorldServer, net.minecraft.core.BlockPosition, net.minecraft.world.entity.EnumMobSpawn, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)" is null
+	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.SpawnListener.onSpawn(SpawnListener.java:127) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:759) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:664) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.addEntity(ServerLevel.java:1656) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.addFreshEntity(ServerLevel.java:1564) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.lambda$addFreshEntityWithPassengers$0(ServerLevelAccessor.java:16) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.addFreshEntityWithPassengers(ServerLevelAccessor.java:16) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tryAddFreshEntityWithPassengers(ServerLevel.java:1679) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.createEntity(SummonCommand.java:70) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.spawnEntity(SummonCommand.java:80) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.lambda$register$2(SummonCommand.java:42) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:303) ~[?:?]
+	at net.minecraft.commands.Commands.dispatchServerCommand(Commands.java:292) ~[?:?]
+	at net.minecraft.world.level.BaseCommandBlock.performCommand(BaseCommandBlock.java:133) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.execute(CommandBlock.java:121) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.tick(CommandBlock.java:108) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.tick(BlockBehaviour.java:1157) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickBlock(ServerLevel.java:1300) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.runCollectedTicks(LevelTicks.java:197) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.tick(LevelTicks.java:94) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:814) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23:44:27] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo'/276233, uuid='62ecc4da-ccb4-462f-b7d2-9247f6aa12ed', l='ServerLevel[world]', x=-9.50, y=46.00, z=73.50, cpos=[-1, 4], tl=345, v=true] died: Ultra Esqueleto Definitivo suffocated in a wall
+[23:44:29] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/281646, uuid='1b213172-6bcf-434b-8650-f1da1930f6c1', l='ServerLevel[world]', x=62.69, y=63.00, z=38.57, cpos=[3, 2], tl=186, v=true] died: Ultra Ravager was slain by Iron Golem
+[23:46:22] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[23:47:24] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[23:47:24] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[23:47:39] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
+[23:47:53] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[23:48:04] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[23:48:07] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[23:48:34] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:37] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:40] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:41] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:42] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:42] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:43] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:45] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:45] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:46] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
+[23:48:50] [Server thread/INFO]: nacholacabragod issued server command: /pdc give Medalla 9
