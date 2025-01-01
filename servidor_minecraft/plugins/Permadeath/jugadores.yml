@@ -2,7 +2,7 @@ Players:
   MauGP:
     UUID: 8794f8df-32b5-3f1f-88db-58309a8da55f
     HP: 0
-    LastDay: 40
+    LastDay: 60
     banCause: Causa desconocida.
     banTime: 00:24:46
     banDay: '2025-01-01'
@@ -10,7 +10,7 @@ Players:
   nacholacabragod:
     UUID: f37ebab5-21bb-3a98-b599-742d6628c9df
     HP: 0
-    LastDay: 40
+    LastDay: 60
     banCause: Ahogamiento
     banTime: '22:59:45'
     banDay: '2024-12-31'
@@ -35,7 +35,7 @@ Players:
     UUID: 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
     HP: 0
     LastDay: 40
-    banCause: Ahogamiento
-    banTime: '23:01:24'
-    banDay: '2024-12-31'
-    coords: 44 63 12
+    banCause: Explosión
+    banTime: '18:18:38'
+    banDay: '2025-01-01'
+    coords: 70 63 63
