@@ -30,3 +30,5 @@
 [01/01/2025] 18:11:08 Se ha activado el plugin.
 [01/01/2025] 18:19:26 Día cambiado a: 60
 [01/01/2025] 18:19:26 Se ha recargado el plugin
+[01/01/2025] 23:29:50 No se encontró WorldEdit
+[01/01/2025] 23:29:50 Se ha activado el plugin.
