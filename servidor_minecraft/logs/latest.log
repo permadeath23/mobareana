@@ -299,3 +299,145 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18:20:54] [Server thread/INFO]: MauGP issued server command: /pardon Nicopowerxx1253
+[18:20:54] [Server thread/INFO]: [MauGP: Unbanned Nicopowerxx1253]
+[18:21:22] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:21:30] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength 100 100
+[18:21:30] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[18:21:31] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/252537, uuid='185d5e43-0c79-429d-873a-b074e501a13e', l='ServerLevel[world]', x=77.11, y=87.00, z=41.76, cpos=[4, 2], tl=191, v=true] died: Ultra Esqueleto Científico was slain by MauGP
+[18:21:31] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:21:34] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:21:37] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:21:46] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:21:49] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:21:53] [User Authenticator #2/INFO]: UUID of player Nicopowerxx1253 is 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
+[18:21:53] [Server thread/INFO]: Nicopowerxx1253 se ha unido al servidor.
+[18:21:53] [Server thread/INFO]: Nicopowerxx1253[/127.36.78.88:37949] logged in with entity id 268365 at ([world]-27.5, 63.100000001490116, 36.5)
+[18:21:58] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:01] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:04] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:07] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:10] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:22:10] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:17] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:21] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:23] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:27] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:30] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:44] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/82, uuid='b4e09128-1cd8-4501-b7d4-cd7162228b00', l='ServerLevel[world]', x=101.60, y=61.80, z=-7.42, cpos=[6, -1], tl=103827, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[18:22:44] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/87, uuid='36e6e3e8-4767-4ad0-b110-0941f37d46b3', l='ServerLevel[world]', x=97.84, y=53.00, z=1.60, cpos=[6, 0], tl=103826, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[18:22:44] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/263570, uuid='caed414f-5771-4446-b584-27efcbf74d01', l='ServerLevel[world]', x=88.99, y=80.89, z=40.79, cpos=[5, 2], tl=1225, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[18:22:44] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/263345, uuid='bf980274-84be-406f-a5b0-f67a94a3d1b7', l='ServerLevel[world]', x=55.69, y=72.23, z=61.90, cpos=[3, 3], tl=1231, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[18:22:44] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/263650, uuid='209a53b7-bd5d-49ef-9bcd-ee3e54738ce4', l='ServerLevel[world]', x=59.96, y=73.34, z=64.61, cpos=[3, 4], tl=1219, v=true] died: Ghast Demoníaco was blown up by Ender Quantum Creeper
+[18:22:44] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:22:45] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/127, uuid='e51f5e12-d945-4bda-b28a-0d67291f1b94', l='ServerLevel[world]', x=113.22, y=58.03, z=33.07, cpos=[7, 2], tl=102339, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[18:22:45] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[18:22:45] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:22:45] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/121, uuid='3bc5d83d-fde2-41e0-ae02-772f6de72ad9', l='ServerLevel[world]', x=128.52, y=61.85, z=86.80, cpos=[8, 5], tl=102339, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[18:23:00] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength 100 100
+[18:23:00] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[18:23:28] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 42, 63, 43
+[18:23:28] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/319985, uuid='1b32296e-2392-4526-b85b-d327fc3527b1', l='ServerLevel[world]', x=42.70, y=63.76, z=43.35, cpos=[2, 2], tl=42, v=true] died: Gato Galáctico tried to swim in lava
+[18:23:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[18:23:28] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 78, 87, 26
+[18:23:28] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/319984, uuid='5ea5c1d4-551a-4fd1-b929-04af23e827f6', l='ServerLevel[world]', x=78.90, y=87.00, z=26.90, cpos=[4, 1], tl=46, v=true] died: Gato Galáctico was slain by MauGP
+[18:23:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[18:23:28] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:23:28] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 94, 64, 66
+[18:23:28] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/319986, uuid='265055f1-1681-4050-9ad0-d7726d0c4776', l='ServerLevel[world]', x=94.70, y=64.87, z=66.62, cpos=[5, 4], tl=50, v=true] died: Gato Galáctico was blown up by Ghast Demoníaco
+[18:23:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[18:23:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[18:23:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[18:23:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[18:23:30] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[18:23:30] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[18:23:30] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[18:23:31] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[18:23:31] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:23:31] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[18:23:31] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[18:23:32] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[18:23:32] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Bruja Imposible (42.69999998807907, 63.76217632537128, 43.34874870983759
+[18:23:32] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[18:23:32] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Phantom (78.89856867063303, 87.0, 26.898010288803345
+[18:23:32] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[18:23:32] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Esqueleto de Clase (94.69999998807907, 64.86790583881104, 66.61754190135291
+[18:23:33] [Server thread/INFO]: Set the weather to rain & thunder
+[18:23:33] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[18:23:33] [Server thread/INFO]: Nicopowerxx1253 ha muerto y ahora descanza en paz.
+[18:23:33] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Nicopowerxx1253. ¡HA SIDO PERMABANEADO!
+[18:23:33] [Server thread/INFO]: X: 94 || Y: 64 || Z: 67
+[18:23:33] [Server thread/INFO]: Nicopowerxx1253 was slain by Skeleton
+[18:23:34] [Server thread/INFO]: MauGP has completed the challenge [Uneasy Alliance]
+[18:23:34] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/323730, uuid='19d71f6c-ef7c-4f7b-83b9-2798acbf89d9', l='ServerLevel[world]', x=78.00, y=87.00, z=23.00, cpos=[4, 1], tl=40, v=true] died: Ender Ghast was slain by MauGP
+[18:23:34] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/323729, uuid='c8441460-714c-4d8c-8036-a8f9ea385384', l='ServerLevel[world]', x=73.72, y=87.71, z=23.54, cpos=[4, 1], tl=54, v=true] died: Ender Ghast was slain by MauGP
+[18:23:35] [Server thread/INFO]: Nicopowerxx1253 lost connection: Has sido PERMABANEADO
+[18:23:35] [Server thread/INFO]: Nicopowerxx1253 ha abandonado el servidor.
+[18:23:36] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/323727, uuid='125c6083-7d27-479c-bf38-3a8eee706880', l='ServerLevel[world]', x=68.95, y=98.63, z=27.30, cpos=[4, 1], tl=83, v=true] died: Ender Ghast was slain by MauGP
+[18:23:36] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/323603, uuid='4323f131-5e16-4911-a514-218cf94c0748', l='ServerLevel[world]', x=42.70, y=63.59, z=43.70, cpos=[2, 2], tl=95, v=true] died: Bruja Imposible was slain by identidad303XDnt
+[18:23:38] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[18:23:40] [Server thread/INFO]: MauGP issued server command: /pardon Nicopowerxx1253
+[18:23:40] [Server thread/INFO]: [MauGP: Unbanned Nicopowerxx1253]
+[18:23:57] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength 100 100
+[18:23:57] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[18:24:02] [User Authenticator #3/INFO]: UUID of player Nicopowerxx1253 is 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
+[18:24:02] [Server thread/INFO]: Nicopowerxx1253 se ha unido al servidor.
+[18:24:02] [Server thread/INFO]: Nicopowerxx1253[/127.36.78.88:43479] logged in with entity id 341476 at ([world]-34.50473738297708, 66.10000000149012, 25.548770454950194)
+[18:24:17] [Server thread/INFO]: ¡Nicopowerxx1253 no tenía suficientes tótems en el inventario!
+[18:24:17] [Server thread/INFO]: Set the weather to rain & thunder
+[18:24:17] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[18:24:17] [Server thread/INFO]: Nicopowerxx1253 ha muerto y ahora descanza en paz.
+[18:24:17] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Nicopowerxx1253. ¡HA SIDO PERMABANEADO!
+[18:24:17] [Server thread/INFO]: X: -37 || Y: 63 || Z: 28
+[18:24:17] [Server thread/INFO]: Nicopowerxx1253 was blown up by Ender Quantum Creeper
+[18:24:17] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/101, uuid='b59098c7-bbb0-4e51-a269-7adcd38157a1', l='ServerLevel[world]', x=130.90, y=61.98, z=10.60, cpos=[8, 0], tl=102723, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[18:24:17] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/128, uuid='b0f42825-c27e-427d-9d2b-fec4f0319267', l='ServerLevel[world]', x=106.54, y=58.91, z=31.72, cpos=[6, 1], tl=102735, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[18:24:19] [Server thread/INFO]: Nicopowerxx1253 lost connection: Has sido PERMABANEADO
+[18:24:19] [Server thread/INFO]: Nicopowerxx1253 ha abandonado el servidor.
+[18:24:21] [Server thread/INFO]: MauGP issued server command: /pardon Nicopowerxx1253
+[18:24:21] [Server thread/INFO]: [MauGP: Unbanned Nicopowerxx1253]
+[18:24:22] [Server thread/INFO]: identidad303XDnt lost connection: Disconnected
+[18:24:22] [Server thread/INFO]: identidad303XDnt ha abandonado el servidor.
+[18:24:22] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[18:24:32] [User Authenticator #3/INFO]: UUID of player Nicopowerxx1253 is 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
+[18:24:32] [Server thread/INFO]: Nicopowerxx1253 se ha unido al servidor.
+[18:24:32] [Server thread/INFO]: Nicopowerxx1253[/127.36.78.88:59697] logged in with entity id 358638 at ([world]-41.5, 51.100000001490116, 36.5)
+[18:25:13] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[18:25:13] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[18:25:14] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[18:25:14] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[18:25:18] [Server thread/INFO]: MauGP issued server command: /tp Nicopowerxx1253
+[18:25:18] [Server thread/INFO]: [MauGP: Teleported MauGP to Nicopowerxx1253]
+[18:25:22] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[18:25:22] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[18:25:24] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[18:25:24] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[18:25:26] [Server thread/INFO]: MauGP issued server command: /tp Nicopowerxx1253 MauGP
+[18:25:26] [Server thread/INFO]: [MauGP: Teleported Nicopowerxx1253 to MauGP]
+[18:26:30] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[18:26:30] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[18:26:32] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[18:26:32] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[18:26:51] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:26:54] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/429079, uuid='e71ec00e-6b78-4ed1-83ee-7a707c52f7e6', l='ServerLevel[world]', x=73.03, y=74.31, z=20.18, cpos=[4, 1], tl=157, v=true] died: Demonio flotante was blown up by Ghast Demoníaco
+[18:26:55] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:03] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:09] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:14] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:15] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/428577, uuid='07a5de04-1d54-457f-b7a1-744bdf9f3d72', l='ServerLevel[world]', x=44.39, y=72.28, z=77.69, cpos=[2, 4], tl=594, v=true] died: Demonio flotante was shot by Nicopowerxx1253
+[18:27:27] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:30] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:33] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[18:27:36] [Server thread/INFO]: Set the weather to rain & thunder
+[18:27:36] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[18:27:36] [Server thread/INFO]: Nicopowerxx1253 ha muerto y ahora descanza en paz.
+[18:27:36] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Nicopowerxx1253. ¡HA SIDO PERMABANEADO!
+[18:27:36] [Server thread/INFO]: X: 57 || Y: 63 || Z: 32
+[18:27:36] [Server thread/INFO]: Nicopowerxx1253 was blown up by Ghast Demoníaco
+[18:27:38] [Server thread/INFO]: Nicopowerxx1253 lost connection: Has sido PERMABANEADO
+[18:27:38] [Server thread/INFO]: Nicopowerxx1253 ha abandonado el servidor.
+[18:27:39] [Server thread/INFO]: MauGP issued server command: /pardon Nicopowerxx1253
+[18:27:39] [Server thread/INFO]: [MauGP: Unbanned Nicopowerxx1253]
+[18:27:41] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[18:29:21] [Server thread/INFO]: MauGP lost connection: Disconnected
+[18:29:21] [Server thread/INFO]: MauGP ha abandonado el servidor.
