@@ -716,3 +716,25 @@ java.lang.IllegalStateException: Asynchronous Chunk getEntities call!
 [00:46:05] [Server thread/INFO]: nacholacabragod ha abandonado el servidor.
 [00:50:24] [Server thread/INFO]: MauGP lost connection: Disconnected
 [00:50:24] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[01:06:22] [User Authenticator #2/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[01:06:22] [Server thread/INFO]: MauGP se ha unido al servidor.
+[01:06:22] [Server thread/INFO]: MauGP[/127.75.54.12:56133] logged in with entity id 1561919 at ([world]69.2572229613684, 88.0, 52.95724568110463)
+[01:06:44] [Server thread/INFO]: MauGP issued server command: /pdc storm removehours 10000
+[01:06:45] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:06:48] [Server thread/INFO]: MauGP issued server command: /time set 0
+[01:06:48] [Server thread/INFO]: [MauGP: Set the time to 0]
+[01:06:53] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
+[01:07:08] [Server thread/INFO]: MauGP lost connection: Disconnected
+[01:07:08] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[01:07:29] [User Authenticator #3/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[01:07:29] [Server thread/INFO]: MauGP se ha unido al servidor.
+[01:07:29] [Server thread/INFO]: MauGP[/127.75.54.12:46531] logged in with entity id 1573405 at ([world]69.81878423449645, 88.0, 43.80849277895914)
+[01:08:15] [Server thread/INFO]: MauGP issued server command: /setblock ~ ~ ~ minecraft:black_concrete
+[01:08:15] [Server thread/INFO]: [MauGP: Changed the block at 72, 150, 42]
+[01:09:21] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 116 minecraft:black_concrete
+[01:09:21] [Server thread/INFO]: [MauGP: Successfully filled 73 block(s)]
+[01:09:34] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 116 minecraft:air
+[01:09:34] [Server thread/INFO]: [MauGP: Successfully filled 76 block(s)]
+[01:09:43] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 115 minecraft:air
+[01:09:50] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 115 minecraft:black_concrete
+[01:09:50] [Server thread/INFO]: [MauGP: Successfully filled 75 block(s)]

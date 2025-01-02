@@ -664,45 +664,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-02 00:32:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:basalt_deltas": "2025-01-02 00:35:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-01-02 00:19:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-02 00:35:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 00:40:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-01-02 00:36:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-02 00:35:25 +0000"
     },
     "done": true
   },
@@ -712,27 +676,39 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "obsidian": "2025-01-02 00:40:41 +0000"
+      "has_spider_eye": "2025-01-02 00:32:45 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:nether/root": {
     "criteria": {
-      "shot_arrow": "2025-01-02 00:39:24 +0000"
+      "entered_nether": "2025-01-02 00:35:25 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "entered_end": "2025-01-02 00:37:21 +0000"
+      "entered_nether": "2025-01-02 00:35:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_obsidian": "2025-01-02 00:40:41 +0000"
+      "minecraft:basalt_deltas": "2025-01-02 00:35:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-02 00:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-02 00:36:51 +0000"
     },
     "done": true
   },
@@ -742,15 +718,39 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:end/root": {
     "criteria": {
-      "fortress": "2025-01-02 00:35:26 +0000"
+      "entered_end": "2025-01-02 00:37:21 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-02 00:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-02 00:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 00:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 00:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 00:40:41 +0000"
     },
     "done": true
   },
