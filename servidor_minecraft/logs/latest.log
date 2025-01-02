@@ -226,3 +226,70 @@
 [06:05:47] [Server thread/INFO]: MauGP issued server command: /clone 71 213 41
 [06:06:04] [Server thread/INFO]: MauGP issued server command: /clone 71 213 41 143 150 41
 [06:06:25] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41
+[06:06:39] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41 71 213 41
+[06:06:58] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41 71 213 41 71 150 113 masked
+[06:06:58] [Server thread/INFO]: [MauGP: Successfully cloned 4672 block(s)]
+[06:07:18] [Server thread/INFO]: MauGP issued server command: /fill 142 151 42
+[06:07:29] [Server thread/INFO]: MauGP issued server command: /fill 142 151 42 72 151 112 minecraft:barrier
+[06:07:29] [Server thread/INFO]: [MauGP: Successfully filled 5041 block(s)]
+[06:07:46] [Server thread/INFO]: MauGP issued server command: /fill 72 151 112 minecraft:barrier
+[06:08:00] [Server thread/INFO]: MauGP issued server command: /fill 72 151 112 142 212 112 minecraft:barrier
+[06:08:00] [Server thread/INFO]: [MauGP: Successfully filled 4331 block(s)]
+[06:08:10] [Server thread/INFO]: MauGP issued server command: /fill 142 212 112 minecraft:barrier
+[06:08:21] [Server thread/INFO]: MauGP issued server command: /fill 142 212 112 142 152 42 minecraft:barrier
+[06:08:21] [Server thread/INFO]: [MauGP: Successfully filled 4270 block(s)]
+[06:08:39] [Server thread/INFO]: MauGP issued server command: /fill 142 212 42
+[06:08:49] [Server thread/INFO]: MauGP issued server command: /fill 142 212 42 72 152 42 minecraft:barrier
+[06:08:49] [Server thread/INFO]: [MauGP: Successfully filled 4270 block(s)]
+[06:08:56] [Server thread/INFO]: MauGP issued server command: /fill 72 152 42
+[06:09:17] [Server thread/INFO]: MauGP issued server command: /fill 72 152 42 72 212 112 minecraft:barrel
+[06:09:17] [Server thread/INFO]: [MauGP: Successfully filled 4331 block(s)]
+[06:09:20] [Server thread/INFO]: MauGP issued server command: /fill 72 152 42 72 212 112 minecraft:barrier
+[06:09:20] [Server thread/INFO]: [MauGP: Successfully filled 4331 block(s)]
+[06:09:28] [Server thread/INFO]: MauGP issued server command: /fill 72 212 112
+[06:09:39] [Server thread/INFO]: MauGP issued server command: /fill 72 212 112 142 212 42 minecraft:barrier
+[06:09:39] [Server thread/INFO]: [MauGP: Successfully filled 4763 block(s)]
+[06:10:01] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[06:10:01] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[06:10:06] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[06:10:06] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[06:10:14] [Server thread/INFO]: MauGP issued server command: /fill 143 214 113
+[06:10:24] [Server thread/INFO]: MauGP issued server command: /fill 143 214 113 71 214 41 minecraft:barrier
+[06:10:24] [Server thread/INFO]: [MauGP: Successfully filled 5329 block(s)]
+[06:10:34] [Server thread/INFO]: MauGP issued server command: /fill 70 214 40
+[06:10:48] [Server thread/INFO]: MauGP issued server command: /fill 70 214 40 70 149 114 minecraft:barrier
+[06:10:48] [Server thread/INFO]: [MauGP: Successfully filled 4948 block(s)]
+[06:11:09] [Server thread/INFO]: MauGP issued server command: /fill 70 214 40
+[06:11:22] [Server thread/INFO]: MauGP issued server command: /fill 70 214 40 144 149 40 minecraft:barrier
+[06:11:22] [Server thread/INFO]: [MauGP: Successfully filled 4883 block(s)]
+[06:11:43] [Server thread/INFO]: MauGP issued server command: /fill 143 149 40
+[06:11:56] [Server thread/INFO]: MauGP issued server command: /fill 143 149 40 144 214 114 minecraft:barrier
+[06:11:56] [Server thread/INFO]: [MauGP: Successfully filled 9693 block(s)]
+[06:12:11] [Server thread/INFO]: MauGP issued server command: /fill 143 149 40 144 214 114 minecraft:air
+[06:12:11] [Server thread/INFO]: [MauGP: Successfully filled 9900 block(s)]
+[06:12:30] [Server thread/INFO]: MauGP issued server command: /clone 71 150 113
+[06:12:43] [Server thread/INFO]: MauGP issued server command: /clone 71 150 113 71 213 41
+[06:12:55] [Server thread/INFO]: MauGP issued server command: /clone 71 150 113 71 213 41 143 150 113
+[06:12:55] [Server thread/INFO]: [MauGP: Successfully cloned 4672 block(s)]
+[06:13:08] [Server thread/INFO]: MauGP issued server command: /clone 71 150 113 71 213 41 143 150 41
+[06:13:08] [Server thread/INFO]: [MauGP: Successfully cloned 4672 block(s)]
+[06:13:17] [Server thread/INFO]: MauGP issued server command: /fill 143 150 114
+[06:13:29] [Server thread/INFO]: MauGP issued server command: /fill 143 150 114 143 213 185 air
+[06:13:29] [Server thread/INFO]: [MauGP: Successfully filled 4608 block(s)]
+[06:13:51] [Server thread/INFO]: MauGP issued server command: /fill 143 149 40 144 214 114 minecraft:barrier
+[06:13:51] [Server thread/INFO]: [MauGP: Successfully filled 9897 block(s)]
+[06:14:09] [Server thread/INFO]: MauGP issued server command: /clone 71 150 113 71 213 41 143 150 41
+[06:14:09] [Server thread/INFO]: [MauGP: Successfully cloned 4672 block(s)]
+[06:14:25] [Server thread/INFO]: MauGP issued server command: /fill 144 149 114
+[06:14:44] [Server thread/INFO]: MauGP issued server command: /fill 144 149 114 70 214 114 minecraft:barrier
+[06:14:44] [Server thread/INFO]: [MauGP: Successfully filled 4752 block(s)]
+[06:15:02] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[06:15:02] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[06:15:05] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[06:15:05] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[06:15:22] [Server thread/INFO]: MauGP issued server command: /fill 73 152 111
+[06:15:34] [Server thread/INFO]: MauGP issued server command: /fill 73 152 111 141 152 43 minecraft:light
+[06:15:34] [Server thread/INFO]: [MauGP: Successfully filled 4761 block(s)]
+[06:15:53] [Server thread/INFO]: MauGP issued server command: /give MauGP minecraft:light
+[06:15:53] [Server thread/INFO]: [MauGP: Gave 1 [Light] to MauGP]
+[06:16:24] [Server thread/INFO]: MauGP issued server command: /fill 73 211 43

@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-02 06:12:20 +0000",
       "minecraft:river": "2024-12-31 21:40:15 +0000",
       "minecraft:lukewarm_ocean": "2025-01-02 00:41:07 +0000",
       "minecraft:cold_ocean": "2025-01-02 05:41:23 +0000",
@@ -794,6 +795,24 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-02 01:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-02 06:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-02 06:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-02 06:09:59 +0000"
     },
     "done": true
   },
