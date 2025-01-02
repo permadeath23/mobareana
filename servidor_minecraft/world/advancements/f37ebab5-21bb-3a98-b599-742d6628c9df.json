@@ -100,7 +100,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2024-12-31 21:46:44 +0000"
+      "golden_apple": "2024-12-31 21:46:44 +0000",
+      "enchanted_golden_apple": "2025-01-02 00:38:48 +0000"
     },
     "done": false
   },
@@ -680,6 +681,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-02 00:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-02 00:38:45 +0000"
     },
     "done": true
   },
