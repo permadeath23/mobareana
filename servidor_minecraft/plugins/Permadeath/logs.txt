@@ -36,3 +36,5 @@
 [02/01/2025] 00:17:48 Se ha recargado el plugin
 [02/01/2025] 05:36:24 No se encontró WorldEdit
 [02/01/2025] 05:36:25 Se ha activado el plugin.
+[02/01/2025] 17:37:08 No se encontró WorldEdit
+[02/01/2025] 17:37:08 Se ha activado el plugin.
