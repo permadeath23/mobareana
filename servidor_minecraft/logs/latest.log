@@ -1,918 +1,127 @@
-[00:00:05] [Server thread/INFO]: nacholacabragod issued server command: /pdc summon
-[00:00:24] [Server thread/INFO]: nacholacabragod issued server command: /pdc locate beginning
-[00:00:57] [Server thread/INFO]: nacholacabragod issued server command: /pdc beginning
-[00:01:22] [Server thread/INFO]: nacholacabragod issued server command: /pdc info
-[00:01:35] [Server thread/INFO]: nacholacabragod issued server command: /pdc dias
-[00:02:06] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:12] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:12] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:13] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:13] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:14] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:14] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:16] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:wither_skeleton
-[00:02:27] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:27] [Server thread/INFO]: [nacholacabragod: Summoned new Ultra Esqueleto Científico]
-[00:02:29] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:29] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:29] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:29] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:30] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:30] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:30] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:30] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:31] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:31] [Server thread/INFO]: [nacholacabragod: Summoned new Ultra Esqueleto Demoníaco]
-[00:02:32] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:32] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:32] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:32] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:33] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:33] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:33] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:33] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:34] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:34] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:35] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:35] [Server thread/INFO]: [nacholacabragod: Summoned new Ultra Esqueleto Científico]
-[00:02:35] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:35] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:35] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:35] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:36] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:36] [Server thread/INFO]: [nacholacabragod: Summoned new Ultra Esqueleto Demoníaco]
-[00:02:37] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:37] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:37] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:37] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:38] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:38] [Server thread/INFO]: [nacholacabragod: Summoned new Ultra Esqueleto Demoníaco]
-[00:02:38] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:38] [Server thread/INFO]: [nacholacabragod: Summoned new Ultra Esqueleto Científico]
-[00:02:39] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:02:39] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:02:58] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:Ultra Esqueletio Cientifico
-[00:03:03] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
-java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
-	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
-	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
-	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
-	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:03:05] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
-java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
-	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
-	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
-	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
-	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
-	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
-	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
-	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
-	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:03:07] [Server thread/INFO]: nacholacabragod issued server command: /summon Ultra Esqueletio Cientifico
-[00:03:10] [Server thread/INFO]: MauGP issued server command: /summon minecraft:wither_skeleton{name:Ultra Esqueleto Demoníaco}
-[00:03:12] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:03:12] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:03:24] [Server thread/INFO]: nacholacabragod issued server command: /summon minecraft:skeleton
-[00:03:24] [Server thread/INFO]: [nacholacabragod: Summoned new Skeleton]
-[00:03:26] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
-[00:03:55] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:03:55] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:04:04] [Server thread/INFO]: nacholacabragod issued server command: /tp MauGP
-[00:04:04] [Server thread/INFO]: [nacholacabragod: Teleported nacholacabragod to MauGP]
-[00:04:08] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:04:08] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:04:22] [Async Chat Thread - #1/INFO]: [Not Secure] <MauGP> summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:04:25] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:04:25] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:04:33] [Server thread/INFO]: MauGP issued server command: /summon minecraft:wither_skeleton
-[00:04:34] [Server thread/INFO]: MauGP issued server command: /summon minecraft:wither_skeleton
-[00:04:35] [Server thread/INFO]: MauGP issued server command: /summon minecraft:wither_skeleton
-[00:04:35] [Server thread/INFO]: MauGP issued server command: /summon minecraft:wither_skeleton
-[00:05:07] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:05:07] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:05:22] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:05:22] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:05:30] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:05:30] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:05:56] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Esqueleto Emperador","color":"gold"}]'}
-[00:05:56] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Científico]
-[00:06:03] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:06:03] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:06:04] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Demoníaco","color":"gold"}]'}
-[00:06:04] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:07:29] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/950999, uuid='322cc36d-dccf-4a38-b5e9-3796dd389fa6', l='ServerLevel[world]', x=81.84, y=-32.32, z=31.84, cpos=[5, 1], tl=271, v=true] died: GIGA Slime suffocated in a wall
-[00:07:33] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":" Wither Skeleton Emperador","color":"gold"}]'}
-[00:07:33] [Server thread/INFO]: [MauGP: Summoned new  Wither Skeleton Emperador]
-[00:07:35] [Server thread/INFO]: Named entity EntitySkeletonWither[' Wither Skeleton Emperador'/956998, uuid='a0ffe52d-0340-4726-8b50-0bd71df0f0ab', l='ServerLevel[world]', x=88.80, y=87.00, z=37.16, cpos=[5, 2], tl=41, v=true] died:  Wither Skeleton Emperador was slain by MauGP
-[00:07:49] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Definitivo ","color":"gold"}]'}
-[00:07:49] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Definitivo ]
-[00:08:09] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Definitivo ","color":"gold"}]'}
-[00:08:09] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Definitivo ]
-[00:08:16] [Server thread/INFO]: MauGP issued server command: /summon minecraft:skeleton
-[00:08:16] [Server thread/INFO]: [MauGP: Summoned new Skeleton]
-[00:08:22] [Server thread/INFO]: MauGP issued server command: /summon minecraft:wither_skeleton
-[00:08:23] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/955944, uuid='767d301f-8b1b-4db9-ac78-00b1f91fd3aa', l='ServerLevel[world]', x=79.08, y=-33.00, z=29.08, cpos=[4, 1], tl=1061, v=true] died: GIGA Slime suffocated in a wall
-[00:08:23] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/955945, uuid='2a1c8ceb-020d-47d0-905e-37fac0ec17d1', l='ServerLevel[world]', x=83.92, y=-33.00, z=29.08, cpos=[5, 1], tl=1061, v=true] died: GIGA Slime suffocated in a wall
-[00:08:34] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Ultra Esqueleto Definitivo ","color":"gold"}]'}
-[00:08:34] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Definitivo ]
-[00:08:37] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/974152, uuid='ed552b74-775d-4d6a-8390-02f6783094d5', l='ServerLevel[world]', x=82.96, y=-33.00, z=28.04, cpos=[5, 1], tl=261, v=true] died: GIGA Slime suffocated in a wall
-[00:08:39] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo '/977406, uuid='af7e137a-a189-4bbe-bd25-f452a3328fab', l='ServerLevel[world]', x=87.75, y=87.00, z=46.38, cpos=[5, 2], tl=89, v=true] died: Ultra Esqueleto Definitivo  was slain by nacholacabragod using [Espada de Netherite]
-[00:08:41] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/978663, uuid='b7a6956f-c25f-4b47-badd-c708a0d38670', l='ServerLevel[world]', x=81.98, y=-33.00, z=27.52, cpos=[5, 1], tl=61, v=true] died: GIGA Slime suffocated in a wall
-[00:08:41] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/978664, uuid='6fa1c9be-6c08-48fb-8ee0-0f12a337585c', l='ServerLevel[world]', x=83.28, y=-33.00, z=28.48, cpos=[5, 1], tl=61, v=true] died: GIGA Slime suffocated in a wall
-[00:08:43] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/980018, uuid='2c2df431-2d30-4e48-8e9d-de88e71e4920', l='ServerLevel[world]', x=82.26, y=-32.75, z=27.26, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:08:43] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/980019, uuid='635751bb-ac49-42a5-961c-3e20cd1096d9', l='ServerLevel[world]', x=83.29, y=-32.98, z=27.77, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:08:43] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/980020, uuid='63c34121-4619-44bc-91f2-42c137d571e9', l='ServerLevel[world]', x=83.74, y=-32.75, z=28.16, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:08:43] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/980021, uuid='a2b4ac38-ef4f-4d9a-bd71-8b8425db5e3f', l='ServerLevel[world]', x=82.66, y=-32.98, z=28.75, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:08:43] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/980022, uuid='3744bfe8-fd2e-4c96-b39e-29c438575afa', l='ServerLevel[world]', x=83.74, y=-32.75, z=28.74, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:11:42] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
-[00:12:09] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperdor","color":"gold"}]'}
-[00:12:09] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperdor]
-[00:12:12] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperdor'/1049475, uuid='d8156eb1-84aa-4b41-ae06-7cf02847e0d2', l='ServerLevel[world]', x=95.80, y=87.00, z=49.55, cpos=[5, 3], tl=71, v=true] died: Wither Skeleton Emperdor was slain by MauGP
-[00:12:57] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperdor"}]'}
-[00:13:06] [Server thread/INFO]: MauGP issued server command: /summon minecraft:skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperdor"}]'}
-[00:13:35] [Server thread/INFO]: MauGP issued server command: /summon minecraft:skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperdor"}]'}
-[00:13:41] [Server thread/INFO]: MauGP issued server command: /summon minecraft:skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperdor"}]'}
-[00:13:41] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:13:43] [Server thread/INFO]: MauGP issued server command: /summon minecraft:skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperdor"}]'}
-[00:14:57] [Server thread/INFO]: MauGP issued server command: /summon minecraft:skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador"}]'}
-[00:14:57] [Server thread/INFO]: [MauGP: Summoned new Ultra Esqueleto Demoníaco]
-[00:15:04] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:15:04] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:15:11] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1126882, uuid='ec948348-f79c-4c6a-bfc0-f466a22550c8', l='ServerLevel[world]', x=84.16, y=87.00, z=13.63, cpos=[5, 0], tl=153, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:15:46] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:15:46] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:15:49] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1144582, uuid='27fcb966-bf20-4f84-992e-4059ff94a42e', l='ServerLevel[world]', x=89.32, y=87.00, z=25.94, cpos=[5, 1], tl=51, v=true] died: Wither Skeleton Emperador was slain by MauGP
-[00:15:51] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:15:51] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:16:33] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:wither_skeleton]
-[00:16:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo'/1148848, uuid='a911b0d9-ea47-44e9-a735-53006037b708', l='ServerLevel[world]', x=61.72, y=-7.00, z=24.49, cpos=[3, 1], tl=691, v=true] died: Ultra Esqueleto Definitivo was killed
-[00:16:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo'/1160838, uuid='13b54bbe-e28d-4af3-a428-a8e81ee21b78', l='ServerLevel[world]', x=37.50, y=-8.00, z=22.50, cpos=[2, 1], tl=46, v=true] died: Ultra Esqueleto Definitivo was killed
-[00:16:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1146157, uuid='d8508ba2-cd93-46a7-9a82-04343896240e', l='ServerLevel[world]', x=93.46, y=87.00, z=27.99, cpos=[5, 1], tl=840, v=true] died: Wither Skeleton Emperador was killed
-[00:16:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo'/1128416, uuid='db3b5137-7c7b-42c6-86e2-646eed5f1af7', l='ServerLevel[world]', x=161.44, y=23.00, z=80.50, cpos=[10, 5], tl=1703, v=true] died: Ultra Esqueleto Definitivo was killed
-[00:16:33] [Server thread/INFO]: [MauGP: Killed 53 entities]
-[00:16:45] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:wither_skeleton]
-[00:16:45] [Server thread/INFO]: [MauGP: Killed 45 entities]
-[00:17:07] [Server thread/INFO]: nacholacabragod issued server command: /pdc give endRelic
-[00:17:48] [Server thread/INFO]: nacholacabragod issued server command: /pdc cambiardia 50
-[00:17:48] [Server thread/INFO]: Se ha recargado el archivo de configuración y los mensajes.
-[00:17:48] [Server thread/INFO]: Algunos cambios pueden requerir un reinicio para funcionar correctamente.
-[00:17:48] [Server thread/INFO]: Nota importante: Algunos cambios pueden requerir un reinicio y la fecha puede no ser exacta.
-[00:17:56] [Server thread/INFO]: Named entity EntityCreeper['Ender Quantum Creeper'/1193417, uuid='89782d58-7faa-49ab-8977-c4409787dd83', l='ServerLevel[world]', x=79.70, y=87.00, z=23.26, cpos=[4, 1], tl=172, v=true] died: Ender Quantum Creeper was slain by nacholacabragod using [Espada de Netherite]
-[00:18:02] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:02] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:04] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:04] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:05] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:05] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:05] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:05] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:06] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:06] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:06] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1197760, uuid='5c268103-81b4-4897-9a72-52cb21bdd2cf', l='ServerLevel[world]', x=63.21, y=87.00, z=12.21, cpos=[3, 0], tl=85, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:18:07] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:wither_skeleton]
-[00:18:07] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1198579, uuid='46d0a0c4-8da4-491b-aac7-1b7aefb24b33', l='ServerLevel[world]', x=58.76, y=87.00, z=22.53, cpos=[3, 1], tl=40, v=true] died: Wither Skeleton Emperador was killed
-[00:18:07] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1198691, uuid='09d3310a-0712-485e-8b76-cf91e2cc4541', l='ServerLevel[world]', x=58.58, y=87.00, z=23.44, cpos=[3, 1], tl=31, v=true] died: Wither Skeleton Emperador was killed
-[00:18:07] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1198195, uuid='8faf34c5-4972-4130-8b00-4f78c6576df8', l='ServerLevel[world]', x=59.26, y=87.00, z=19.89, cpos=[3, 1], tl=65, v=true] died: Wither Skeleton Emperador was killed
-[00:18:07] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1198425, uuid='d2e4ebf0-2e91-4491-afa2-471b94a4715d', l='ServerLevel[world]', x=58.96, y=87.00, z=21.48, cpos=[3, 1], tl=50, v=true] died: Wither Skeleton Emperador was killed
-[00:18:07] [Server thread/INFO]: [MauGP: Killed 15 entities]
-[00:18:20] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:wither_skeleton]
-[00:18:20] [Server thread/INFO]: [MauGP: Killed 28 entities]
-[00:18:31] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:31] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:32] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:32] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:32] [Server thread/INFO]: MauGP issued server command: /summon skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:18:32] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:18:41] [Server thread/INFO]: Named entity EntitySkeleton['Wither Skeleton Emperador'/1205546, uuid='8194e942-be1e-4d4a-8cb0-bf6474c0cc6f', l='ServerLevel[world]', x=45.68, y=87.00, z=19.81, cpos=[2, 1], tl=175, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:18:52] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:skeleton]
-[00:18:52] [Server thread/INFO]: Named entity EntitySkeleton['Wither Skeleton Emperador'/1205667, uuid='c37107da-f817-4726-88fc-8f95e9c7802f', l='ServerLevel[world]', x=50.42, y=87.00, z=22.57, cpos=[3, 1], tl=388, v=true] died: Wither Skeleton Emperador was killed whilst fighting nacholacabragod
-[00:18:52] [Server thread/INFO]: [MauGP: Killed 20 entities]
-[00:19:17] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 84, 87, 24
-[00:19:17] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215391, uuid='57633098-00ed-4d96-beb5-136ad9220e2f', l='ServerLevel[world]', x=84.79, y=87.00, z=24.44, cpos=[5, 1], tl=74, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:19:17] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:19:18] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:19:19] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 87, 87, 23
-[00:19:19] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215633, uuid='b0e9b4d5-dd0f-46cb-b89c-de5f053ba36f', l='ServerLevel[world]', x=87.82, y=87.00, z=23.50, cpos=[5, 1], tl=101, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:19:19] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:19:19] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:19:20] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:19:20] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:19:21] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:19:21] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:19:21] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Gigante (84.79197080931274, 87.0, 24.4445600052262
-[00:19:21] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 94, 87, 25
-[00:19:21] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215517, uuid='8dcdd36e-c7cf-4c06-b252-74f1fd83dc2b', l='ServerLevel[world]', x=94.37, y=87.00, z=25.30, cpos=[5, 1], tl=157, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:19:21] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:19:22] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:19:22] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:19:23] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:19:23] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Gigante (87.81779619407207, 87.0, 23.50168964009733
-[00:19:23] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:19:24] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:19:25] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:19:25] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to Permadeath v1.3
-java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getBukkitEntity()" because the return value of "net.minecraft.world.entity.EntityTypes.spawn(net.minecraft.server.level.WorldServer, net.minecraft.core.BlockPosition, net.minecraft.world.entity.EnumMobSpawn, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)" is null
-	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
-	at tech.sebazcrc.permadeath.event.entity.SpawnListener.onSpawn(SpawnListener.java:127) ~[Permadeath-1.3.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:759) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:664) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.level.ServerLevel.addEntity(ServerLevel.java:1656) ~[?:?]
-	at net.minecraft.server.level.ServerLevel.addFreshEntity(ServerLevel.java:1564) ~[?:?]
-	at net.minecraft.world.level.ServerLevelAccessor.lambda$addFreshEntityWithPassengers$0(ServerLevelAccessor.java:16) ~[?:?]
-	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
-	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at net.minecraft.world.level.ServerLevelAccessor.addFreshEntityWithPassengers(ServerLevelAccessor.java:16) ~[?:?]
-	at net.minecraft.world.entity.EntityType.spawn(EntityType.java:433) ~[?:?]
-	at net.minecraft.world.entity.EntityType.spawn(EntityType.java:403) ~[?:?]
-	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
-	at tech.sebazcrc.permadeath.task.GatoGalacticoTask.run(GatoGalacticoTask.java:170) ~[Permadeath-1.3.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1480) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:19:25] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Phantom (94.37031052653572, 87.0, 25.296929095180253
-[00:19:43] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 100
-[00:19:43] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
-[00:20:03] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
-[00:20:03] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
-[00:20:08] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 73, 87, 22
-[00:20:08] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215516, uuid='39d1f5e3-092c-4109-8b5f-80b2c3e03f89', l='ServerLevel[world]', x=73.43, y=87.00, z=22.16, cpos=[4, 1], tl=1093, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:20:08] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 73, 87, 21
-[00:20:08] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215283, uuid='8e6bd5c1-e4af-4855-92a3-bdb4021d079f', l='ServerLevel[world]', x=73.32, y=87.00, z=21.10, cpos=[4, 1], tl=1108, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:20:08] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:08] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:09] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 71, 87, 21
-[00:20:09] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215353, uuid='5778279b-a884-4ee9-b178-5b75861938fe', l='ServerLevel[world]', x=71.50, y=87.00, z=21.49, cpos=[4, 1], tl=1122, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:20:09] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 70, 87, 23
-[00:20:09] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215390, uuid='d09f6ba7-cf8f-462d-bb48-64d0045c3cff', l='ServerLevel[world]', x=70.67, y=87.00, z=23.02, cpos=[4, 1], tl=1117, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:10] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 72, 87, 19
-[00:20:10] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215284, uuid='2a42126c-ebaa-4f41-afaf-b1fb8bcf81f4', l='ServerLevel[world]', x=72.53, y=87.00, z=19.16, cpos=[4, 1], tl=1158, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
-[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:11] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 75, 87, 19
-[00:20:11] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215203, uuid='1ebdd5d3-a382-450f-9ab2-b0ce426c7b47', l='ServerLevel[world]', x=75.33, y=87.00, z=19.95, cpos=[4, 1], tl=1166, v=true] died: Gato Galáctico was slain by MauGP
-[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:12] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Endermite Misterioso (73.43466005553046, 87.0, 22.15741549322573
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:12] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Slime (73.31705598094571, 87.0, 21.097171120400958
-[00:20:12] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 80, 88, 22
-[00:20:12] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215354, uuid='a4a5796f-b1a3-4866-a0dd-0223e86a35c4', l='ServerLevel[world]', x=80.11, y=88.00, z=22.04, cpos=[5, 1], tl=1188, v=true] died: Gato Galáctico was slain by MauGP
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
-[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:13] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Slime (71.49587345986839, 87.0, 21.4874129579141
-[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:13] [Server thread/INFO]: Un gato supernova va a explotar en: 70 87 23 (world).
-[00:20:13] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Gato Supernova (70.67275105951526, 87.0, 23.02136884767635
-[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
-[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:14] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:14] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1228050, uuid='7279d47c-e262-4e4e-9ec8-400e5ef8f504', l='ServerLevel[world]', x=76.82, y=87.83, z=8.48, cpos=[4, 0], tl=22, v=true] died: GIGA Slime was slain by MauGP
-[00:20:14] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
-[00:20:14] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:14] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Wither Skeleton Emperador (72.52710250461054, 87.0, 19.163274346170628
-[00:20:15] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:15] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Pufferfish invulnerable (75.33232869973348, 87.0, 19.949132245136994
-[00:20:15] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
-[00:20:16] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
-[00:20:16] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Ultra Ravager (80.11263690486352, 88.0, 22.040576275661916
-[00:20:20] [Server thread/INFO]: Named entity EntityCat['Gato Supernova'/1228051, uuid='9a84193f-c644-459c-a516-f4cc99aacca6', l='ServerLevel[world]', x=70.31, y=87.00, z=23.83, cpos=[4, 1], tl=136, v=true] died: Gato Supernova was slain by MauGP
-[00:20:43] [Server thread/INFO]: nacholacabragod issued server command: /give @s minecraft:barrier
-[00:20:43] [Server thread/INFO]: [nacholacabragod: Gave 1 [Barrier] to nacholacabragod]
-[00:20:48] [Server thread/INFO]: nacholacabragod issued server command: /give @s minecraft:barrier
-[00:20:48] [Server thread/INFO]: [nacholacabragod: Gave 1 [Barrier] to nacholacabragod]
-[00:21:27] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:21:27] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:21:34] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1243915, uuid='353371d2-d018-4328-9b4d-cee4ec8ab3ba', l='ServerLevel[world]', x=73.46, y=87.00, z=15.70, cpos=[4, 0], tl=142, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:21:37] [Server thread/INFO]: Named entity EntityRavager['Ultra Ravager'/1228889, uuid='24541651-5015-490e-a2b6-9a58c6f3f075', l='ServerLevel[world]', x=74.09, y=89.00, z=12.95, cpos=[4, 0], tl=1618, v=true] died: Ultra Ravager was slain by MauGP
-[00:21:39] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1228890, uuid='8228a75b-d80e-467a-b7d2-02aa0fd181a7', l='ServerLevel[world]', x=74.75, y=87.00, z=12.43, cpos=[4, 0], tl=1648, v=true] died: Carlos el Esclavo was slain by MauGP
-[00:21:39] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1228891, uuid='8cd8bd76-aaeb-4865-ac38-6d94edd332aa', l='ServerLevel[world]', x=75.92, y=88.46, z=10.91, cpos=[4, 0], tl=1660, v=true] died, message: 'Jess la Emperatriz was slain by MauGP'
-[00:21:39] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1228891, uuid='8cd8bd76-aaeb-4865-ac38-6d94edd332aa', l='ServerLevel[world]', x=75.92, y=88.46, z=10.91, cpos=[4, 0], tl=1660, v=true] died: Jess la Emperatriz was slain by MauGP
-[00:21:45] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1228474, uuid='08a8c15a-aa06-44cb-983c-6f51c3120da3', l='ServerLevel[world]', x=70.64, y=87.00, z=12.59, cpos=[4, 0], tl=1816, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using [Panic Potion]
-[00:22:44] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1259566, uuid='4aedc54c-5eef-4fdc-9947-ef5f53588d89', l='ServerLevel[world]', x=82.16, y=-32.32, z=31.84, cpos=[5, 1], tl=71, v=true] died: GIGA Slime suffocated in a wall
-[00:22:50] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
-[00:22:50] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:23:04] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo'/1263980, uuid='b04eb8af-0054-4e6b-9b8d-20925f1bf07f', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=49, v=true] died: Ultra Esqueleto Definitivo was slain by MauGP
-[00:23:34] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:23:34] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:23:38] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1260543, uuid='1294766f-476b-400c-8cc8-2f02c14b58dc', l='ServerLevel[world]', x=80.08, y=-33.00, z=29.92, cpos=[5, 1], tl=1061, v=true] died: GIGA Slime suffocated in a wall
-[00:23:38] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1260544, uuid='2157aaae-a320-4385-82d6-1a29649b2bc0', l='ServerLevel[world]', x=84.92, y=-33.00, z=29.92, cpos=[5, 1], tl=1061, v=true] died: GIGA Slime suffocated in a wall
-[00:23:41] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1269609, uuid='9e3faccb-6b5e-4c69-8d97-2d52ebbc7e61', l='ServerLevel[world]', x=68.51, y=87.64, z=15.46, cpos=[4, 0], tl=300, v=true] died: Wither Skeleton Emperador was slain by MauGP
-[00:23:45] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:23:45] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:23:56] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1274948, uuid='65e90c25-71da-4395-85bc-6312e5d7128f', l='ServerLevel[world]', x=61.59, y=87.00, z=11.61, cpos=[3, 0], tl=113, v=true] died: ither Skeleton Emperador was slain by MauGP
-[00:24:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1272617, uuid='7ceece5d-b869-40b7-9a78-02b3fa79bb4a', l='ServerLevel[world]', x=85.96, y=-32.58, z=29.04, cpos=[5, 1], tl=518, v=true] died: GIGA Slime suffocated in a wall
-[00:24:09] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1278097, uuid='813e19ea-16aa-4e83-baef-36757c4a3fee', l='ServerLevel[world]', x=86.48, y=-33.00, z=28.52, cpos=[5, 1], tl=61, v=true] died: GIGA Slime suffocated in a wall
-[00:24:11] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1279049, uuid='32e762c3-181b-480f-b474-44e9893d149e', l='ServerLevel[world]', x=85.89, y=-32.98, z=28.26, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:24:11] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1279050, uuid='1a29aa2d-bedc-42bd-a5c1-967265f55f46', l='ServerLevel[world]', x=86.45, y=-32.75, z=28.26, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
-[00:24:23] [Server thread/INFO]: MauGP issued server command: /time set 0
-[00:24:23] [Server thread/INFO]: [MauGP: Set the time to 0]
-[00:24:27] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1277362, uuid='f982e66e-2786-404c-8381-0e03334f6018', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=477, v=true] died: ither Skeleton Emperador was slain by MauGP
-[00:24:28] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1282380, uuid='01c98cd3-cded-4931-bddc-98382a20e6b8', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=42, v=true] died: ither Skeleton Emperador was slain by MauGP
-[00:24:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1283648, uuid='23186169-35d5-49b8-93b9-36f6cf2c12f0', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=28, v=true] died: Wither Skeleton Emperador was slain by MauGP
-[00:24:46] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:24:46] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:24:55] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1285298, uuid='e0b69331-d13c-4429-b276-0e83ee04e39a', l='ServerLevel[world]', x=65.50, y=87.00, z=16.50, cpos=[4, 1], tl=320, v=true] died: ither Skeleton Emperador was slain by MauGP
-[00:24:56] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1285018, uuid='26801fea-8035-416a-8751-7eda564b257d', l='ServerLevel[world]', x=59.93, y=87.00, z=11.35, cpos=[3, 0], tl=359, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:25:03] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1289995, uuid='66e3cfe1-c4c1-411c-ac72-9a61da4af0ad', l='ServerLevel[world]', x=65.50, y=87.00, z=16.50, cpos=[4, 1], tl=37, v=true] died: Wither Skeleton Emperador was slain by MauGP
-[00:25:03] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1284801, uuid='a83adc08-4292-493b-8928-03d415379c3e', l='ServerLevel[world]', x=55.35, y=62.00, z=9.38, cpos=[3, 0], tl=525, v=true] died: Wither Skeleton Emperador was shot by nacholacabragod using [Arco de Gigante]
-[00:25:16] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1291753, uuid='085510ef-e808-4e30-8f1f-8d8c8e0742c1', l='ServerLevel[world]', x=63.40, y=87.00, z=16.42, cpos=[3, 1], tl=124, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:25:31] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1294045, uuid='2e64e352-d248-4757-94ed-c1af8541b624', l='ServerLevel[world]', x=59.89, y=87.00, z=26.14, cpos=[3, 1], tl=207, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:25:34] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:25:34] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:25:35] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1293993, uuid='b2d3be45-ec72-4f4b-ba14-efa877b79f0d', l='ServerLevel[world]', x=65.91, y=87.00, z=31.80, cpos=[4, 1], tl=292, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:25:35] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1294018, uuid='e662c508-e236-47c5-87e9-db6f0254da7d', l='ServerLevel[world]', x=66.03, y=87.00, z=30.98, cpos=[4, 1], tl=305, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:25:37] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1294131, uuid='867201d0-de2f-4194-bd64-2f832f1b45bd', l='ServerLevel[world]', x=67.84, y=87.00, z=28.48, cpos=[4, 1], tl=325, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:25:50] [Server thread/INFO]: nacholacabragod has made the advancement [Ice Bucket Challenge]
-[00:26:17] [Server thread/INFO]: nacholacabragod has made the advancement [We Need to Go Deeper]
-[00:26:31] [Server thread/INFO]: nacholacabragod issued server command: /locate structure minecraft:fortress
-[00:26:31] [Server thread/INFO]: Locating element minecraft:fortress took 19 ms
-[00:26:34] [Server thread/INFO]: nacholacabragod issued server command: /tp @s -768 ~ -816
-[00:26:35] [Server thread/INFO]: [nacholacabragod: Teleported nacholacabragod to -767.500000, 51.040017, -815.500000]
-[00:26:35] [Server thread/WARN]: nacholacabragod moved too quickly! -763.560993657441,0.0,-813.3485229813252
-[00:26:43] [Server thread/INFO]: nacholacabragod has made the advancement [A Terrible Fortress]
-[00:27:24] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1316378, uuid='373485d3-1e0a-4b25-be43-57a25533789a', l='ServerLevel[world_nether]', x=-753.26, y=45.00, z=-880.23, cpos=[-48, -56], tl=767, v=true] died, message: 'Jess la Emperatriz hit the ground too hard'
-[00:27:24] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1316378, uuid='373485d3-1e0a-4b25-be43-57a25533789a', l='ServerLevel[world_nether]', x=-753.26, y=45.00, z=-880.23, cpos=[-48, -56], tl=767, v=true] died: Jess la Emperatriz fell from a high place
-[00:27:46] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1324922, uuid='714986fe-0694-401b-8162-410255f76491', l='ServerLevel[world_nether]', x=-724.82, y=83.91, z=-862.02, cpos=[-46, -54], tl=393, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:27:46] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1324922, uuid='714986fe-0694-401b-8162-410255f76491', l='ServerLevel[world_nether]', x=-724.82, y=83.91, z=-862.02, cpos=[-46, -54], tl=393, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:27:59] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1324921, uuid='17468e45-ed84-45e3-a7a2-ab252fdaf817', l='ServerLevel[world_nether]', x=-726.02, y=81.65, z=-861.64, cpos=[-46, -54], tl=667, v=true] died: Carlos el Esclavo suffocated in a wall
-[00:28:20] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1335096, uuid='c2b1597f-c088-418d-9972-fc09a683dcd7', l='ServerLevel[world]', x=4.84, y=26.00, z=138.16, cpos=[0, 8], tl=71, v=true] died: GIGA Slime suffocated in a wall
-[00:29:06] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1344989, uuid='84a34365-1fd6-4e4e-9d7a-d40ac84d1023', l='ServerLevel[world_nether]', x=-701.31, y=72.00, z=-840.77, cpos=[-44, -53], tl=51, v=true] died, message: 'Jess la Emperatriz was slain by Ultra Ravager'
-[00:29:06] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1344989, uuid='84a34365-1fd6-4e4e-9d7a-d40ac84d1023', l='ServerLevel[world_nether]', x=-701.31, y=72.00, z=-840.77, cpos=[-44, -53], tl=51, v=true] died: Jess la Emperatriz was slain by Ultra Ravager
-[00:29:11] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1334496, uuid='821a303f-b978-4468-8ec6-c92d9ddd2fd0', l='ServerLevel[world_nether]', x=-705.78, y=78.00, z=-853.70, cpos=[-45, -54], tl=1160, v=true] died, message: 'Jess la Emperatriz was slain by Ultra Ravager'
-[00:29:11] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1334496, uuid='821a303f-b978-4468-8ec6-c92d9ddd2fd0', l='ServerLevel[world_nether]', x=-705.78, y=78.00, z=-853.70, cpos=[-45, -54], tl=1160, v=true] died: Jess la Emperatriz was slain by Ultra Ravager
-[00:29:44] [Server thread/INFO]: nacholacabragod issued server command: /mobcap
-[00:29:53] [Server thread/INFO]: nacholacabragod issued server command: /clone
-[00:30:01] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:dragon_fireball]
-[00:30:01] [Server thread/INFO]: [MauGP: Killed 2 entities]
-[00:30:36] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1361298, uuid='e79757a8-9a4b-46d2-8dff-277ab0c5f42f', l='ServerLevel[world_nether]', x=-827.61, y=104.11, z=-904.41, cpos=[-52, -57], tl=235, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:30:36] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1361298, uuid='e79757a8-9a4b-46d2-8dff-277ab0c5f42f', l='ServerLevel[world_nether]', x=-827.61, y=104.11, z=-904.41, cpos=[-52, -57], tl=235, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:30:42] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1315305, uuid='0778a41d-058d-4192-b7c1-53384ce54d52', l='ServerLevel[world_nether]', x=-776.42, y=96.14, z=-801.58, cpos=[-49, -51], tl=4825, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:30:47] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1361297, uuid='7dba05e0-2a0f-492e-b58b-c6f50479e878', l='ServerLevel[world_nether]', x=-835.36, y=103.65, z=-896.30, cpos=[-53, -57], tl=464, v=true] died: Carlos el Esclavo suffocated in a wall
-[00:31:43] [Server thread/INFO]: MauGP issued server command: /summon dragon_fireball ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]',HandItems:[{Count:1}],ArmorItems:[{Count:1}],HandDropChances:[0f],ArmorDropChances:[0f]}
-[00:31:43] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
-[00:31:50] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1329601, uuid='a2c36235-257b-4179-8757-e779d7a732d3', l='ServerLevel[world_nether]', x=-770.58, y=78.00, z=-779.58, cpos=[-49, -49], tl=4827, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:31:53] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:dragon_fireball]
-[00:31:53] [Server thread/INFO]: [MauGP: Killed Wither Skeleton Emperador]
-[00:32:05] [Server thread/INFO]: MauGP issued server command: /summon dragon_fireball ~ ~ ~ {HandItems:[{Count:1}],ArmorItems:[{Count:1}],HandDropChances:[0f],ArmorDropChances:[0f]}
-[00:32:05] [Server thread/INFO]: [MauGP: Summoned new Dragon Fireball]
-[00:32:08] [Server thread/INFO]: nacholacabragod issued server command: /fill -672 59
-[00:32:08] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:dragon_fireball]
-[00:32:08] [Server thread/INFO]: [MauGP: Killed Dragon Fireball]
-[00:32:37] [Server thread/INFO]: Named entity EntityRavager['Ultra Ravager'/1371192, uuid='710a91d1-bfb0-4570-afdb-59f5bbfb6df8', l='ServerLevel[world_nether]', x=-694.50, y=35.00, z=-828.50, cpos=[-44, -52], tl=1675, v=true] died: Ultra Ravager suffocated in a wall
-[00:32:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1378638, uuid='d2c3d2e8-18e7-442f-8166-c1e8ad9ff70d', l='ServerLevel[world_nether]', x=-768.08, y=78.00, z=-781.92, cpos=[-49, -49], tl=1072, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:32:58] [Server thread/INFO]: nacholacabragod issued server command: /fill -689 53 -754
-[00:32:59] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1389552, uuid='60532a3c-af78-4a09-868c-0dd3570ea05d', l='ServerLevel[world_nether]', x=-770.04, y=78.00, z=-782.96, cpos=[-49, -49], tl=276, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:33:04] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1392930, uuid='60d91acc-21bd-4ced-82d7-c15a78e2b94e', l='ServerLevel[world_nether]', x=-769.52, y=79.00, z=-783.69, cpos=[-49, -49], tl=66, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:33:10] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1389553, uuid='43603b69-88d2-4b42-914c-6633ec88fcf8', l='ServerLevel[world_nether]', x=-767.96, y=79.00, z=-782.96, cpos=[-48, -49], tl=497, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:33:15] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1395240, uuid='21288e79-c4f9-43c5-8edd-465dc2bccd90', l='ServerLevel[world_nether]', x=-768.41, y=79.00, z=-783.59, cpos=[-49, -49], tl=64, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:33:17] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1392580, uuid='42f2c2a5-31c1-4889-8a72-5fa7da6650ea', l='ServerLevel[world_nether]', x=-719.01, y=63.99, z=-761.48, cpos=[-45, -48], tl=366, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:33:17] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1392580, uuid='42f2c2a5-31c1-4889-8a72-5fa7da6650ea', l='ServerLevel[world_nether]', x=-719.01, y=63.99, z=-761.48, cpos=[-45, -48], tl=366, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:33:21] [Server thread/INFO]: nacholacabragod issued server command: /fill -689 53 -754 -729 59 -772
-[00:33:24] [Server thread/INFO]: nacholacabragod issued server command: /fill -689 53 -754 -729 59 -772 air
-[00:33:24] [Server thread/INFO]: [nacholacabragod: Successfully filled 4309 block(s)]
-[00:33:25] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1392579, uuid='23f4ee3f-e1d3-4d3a-8c31-5b2030442dee', l='ServerLevel[world_nether]', x=-719.01, y=62.53, z=-761.48, cpos=[-45, -48], tl=513, v=true] died: Carlos el Esclavo suffocated in a wall
-[00:33:32] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1350398, uuid='7b9632ff-5899-4613-a821-ef456a2c5e20', l='ServerLevel[world_nether]', x=-748.58, y=90.14, z=-800.58, cpos=[-47, -51], tl=4819, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:33:42] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1371194, uuid='f100a5f3-8c1e-4ebc-a0f8-50c3e7411560', l='ServerLevel[world_nether]', x=-689.40, y=48.73, z=-853.51, cpos=[-44, -54], tl=2982, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:33:42] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1371194, uuid='f100a5f3-8c1e-4ebc-a0f8-50c3e7411560', l='ServerLevel[world_nether]', x=-689.40, y=48.73, z=-853.51, cpos=[-44, -54], tl=2982, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:34:00] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1371193, uuid='a6d2b37b-941c-4a04-a370-4281f0cf0574', l='ServerLevel[world_nether]', x=-682.32, y=48.00, z=-855.61, cpos=[-43, -54], tl=3335, v=true] died: Carlos el Esclavo was killed by nacholacabragod using [Panic Potion]
-[00:34:03] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1400650, uuid='d28d7aee-ec8a-44f1-a4a3-4f802d86eb71', l='ServerLevel[world_nether]', x=-723.98, y=48.11, z=-876.02, cpos=[-46, -55], tl=480, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:34:03] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1400650, uuid='d28d7aee-ec8a-44f1-a4a3-4f802d86eb71', l='ServerLevel[world_nether]', x=-723.98, y=48.11, z=-876.02, cpos=[-46, -55], tl=480, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:34:51] [Server thread/INFO]: MauGP issued server command: /pdc dias
-[00:34:53] [Server thread/INFO]: nacholacabragod issued server command: /pdc dias
-[00:34:58] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1378637, uuid='d22ec2ad-ab33-4482-9c27-3ad02b76fb64', l='ServerLevel[world_nether]', x=-772.92, y=78.00, z=-781.92, cpos=[-49, -49], tl=3739, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:34:58] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
-[00:35:05] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1369296, uuid='7e1a0bc4-ac52-401a-b48e-94c1c2a8e068', l='ServerLevel[world_nether]', x=-728.58, y=70.16, z=-831.44, cpos=[-46, -52], tl=4824, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:35:05] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1369403, uuid='6890442a-c11b-4cb4-a0bc-a1204d1bdf4d', l='ServerLevel[world_nether]', x=-742.42, y=63.00, z=-759.42, cpos=[-47, -48], tl=4819, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:35:09] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:35:09] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:35:20] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1411290, uuid='f2b13fb3-90e7-4f46-a27c-a4519f9c67a7', l='ServerLevel[world_nether]', x=-702.11, y=53.00, z=-742.06, cpos=[-44, -47], tl=997, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using magic
-[00:35:25] [Server thread/INFO]: MauGP issued server command: /tp nacholacabragod
-[00:35:25] [Server thread/INFO]: MauGP has made the advancement [We Need to Go Deeper]
-[00:35:25] [Server thread/INFO]: [MauGP: Teleported MauGP to nacholacabragod]
-[00:35:26] [Server thread/INFO]: MauGP has made the advancement [A Terrible Fortress]
-[00:35:27] [Server thread/INFO]: Named entity CustomGhast['Demonio flotante'/1412782, uuid='cbaa58bd-8bf0-4152-9068-4951fcef250f', l='ServerLevel[world_nether]', x=-721.00, y=61.00, z=-749.00, cpos=[-46, -47], tl=1016, v=true] died: Demonio flotante suffocated in a wall
-[00:35:38] [Server thread/INFO]: Named entity CustomGhast['Demonio flotante'/1413071, uuid='6d53df39-4286-4cf5-ba60-c1154a885083', l='ServerLevel[world_nether]', x=-682.00, y=75.00, z=-855.00, cpos=[-43, -54], tl=1204, v=true] died: Demonio flotante suffocated in a wall
-[00:35:44] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:35:44] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:36:03] [Server thread/INFO]: nacholacabragod issued server command: /pdc give netheritearmor
-[00:36:06] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1423268, uuid='3da95ff7-7d5c-4bd2-9185-d80a6aa44ddf', l='ServerLevel[world_nether]', x=-703.37, y=61.11, z=-855.19, cpos=[-44, -54], tl=348, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:36:06] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1423268, uuid='3da95ff7-7d5c-4bd2-9185-d80a6aa44ddf', l='ServerLevel[world_nether]', x=-703.37, y=61.11, z=-855.19, cpos=[-44, -54], tl=348, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:36:10] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:36:10] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:36:17] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:36:23] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1411771, uuid='7a5a2a38-0ecc-4b36-8988-a5d2941bbbd1', l='ServerLevel[world_nether]', x=-735.88, y=53.00, z=-747.06, cpos=[-46, -47], tl=2231, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using magic
-[00:36:45] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:36:45] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:36:53] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:36:53] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:37:09] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:10] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1394925, uuid='e649daff-90ee-46d1-8e45-1738f75b180d', l='ServerLevel[world_nether]', x=-723.58, y=80.00, z=-801.42, cpos=[-46, -51], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:37:12] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1423685, uuid='da7db108-b02f-4f9d-a8f5-0e051afb1b64', l='ServerLevel[world_nether]', x=-665.88, y=49.46, z=-813.53, cpos=[-42, -51], tl=342, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:37:12] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1423685, uuid='da7db108-b02f-4f9d-a8f5-0e051afb1b64', l='ServerLevel[world_nether]', x=-665.88, y=49.46, z=-813.53, cpos=[-42, -51], tl=342, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:37:13] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:21] [Server thread/INFO]: MauGP has made the advancement [The End?]
-[00:37:21] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[00:37:21] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[00:37:26] [Craft Scheduler Thread - 6 - Permadeath/ERROR]: Thread Craft Scheduler Thread - 6 - Permadeath failed main thread check: Chunk getEntities call
-java.lang.Throwable: null
-	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.level.ServerLevel.getEntities(ServerLevel.java:2563) ~[?:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.getNMSEntities(CraftWorld.java:1058) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftRegionAccessor.getEntities(CraftRegionAccessor.java:445) ~[paper-1.20.jar:git-Paper-17]
-	at tech.sebazcrc.permadeath.event.player.PlayerListener$13.run(PlayerListener.java:877) ~[Permadeath-1.3.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.jar:git-Paper-17]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.jar:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:37:26] [Craft Scheduler Thread - 6 - Permadeath/WARN]: [Permadeath] Plugin Permadeath v1.3 generated an exception while executing task 106
-java.lang.IllegalStateException: Asynchronous Chunk getEntities call!
-	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:16) ~[paper-1.20.jar:git-Paper-17]
-	at net.minecraft.server.level.ServerLevel.getEntities(ServerLevel.java:2563) ~[?:?]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.getNMSEntities(CraftWorld.java:1058) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.craftbukkit.v1_20_R1.CraftRegionAccessor.getEntities(CraftRegionAccessor.java:445) ~[paper-1.20.jar:git-Paper-17]
-	at tech.sebazcrc.permadeath.event.player.PlayerListener$13.run(PlayerListener.java:877) ~[Permadeath-1.3.jar:?]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.jar:git-Paper-17]
-	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.jar:git-Paper-17]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.jar:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[00:37:35] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:39] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1400799, uuid='a961762c-aa82-438b-8b63-0d818c16b65b', l='ServerLevel[world_nether]', x=-758.42, y=103.00, z=-801.42, cpos=[-48, -51], tl=4816, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:37:42] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:45] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:51] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:53] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[00:37:58] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:37:59] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1404651, uuid='9c6f8582-5f31-4dbc-a46e-1ea34e681608', l='ServerLevel[world_nether]', x=-766.58, y=100.00, z=-808.58, cpos=[-48, -51], tl=4825, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:38:07] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:38:12] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:38:13] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:38:13] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:38:20] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1423562, uuid='c882ffb8-18be-40d0-b011-96999146c7f1', l='ServerLevel[world_nether]', x=-688.71, y=41.46, z=-850.65, cpos=[-44, -54], tl=2207, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:38:20] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1423562, uuid='c882ffb8-18be-40d0-b011-96999146c7f1', l='ServerLevel[world_nether]', x=-688.71, y=41.46, z=-850.65, cpos=[-44, -54], tl=2207, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:38:42] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1424098, uuid='43406ab5-2b68-4d5f-9660-1c71edb33480', l='ServerLevel[world_nether]', x=-760.77, y=103.00, z=-799.08, cpos=[-48, -50], tl=1219, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:38:53] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:38:53] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:39:01] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:39:04] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:39:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1418980, uuid='4eeae411-633c-4084-a6a2-b9168c2b979b', l='ServerLevel[world_nether]', x=-788.42, y=84.00, z=-723.42, cpos=[-50, -46], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:39:07] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1419010, uuid='d8883a58-c15c-4d56-9c43-7929340e5592', l='ServerLevel[world_nether]', x=-720.42, y=103.00, z=-787.58, cpos=[-46, -50], tl=4828, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:39:07] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1419075, uuid='29e27845-06aa-4fe1-b7bd-dce69cdca836', l='ServerLevel[world_nether]', x=-664.42, y=41.16, z=-655.58, cpos=[-42, -41], tl=4820, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:39:12] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1425228, uuid='14af0eb2-30b7-49a6-a328-135a97426a2d', l='ServerLevel[world_nether]', x=-750.46, y=61.46, z=-780.50, cpos=[-47, -49], tl=457, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:39:12] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1425228, uuid='14af0eb2-30b7-49a6-a328-135a97426a2d', l='ServerLevel[world_nether]', x=-750.46, y=61.46, z=-780.50, cpos=[-47, -49], tl=457, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:39:12] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:39:15] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:39:16] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:39:16] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:39:24] [Server thread/INFO]: MauGP has made the advancement [Take Aim]
-[00:39:25] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1422948, uuid='9f1c404b-6646-42c3-99fd-46b08e4c204e', l='ServerLevel[world_nether]', x=-737.58, y=77.14, z=-723.42, cpos=[-47, -46], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:39:46] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:39:46] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:39:58] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:39:58] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:40:01] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1425405, uuid='605a92f2-4a32-4969-8d62-0146f39242bc', l='ServerLevel[world_nether]', x=-786.92, y=84.00, z=-725.92, cpos=[-50, -46], tl=1071, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:02] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1425413, uuid='a086bcb8-cc88-4299-ba1b-b5d51abb6ad7', l='ServerLevel[world_nether]', x=-665.82, y=41.00, z=-657.08, cpos=[-42, -42], tl=1071, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:15] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426465, uuid='8c556c22-9a18-44fe-9191-9b2a8ea6e285', l='ServerLevel[world_nether]', x=-785.96, y=84.00, z=-725.96, cpos=[-50, -46], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:16] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426472, uuid='fcae9c0f-fe60-4957-9397-c79f9aabf33d', l='ServerLevel[world_nether]', x=-666.96, y=41.00, z=-658.96, cpos=[-42, -42], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:16] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426474, uuid='abf6b71d-f75d-4dbc-9633-eda3851abd5c', l='ServerLevel[world_nether]', x=-666.96, y=41.00, z=-656.04, cpos=[-42, -42], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:19] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426570, uuid='741cfe9b-88d4-49e7-9d38-2d0a0ae64f98', l='ServerLevel[world_nether]', x=-786.48, y=84.00, z=-726.48, cpos=[-50, -46], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:19] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426571, uuid='f9205629-cc80-4a60-b695-8c0cce109a25', l='ServerLevel[world_nether]', x=-785.01, y=84.00, z=-725.60, cpos=[-50, -46], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426575, uuid='095140a0-e6dc-4ced-af87-f01d0a4c3ea6', l='ServerLevel[world_nether]', x=-667.48, y=41.00, z=-659.48, cpos=[-42, -42], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426576, uuid='42e7f21d-bc64-40c0-a934-acbebba8e028', l='ServerLevel[world_nether]', x=-666.41, y=41.00, z=-659.79, cpos=[-42, -42], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426577, uuid='b10e0bc6-520d-46d2-80a5-f1131d991751', l='ServerLevel[world_nether]', x=-667.48, y=41.00, z=-658.35, cpos=[-42, -42], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426579, uuid='76fa1e92-73e9-4730-85f5-85af266659e5', l='ServerLevel[world_nether]', x=-667.48, y=41.00, z=-657.15, cpos=[-42, -42], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426581, uuid='096b52ce-7463-4454-b5be-7c9cceaaf0a9', l='ServerLevel[world_nether]', x=-666.55, y=41.00, z=-655.52, cpos=[-42, -41], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426619, uuid='bf9ed8fe-9e53-481d-8c8e-8dbabdc25740', l='ServerLevel[world_nether]', x=-786.49, y=84.02, z=-726.68, cpos=[-50, -46], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426620, uuid='8153a280-bacc-4214-a49a-8f57d5c30607', l='ServerLevel[world_nether]', x=-785.43, y=84.00, z=-726.53, cpos=[-50, -46], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426621, uuid='f4301e26-2531-4bbb-9e56-19431fa70486', l='ServerLevel[world_nether]', x=-786.83, y=84.02, z=-726.14, cpos=[-50, -46], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:20] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426622, uuid='aca4d534-7054-4954-b8e4-7f3a806e1bfd', l='ServerLevel[world_nether]', x=-785.74, y=84.00, z=-726.01, cpos=[-50, -46], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426640, uuid='69eeb4ae-e734-44bc-a08f-b9174d882f2e', l='ServerLevel[world_nether]', x=-667.74, y=41.00, z=-659.74, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426641, uuid='10e2f8cd-cb10-4237-b726-164a708c975d', l='ServerLevel[world_nether]', x=-667.25, y=41.02, z=-659.26, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426642, uuid='2fb07ba4-80af-40a9-8c3c-1e67b47ae1b0', l='ServerLevel[world_nether]', x=-667.74, y=41.00, z=-659.25, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426644, uuid='b29edb40-041b-47a0-a7de-6e260cadbe42', l='ServerLevel[world_nether]', x=-666.72, y=41.00, z=-659.83, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426645, uuid='ff8e2b39-2729-4015-b566-8738d121a07d', l='ServerLevel[world_nether]', x=-666.69, y=41.02, z=-659.26, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426646, uuid='12285e2f-cb1c-4380-afa2-65c41079590a', l='ServerLevel[world_nether]', x=-667.60, y=41.00, z=-658.64, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426647, uuid='851e6875-bc35-4fe5-ab64-703bd79d6daa', l='ServerLevel[world_nether]', x=-666.90, y=41.02, z=-658.52, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426648, uuid='85b73467-0826-471f-b411-663dd138d7ee', l='ServerLevel[world_nether]', x=-667.63, y=41.00, z=-658.01, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426649, uuid='561f7d3c-63c5-499f-b6c4-615c8162e128', l='ServerLevel[world_nether]', x=-667.03, y=41.02, z=-657.91, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426650, uuid='8eb2472c-1e20-426f-84ce-4b3db78a158c', l='ServerLevel[world_nether]', x=-667.74, y=41.00, z=-657.50, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426651, uuid='b2372901-c80f-4e6e-8b7c-51de50696c0d', l='ServerLevel[world_nether]', x=-666.86, y=41.02, z=-657.26, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426652, uuid='3c1c2283-2ed3-41ed-92ae-090fb19129c9', l='ServerLevel[world_nether]', x=-667.74, y=41.00, z=-656.85, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426653, uuid='052771b5-40b4-4977-a27d-b0525df251bb', l='ServerLevel[world_nether]', x=-666.92, y=41.02, z=-656.33, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:30] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426578, uuid='f31c6e69-9417-49c3-8178-21107ea08a23', l='ServerLevel[world_nether]', x=-666.48, y=41.00, z=-658.48, cpos=[-42, -42], tl=271, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:31] [Server thread/INFO]: MauGP issued server command: /tp nacholacabragod
-[00:40:31] [Server thread/INFO]: [MauGP: Teleported MauGP to nacholacabragod]
-[00:40:32] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1427225, uuid='4cec821d-87fa-46a8-8764-93ae30bade3d', l='ServerLevel[world_nether]', x=-666.62, y=41.02, z=-658.26, cpos=[-42, -42], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:40:34] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1426589, uuid='93437367-c177-4a76-8dba-6cfb2164aa4c', l='ServerLevel[world_nether]', x=-749.73, y=56.11, z=-708.36, cpos=[-47, -45], tl=338, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:40:34] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1426589, uuid='93437367-c177-4a76-8dba-6cfb2164aa4c', l='ServerLevel[world_nether]', x=-749.73, y=56.11, z=-708.36, cpos=[-47, -45], tl=338, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:40:41] [Server thread/INFO]: MauGP has made the advancement [Ice Bucket Challenge]
-[00:41:03] [Server thread/INFO]: Named entity EntityCreeper['Ender Creeper'/1426285, uuid='0bef5d0b-cb6f-4832-9cd5-c748c80b798f', l='ServerLevel[world_the_end]', x=-13.28, y=63.00, z=-12.71, cpos=[-1, -1], tl=1685, v=true] died: Ender Creeper was slain by PERMADEATH DEMON
-[00:41:12] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1423857, uuid='e7179b0e-96c9-4cf7-afeb-5b9a8f506eed', l='ServerLevel[world_nether]', x=-622.58, y=53.16, z=-730.56, cpos=[-39, -46], tl=4812, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:41:16] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1427937, uuid='6f064ea0-cdd0-4011-a10b-b53588cfac7e', l='ServerLevel[world_nether]', x=-725.51, y=53.00, z=-744.50, cpos=[-46, -47], tl=127, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using [Panic Potion]
-[00:41:18] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
-[00:41:31] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1431441, uuid='981ff888-d6cd-4a68-aaf6-2682cd89ff18', l='ServerLevel[world_nether]', x=-685.65, y=55.00, z=-745.35, cpos=[-43, -47], tl=88, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
-[00:41:34] [Server thread/INFO]: MauGP issued server command: /kill
-[00:41:34] [Server thread/INFO]: Set the weather to rain & thunder
-[00:41:34] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
-[00:41:34] [Server thread/INFO]: MauGP ha muerto y ahora descanza en paz.
-[00:41:34] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de MauGP. ¡HA SIDO PERMABANEADO!
-[00:41:34] [Server thread/INFO]: X: -5521 || Y: 70 || Z: -5932
-[00:41:34] [Server thread/INFO]: MauGP was killed
-[00:41:34] [Server thread/INFO]: [MauGP: Killed MauGP]
-[00:41:37] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1424083, uuid='33ba6e72-bc15-4dad-a5f0-47b318c5de65', l='ServerLevel[world_nether]', x=-714.58, y=54.00, z=-809.58, cpos=[-45, -51], tl=4825, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:41:39] [Server thread/INFO]: MauGP issued server command: /pardon
-[00:41:39] [Server thread/INFO]: ¡Comienza el Death Train con duración de 30 minutos!
-[00:41:44] [Server thread/INFO]: MauGP issued server command: /pardon MauGP
-[00:41:47] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:41:47] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:41:53] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1424184, uuid='642ee4dd-6d44-4d09-9b5b-a88237d8a641', l='ServerLevel[world_nether]', x=-703.58, y=53.00, z=-770.58, cpos=[-44, -49], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:42:00] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1424756, uuid='475d298b-e804-43a8-ba22-ac396cd11589', l='ServerLevel[world_nether]', x=-739.58, y=104.00, z=-768.42, cpos=[-47, -49], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:42:02] [Server thread/INFO]: MauGP issued server command: /pdc storm removeHours 10000000
-[00:42:03] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[00:42:03] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:42:05] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1427618, uuid='4358f98c-8a84-411b-905b-8afdf4ae3291', l='ServerLevel[world_nether]', x=-701.46, y=45.46, z=-854.24, cpos=[-44, -54], tl=1426, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:42:05] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1427618, uuid='4358f98c-8a84-411b-905b-8afdf4ae3291', l='ServerLevel[world_nether]', x=-701.46, y=45.46, z=-854.24, cpos=[-44, -54], tl=1426, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:42:06] [Server thread/INFO]: MauGP issued server command: /gamemode creative
-[00:42:06] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
-[00:42:11] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:42:15] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:42:56] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:42:59] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:43:04] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:43:04] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:43:08] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1425408, uuid='da0568bf-5623-4059-91a3-f03d2c6e2399', l='ServerLevel[world_nether]', x=-617.42, y=55.00, z=-773.42, cpos=[-39, -49], tl=4820, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:43:09] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1425425, uuid='c2f5cf4c-d5bb-4742-ab6b-0f2874822665', l='ServerLevel[world_nether]', x=-746.42, y=78.00, z=-736.42, cpos=[-47, -47], tl=4820, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:43:18] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:43:18] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:43:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426145, uuid='a5359244-adac-4319-b14b-4a1aba1f701b', l='ServerLevel[world_nether]', x=-640.58, y=53.16, z=-720.42, cpos=[-41, -46], tl=4815, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:43:20] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:43:26] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:43:26] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1426240, uuid='6d5b3057-303f-4705-8a1b-d5dba73a0fa6', l='ServerLevel[world_nether]', x=-752.58, y=90.00, z=-767.58, cpos=[-48, -48], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:43:29] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:03] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1452246, uuid='6f1099a0-7b70-453f-86ef-475a6feeef61', l='ServerLevel[world_nether]', x=-619.92, y=55.00, z=-771.08, cpos=[-39, -49], tl=1071, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:03] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:06] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:08] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1452244, uuid='2969bb77-79cf-4f89-83d5-c956ce6f145a', l='ServerLevel[world_nether]', x=-619.92, y=55.00, z=-775.57, cpos=[-39, -49], tl=1187, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:09] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:12] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:44:12] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:44:13] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
-[00:44:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1456658, uuid='e47ac67f-9b2c-454d-8bff-d9deb94f2365', l='ServerLevel[world_nether]', x=-754.92, y=90.00, z=-765.08, cpos=[-48, -48], tl=1065, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:21] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1456659, uuid='a0299cb2-fad1-4101-9bc9-fa229f2cd4a4', l='ServerLevel[world_nether]', x=-750.08, y=92.00, z=-765.32, cpos=[-47, -48], tl=1067, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:23] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1466895, uuid='439313c2-9c3c-46b1-92c5-e92bd0783f84', l='ServerLevel[world_nether]', x=-620.96, y=55.00, z=-776.96, cpos=[-39, -49], tl=265, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:23] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1466897, uuid='95396c30-4179-4572-8c84-f352583d990e', l='ServerLevel[world_nether]', x=-620.96, y=55.00, z=-774.96, cpos=[-39, -49], tl=265, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:27] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1470558, uuid='3675d44a-eaac-4ef4-932b-a1a3cab1c055', l='ServerLevel[world_nether]', x=-621.32, y=55.00, z=-777.48, cpos=[-39, -49], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:27] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1470560, uuid='df0eac6f-aeb6-4d2b-8962-6e5b1cd2bedf', l='ServerLevel[world_nether]', x=-621.48, y=55.00, z=-774.73, cpos=[-39, -49], tl=67, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:28] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1471229, uuid='eab1f3d0-3e67-4e63-a0a3-28bc214412b7', l='ServerLevel[world_nether]', x=-621.81, y=55.48, z=-777.74, cpos=[-39, -49], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:28] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1471230, uuid='c10a1388-9c5a-4e73-b29e-2f3099177371', l='ServerLevel[world_nether]', x=-621.28, y=55.00, z=-777.41, cpos=[-39, -49], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:28] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1471231, uuid='f7c6b406-2b51-41ad-bda0-d0149aa8d145', l='ServerLevel[world_nether]', x=-621.89, y=55.46, z=-776.99, cpos=[-39, -49], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:28] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1471232, uuid='ea4d46e9-cbdd-4ee3-bd83-533469db8da1', l='ServerLevel[world_nether]', x=-621.03, y=55.00, z=-776.61, cpos=[-39, -49], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:28] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1471300, uuid='6edd3b69-8225-4ee9-8b49-61f3ecf1c521', l='ServerLevel[world_nether]', x=-621.45, y=55.00, z=-774.82, cpos=[-39, -49], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:28] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1471302, uuid='8079a34c-6f92-40a2-b509-e67289d48922', l='ServerLevel[world_nether]', x=-621.25, y=55.00, z=-774.26, cpos=[-39, -49], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:29] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:44:29] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:44:34] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1469738, uuid='ebbaef13-fd86-4979-861d-2fb35c3b338f', l='ServerLevel[world_nether]', x=-755.96, y=90.00, z=-766.17, cpos=[-48, -48], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1469739, uuid='5ed55370-64c7-4ab1-b980-113cfcef736e', l='ServerLevel[world_nether]', x=-753.96, y=90.00, z=-766.84, cpos=[-48, -48], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1469740, uuid='bf60bc01-3c17-4f2d-aa57-0bb868b1288a', l='ServerLevel[world_nether]', x=-755.96, y=90.00, z=-764.04, cpos=[-48, -48], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1469741, uuid='bc040309-5f2b-4c51-a3cd-de1092ff09d4', l='ServerLevel[world_nether]', x=-753.66, y=90.00, z=-764.04, cpos=[-48, -48], tl=261, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472926, uuid='d541bcc7-f4e1-4430-949a-9dfcb347a525', l='ServerLevel[world_nether]', x=-756.48, y=90.00, z=-767.48, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472927, uuid='d5376a21-69cd-4ad3-aea2-303355da1126', l='ServerLevel[world_nether]', x=-755.41, y=90.00, z=-766.52, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472930, uuid='6e34a24e-aeda-4186-b8ba-1c0ca83c1885', l='ServerLevel[world_nether]', x=-756.48, y=90.00, z=-765.43, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472931, uuid='40e44d2e-79fe-489a-a467-7844cefaea90', l='ServerLevel[world_nether]', x=-755.42, y=90.00, z=-764.52, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472932, uuid='b52a4230-2a02-4a57-b9ec-613c35bd100f', l='ServerLevel[world_nether]', x=-756.48, y=90.00, z=-763.52, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472933, uuid='198d656a-66f4-4bdc-b38d-49f57619f113', l='ServerLevel[world_nether]', x=-754.31, y=90.00, z=-765.48, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472934, uuid='878ebacd-d20c-497f-ba08-208b7ab36886', l='ServerLevel[world_nether]', x=-753.13, y=90.00, z=-764.82, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472935, uuid='59f1b8f4-56a3-4bfc-80f6-6d001ae61849', l='ServerLevel[world_nether]', x=-754.32, y=90.00, z=-763.52, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472936, uuid='eb3dd778-45ed-4103-b6ea-7cba477b9168', l='ServerLevel[world_nether]', x=-752.52, y=90.00, z=-763.52, cpos=[-48, -48], tl=61, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1472928, uuid='22fd5a16-1586-4f42-a6cc-b6181e12cde7', l='ServerLevel[world_nether]', x=-753.72, y=90.00, z=-766.52, cpos=[-48, -48], tl=63, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473729, uuid='5c79ab35-9781-40a6-888a-a8bee2b7c632', l='ServerLevel[world_nether]', x=-757.14, y=90.02, z=-767.74, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473730, uuid='d22a78f7-cb5b-4620-96d6-a179f343be11', l='ServerLevel[world_nether]', x=-756.49, y=90.00, z=-767.74, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473731, uuid='733e8ee9-c514-4f64-8aad-d30a28e5d77e', l='ServerLevel[world_nether]', x=-756.74, y=90.02, z=-766.62, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473732, uuid='57c87f7f-e24d-4ef6-85b2-ce055ce00d03', l='ServerLevel[world_nether]', x=-756.26, y=90.00, z=-767.26, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473733, uuid='4b663619-55af-421e-8e7e-20b66ca12485', l='ServerLevel[world_nether]', x=-755.47, y=90.02, z=-766.74, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473734, uuid='b749469a-fdba-4b8d-88ee-8f76b281f73e', l='ServerLevel[world_nether]', x=-754.83, y=90.00, z=-766.74, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473735, uuid='dbf9a945-bfd2-407c-bce2-db02a50b2bfd', l='ServerLevel[world_nether]', x=-755.74, y=90.02, z=-766.26, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473736, uuid='2278b072-a76a-4d30-9341-76db892312da', l='ServerLevel[world_nether]', x=-754.64, y=90.00, z=-766.26, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473737, uuid='48e97004-117b-4dad-bf3f-792da7153ea2', l='ServerLevel[world_nether]', x=-756.74, y=90.02, z=-765.33, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473738, uuid='5c83cc20-8ce2-4410-995d-0dd6abdbd0f2', l='ServerLevel[world_nether]', x=-756.18, y=90.00, z=-765.42, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473739, uuid='de1a2973-dd2b-4508-b713-ecc06daa0f44', l='ServerLevel[world_nether]', x=-756.73, y=90.02, z=-764.57, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473740, uuid='b0f7d077-04cb-40d1-a718-0f28e78d9102', l='ServerLevel[world_nether]', x=-755.36, y=90.00, z=-765.12, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473741, uuid='d78ff388-82c2-4a37-958b-86b66f00710d', l='ServerLevel[world_nether]', x=-754.69, y=90.02, z=-765.39, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473742, uuid='3869b316-1da1-433f-927b-273795d62dc0', l='ServerLevel[world_nether]', x=-755.73, y=90.00, z=-764.44, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473743, uuid='0d13c2dd-9327-43d3-8245-e9b78ade07fd', l='ServerLevel[world_nether]', x=-756.74, y=90.02, z=-764.08, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473744, uuid='94707e88-e901-4602-b23d-c351cb82309c', l='ServerLevel[world_nether]', x=-756.02, y=90.00, z=-763.60, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473745, uuid='143b3228-0205-43ec-8f7c-e6d758943244', l='ServerLevel[world_nether]', x=-756.52, y=90.02, z=-763.48, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473746, uuid='ebd23ccc-37c4-4f50-ad29-e21867f8c808', l='ServerLevel[world_nether]', x=-754.74, y=90.00, z=-765.74, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473747, uuid='7f622034-4181-403a-b462-b5e1ef90be4d', l='ServerLevel[world_nether]', x=-753.28, y=90.02, z=-765.81, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473748, uuid='9a11781c-2660-45a5-b5f9-d8dbea140c37', l='ServerLevel[world_nether]', x=-753.61, y=90.00, z=-765.21, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473749, uuid='04a6a5a6-057a-4859-a73d-4c4012bb9cbc', l='ServerLevel[world_nether]', x=-752.74, y=90.02, z=-765.17, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473750, uuid='b2256ae9-0e15-4d45-980b-79fe195037e1', l='ServerLevel[world_nether]', x=-754.60, y=90.00, z=-764.61, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473751, uuid='4a1e7c54-87aa-4ea4-90fd-25ba803297be', l='ServerLevel[world_nether]', x=-753.48, y=90.02, z=-764.22, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473752, uuid='3edb40ab-c266-47ed-b7ad-5a69d314563b', l='ServerLevel[world_nether]', x=-754.26, y=90.00, z=-763.26, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473753, uuid='2ca2fee4-68ff-4a14-b90b-32626ea4f63a', l='ServerLevel[world_nether]', x=-753.60, y=90.02, z=-763.26, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473754, uuid='6505e167-70a5-4b6b-a949-76b186360176', l='ServerLevel[world_nether]', x=-752.69, y=90.00, z=-764.42, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473755, uuid='81a10d10-ba83-4c38-9591-4f7e07354424', l='ServerLevel[world_nether]', x=-752.46, y=90.02, z=-763.82, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473756, uuid='02537751-9367-49b2-8827-466af96e4b80', l='ServerLevel[world_nether]', x=-752.97, y=90.00, z=-763.73, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473757, uuid='bdfaaa9b-8edc-4d70-9902-6d128b238b3a', l='ServerLevel[world_nether]', x=-752.26, y=90.02, z=-763.26, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1473778, uuid='78b0dd6e-b44e-462b-a967-421580a98e8b', l='ServerLevel[world_nether]', x=-754.02, y=90.00, z=-766.32, cpos=[-48, -48], tl=11, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:41] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1427443, uuid='19f3acde-251c-48c5-add3-880b5ae992d8', l='ServerLevel[world_nether]', x=-746.58, y=61.16, z=-737.42, cpos=[-47, -47], tl=4812, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:44:46] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:49] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:52] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:55] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:44:57] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:44:57] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:45:10] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:45:10] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:45:18] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:21] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:24] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:25] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1429412, uuid='10274913-b057-476d-bc08-3f26352154aa', l='ServerLevel[world_nether]', x=-675.58, y=63.00, z=-687.58, cpos=[-43, -43], tl=4822, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:45:30] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:33] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:34] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
-[00:45:34] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
-[00:45:43] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
-[00:45:43] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
-[00:45:45] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:48] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:50] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:57] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
-[00:45:58] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1436732, uuid='db3bff5b-58c0-47cd-bc0e-20270efb5a07', l='ServerLevel[world_nether]', x=-606.58, y=90.00, z=-677.58, cpos=[-38, -43], tl=4824, v=true] died: GIGA MagmaCube suffocated in a wall
-[00:45:59] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1489969, uuid='0ba7a10b-fddf-403b-9ba1-dcc092353fe8', l='ServerLevel[world_nether]', x=-700.46, y=57.83, z=-741.98, cpos=[-44, -47], tl=161, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
-[00:45:59] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1489969, uuid='0ba7a10b-fddf-403b-9ba1-dcc092353fe8', l='ServerLevel[world_nether]', x=-700.46, y=57.83, z=-741.98, cpos=[-44, -47], tl=161, v=true] died: Jess la Emperatriz suffocated in a wall
-[00:46:04] [Server thread/INFO]: nacholacabragod lost connection: Disconnected
-[00:46:05] [Server thread/INFO]: nacholacabragod ha abandonado el servidor.
-[00:50:24] [Server thread/INFO]: MauGP lost connection: Disconnected
-[00:50:24] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:06:22] [User Authenticator #2/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:06:22] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:06:22] [Server thread/INFO]: MauGP[/127.75.54.12:56133] logged in with entity id 1561919 at ([world]69.2572229613684, 88.0, 52.95724568110463)
-[01:06:44] [Server thread/INFO]: MauGP issued server command: /pdc storm removehours 10000
-[01:06:45] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:06:48] [Server thread/INFO]: MauGP issued server command: /time set 0
-[01:06:48] [Server thread/INFO]: [MauGP: Set the time to 0]
-[01:06:53] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
-[01:07:08] [Server thread/INFO]: MauGP lost connection: Disconnected
-[01:07:08] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:07:29] [User Authenticator #3/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:07:29] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:07:29] [Server thread/INFO]: MauGP[/127.75.54.12:46531] logged in with entity id 1573405 at ([world]69.81878423449645, 88.0, 43.80849277895914)
-[01:08:15] [Server thread/INFO]: MauGP issued server command: /setblock ~ ~ ~ minecraft:black_concrete
-[01:08:15] [Server thread/INFO]: [MauGP: Changed the block at 72, 150, 42]
-[01:09:21] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 116 minecraft:black_concrete
-[01:09:21] [Server thread/INFO]: [MauGP: Successfully filled 73 block(s)]
-[01:09:34] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 116 minecraft:air
-[01:09:34] [Server thread/INFO]: [MauGP: Successfully filled 76 block(s)]
-[01:09:43] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 115 minecraft:air
-[01:09:50] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 73 150 115 minecraft:black_concrete
-[01:09:50] [Server thread/INFO]: [MauGP: Successfully filled 75 block(s)]
-[01:11:01] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 147 150 41 minecraft:black_concrete
-[01:11:01] [Server thread/INFO]: [MauGP: Successfully filled 74 block(s)]
-[01:11:11] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 147 150 41 minecraft:air
-[01:11:11] [Server thread/INFO]: [MauGP: Successfully filled 75 block(s)]
-[01:11:18] [Server thread/INFO]: MauGP issued server command: /fill 73 150 41 146 150 41 minecraft:black_concrete
-[01:11:18] [Server thread/INFO]: [MauGP: Successfully filled 74 block(s)]
-[01:11:32] [Server thread/INFO]: MauGP issued server command: /fill 146 150 41
-[01:11:48] [Server thread/INFO]: MauGP issued server command: /fill 146 150 41 73 150 115 minecraft:black_concrete
-[01:11:48] [Server thread/INFO]: [MauGP: Successfully filled 5402 block(s)]
-[01:13:28] [Server thread/INFO]: MauGP lost connection: Disconnected
-[01:13:28] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:14:42] [User Authenticator #4/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:14:42] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:14:42] [Server thread/INFO]: MauGP[/127.75.54.12:49091] logged in with entity id 1582778 at ([world]145.62322234432253, 151.0, 42.6033499211652)
-[01:15:24] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 145 150 62 minecraft:yellow_concrete
-[01:15:24] [Server thread/INFO]: [MauGP: Successfully filled 17 block(s)]
-[01:15:31] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 145 150 62 minecraft:air
-[01:15:31] [Server thread/INFO]: [MauGP: Successfully filled 21 block(s)]
-[01:15:40] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 145 150 61 minecraft:yellow_concrete
-[01:15:40] [Server thread/INFO]: [MauGP: Successfully filled 20 block(s)]
-[01:16:22] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 122 150 42 yelloo
-[01:16:25] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 122 150 42 minecraft:yellow_concrete
-[01:16:25] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:16:31] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 122 150 42 minecraft:air
-[01:16:31] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:16:37] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 121 150 42 minecraft:yellow_concrete
-[01:16:37] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
-[01:16:45] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 123 150 42 minecraft:yellow_concrete
-[01:16:50] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 123 150 42 minecraft:air
-[01:16:50] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:16:54] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 123 150 42 minecraft:yellow_concrete
-[01:16:54] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:17:10] [Server thread/INFO]: MauGP issued server command: /fill 121 150 42
-[01:17:29] [Server thread/INFO]: MauGP issued server command: /fill 121 150 42 145 150 61 minecraft:yellow_concrete
-[01:17:29] [Server thread/INFO]: [MauGP: Successfully filled 456 block(s)]
-[01:17:50] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42
-[01:17:54] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 145 150 61
-[01:17:56] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 145 150 61 air
-[01:17:56] [Server thread/INFO]: [MauGP: Successfully filled 20 block(s)]
-[01:18:08] [Server thread/INFO]: MauGP issued server command: /fill 145 150 42 145 150 61 minecraft:yellow_concrete
-[01:18:08] [Server thread/INFO]: [MauGP: Successfully filled 20 block(s)]
-[01:18:32] [Server thread/INFO]: MauGP issued server command: /fill 121 150 42 145 150 61 minecraft:white_concrete
-[01:18:32] [Server thread/INFO]: [MauGP: Successfully filled 500 block(s)]
-[01:19:28] [Server thread/INFO]: MauGP issued server command: /fill 119 150 42 96 150 42 air
-[01:19:28] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:19:33] [Server thread/INFO]: MauGP issued server command: /fill 119 150 42 96 150 42 minecraft:yellow_concrete
-[01:19:33] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:20:04] [Server thread/INFO]: MauGP issued server command: /fill 119 150 42
-[01:20:13] [Server thread/INFO]: MauGP issued server command: /fill 119 150 42 96 150 61 minecraft:yellow_concrete
-[01:20:13] [Server thread/INFO]: [MauGP: Successfully filled 454 block(s)]
-[01:20:47] [Server thread/INFO]: MauGP issued server command: /fill 94 150 42 71 150 42 minecraft:magenta_concrete
-[01:20:47] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:21:02] [Server thread/INFO]: MauGP issued server command: /fill 94 150 42 71 150 42 minecraft:air
-[01:21:02] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:21:14] [Server thread/INFO]: MauGP issued server command: /fill 94 150 42 72 150 42 minecraft:air
-[01:21:19] [Server thread/INFO]: MauGP issued server command: /fill 94 150 42 72 150 42 minecraft:magenta_concrete
-[01:21:19] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:21:48] [Server thread/INFO]: MauGP issued server command: /fill 72 150 61
-[01:21:55] [Server thread/INFO]: MauGP issued server command: /fill 72 150 61 94 150 42 minecraft:magenta_concrete
-[01:21:55] [Server thread/INFO]: [MauGP: Successfully filled 436 block(s)]
-[01:22:10] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
-[01:22:26] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 115 minecraft:black_concrete
-[01:22:26] [Server thread/INFO]: [MauGP: Successfully filled 71 block(s)]
-[01:23:19] [Server thread/INFO]: MauGP issued server command: /fill 71 150 105
-[01:23:27] [Server thread/INFO]: MauGP issued server command: /fill 71 150 105 146 150 115 air
-[01:23:27] [Server thread/INFO]: [MauGP: Successfully filled 826 block(s)]
-[01:23:45] [Server thread/INFO]: MauGP lost connection: Disconnected
-[01:23:45] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:26:49] [User Authenticator #5/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:26:49] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:26:49] [Server thread/INFO]: MauGP[/127.75.54.12:55859] logged in with entity id 1594401 at ([world]91.01042201188261, 184.61813638272903, 52.95582513055183)
-[01:27:01] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
-[01:27:08] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 146 150 41 air
-[01:27:08] [Server thread/INFO]: [MauGP: Successfully filled 76 block(s)]
-[01:27:29] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 146 150 41 minecraft:black_concrete
-[01:27:29] [Server thread/INFO]: [MauGP: Successfully filled 76 block(s)]
-[01:27:42] [Server thread/INFO]: MauGP lost connection: Disconnected
-[01:27:42] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:29:36] [User Authenticator #6/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:29:36] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:29:36] [Server thread/INFO]: MauGP[/127.75.54.12:50619] logged in with entity id 1596553 at ([world]108.83161274901154, 155.98451262563012, 35.55775354352541)
-[01:29:51] [Server thread/INFO]: MauGP lost connection: Disconnected
-[01:29:51] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:30:44] [User Authenticator #7/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:30:44] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:30:44] [Server thread/INFO]: MauGP[/127.75.54.12:47107] logged in with entity id 1597697 at ([world]132.61089454728946, 165.348616595406, 38.230209331806684)
-[01:31:00] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
-[01:31:06] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 104
-[01:31:09] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 104 air
-[01:31:09] [Server thread/INFO]: [MauGP: Successfully filled 64 block(s)]
-[01:32:21] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 113 minecraft:black_concrete
-[01:32:21] [Server thread/INFO]: [MauGP: Successfully filled 71 block(s)]
-[01:32:27] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 113 minecraft:air
-[01:32:27] [Server thread/INFO]: [MauGP: Successfully filled 73 block(s)]
-[01:32:30] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 113 minecraft:black_concrete
-[01:32:30] [Server thread/INFO]: [MauGP: Successfully filled 73 block(s)]
-[01:32:45] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113
-[01:32:57] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
-[01:33:16] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 146 150 41 air
-[01:33:16] [Server thread/INFO]: [MauGP: Successfully filled 76 block(s)]
-[01:33:40] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 143 150 41 air
-[01:33:40] [Server thread/INFO]: [MauGP: Successfully filled 4608 block(s)]
-[01:34:21] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 143 150 41 minecraft:black_concrete
-[01:34:21] [Server thread/INFO]: [MauGP: Successfully filled 5329 block(s)]
-[01:34:24] [Server thread/INFO]: MauGP lost connection: Disconnected
-[01:34:24] [Server thread/INFO]: MauGP ha abandonado el servidor.
-[01:35:39] [User Authenticator #8/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
-[01:35:39] [Server thread/INFO]: MauGP se ha unido al servidor.
-[01:35:39] [Server thread/INFO]: MauGP[/127.75.54.12:58129] logged in with entity id 1602417 at ([world]139.3131188213872, 167.36400526777206, 70.30840397347058)
-[01:36:11] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112
-[01:37:00] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 118 150 112 minecraft:yellow_concrete
-[01:37:00] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
-[01:37:06] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 118 150 112 air
-[01:37:06] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
-[01:37:40] [Server thread/INFO]: MauGP issued server command: /fill 120 150 112
-[01:37:45] [Server thread/INFO]: MauGP issued server command: /fill 120 150 112 142 150 112 air
-[01:37:45] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:37:50] [Server thread/INFO]: MauGP issued server command: /fill 120 150 112 142 150 112 minecraft:yellow_concrete
-[01:37:50] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:38:02] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112
-[01:38:17] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 142 150 89 air
-[01:38:17] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:38:33] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 142 150 88 minecraft:yellow_concrete
-[01:38:33] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
-[01:39:06] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 142 150 88 minecraft:yellow_concrete
-[01:39:06] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:39:16] [Server thread/INFO]: MauGP issued server command: /fill 142 150 90
-[01:39:24] [Server thread/INFO]: MauGP issued server command: /fill 142 150 90 120 150 112 minecraft:yellow_concrete
-[01:39:24] [Server thread/INFO]: [MauGP: Successfully filled 484 block(s)]
-[01:39:46] [Server thread/INFO]: MauGP issued server command: /fill 142 150 90 120 150 112 minecraft:white_concrete
-[01:39:46] [Server thread/INFO]: [MauGP: Successfully filled 529 block(s)]
-[01:42:17] [Server thread/INFO]: MauGP issued server command: /fill 142 150 88 120 150 88 minecraft:yellow_concrete
-[01:42:17] [Server thread/INFO]: [MauGP: Successfully filled 22 block(s)]
-[01:43:09] [Server thread/INFO]: MauGP issued server command: /fill 142 150 88 142 150 65 air
-[01:43:09] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:43:16] [Server thread/INFO]: MauGP issued server command: /fill 142 150 88 142 150 65 minecraft:yellow_concrete
-[01:43:16] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:43:28] [Server thread/INFO]: MauGP issued server command: /fill 142 150 88 142 150 66 minecraft:yellow_concrete
-[01:43:32] [Server thread/INFO]: MauGP issued server command: /fill 142 150 88 142 150 66 minecraft:air
-[01:43:32] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:43:37] [Server thread/INFO]: MauGP issued server command: /fill 142 150 88 142 150 66 minecraft:yellow_concrete
-[01:43:37] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:43:42] [Server thread/INFO]: MauGP issued server command: /fill 142 150 66
-[01:43:50] [Server thread/INFO]: MauGP issued server command: /fill 142 150 66 120 150 88 minecraft:yellow_concrete
-[01:43:50] [Server thread/INFO]: [MauGP: Successfully filled 484 block(s)]
-[01:44:30] [Server thread/INFO]: MauGP issued server command: /fill 142 150 64 120 150 64 minecraft:white_concrete
-[01:44:30] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:44:36] [Server thread/INFO]: MauGP issued server command: /fill 142 150 64 120 150 64 minecraft:magenta_concrete
-[01:44:36] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:45:06] [Server thread/INFO]: MauGP issued server command: /fill 142 150 64 142 150 40 minecraft:magenta_concrete
-[01:45:06] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
-[01:45:12] [Server thread/INFO]: MauGP issued server command: /fill 142 150 64 142 150 40 air
-[01:45:12] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
-[01:45:17] [Server thread/INFO]: MauGP issued server command: /fill 142 150 64 142 150 40 minecraft:magenta_concrete
-[01:45:17] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
-[01:45:25] [Server thread/INFO]: MauGP issued server command: /fill 142 150 42
-[01:45:35] [Server thread/INFO]: MauGP issued server command: /fill 142 150 42 120 150 64 minecraft:magenta_concrete
-[01:45:35] [Server thread/INFO]: [MauGP: Successfully filled 484 block(s)]
-[01:46:28] [Server thread/INFO]: MauGP issued server command: /fill 118 150 42 96 150 42 minecraft:pink_concrete
-[01:46:28] [Server thread/INFO]: [MauGP: Successfully filled 22 block(s)]
-[01:46:40] [Server thread/INFO]: MauGP issued server command: /fill 118 150 64
-[01:46:47] [Server thread/INFO]: MauGP issued server command: /fill 118 150 64 96 150 42 minecraft:pink_concrete
-[01:46:47] [Server thread/INFO]: [MauGP: Successfully filled 505 block(s)]
-[01:47:54] [Server thread/INFO]: MauGP issued server command: /fill 94 150 42 71 150 42 minecraft:purple_concrete
-[01:47:54] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
-[01:48:06] [Server thread/INFO]: MauGP issued server command: /fill 72 150 42
-[01:48:13] [Server thread/INFO]: MauGP issued server command: /fill 72 150 42 94 150 64 minecraft:purple_concrete
-[01:48:13] [Server thread/INFO]: [MauGP: Successfully filled 505 block(s)]
-[01:48:44] [Server thread/INFO]: MauGP issued server command: /fill 118 150 88
-[01:48:51] [Server thread/INFO]: MauGP issued server command: /fill 118 150 88 96 150 66 minecraft:orange_concrete
-[01:48:51] [Server thread/INFO]: [MauGP: Successfully filled 527 block(s)]
-[01:49:13] [Server thread/INFO]: MauGP issued server command: /fill 94 150 88
-[01:49:17] [Server thread/INFO]: MauGP issued server command: /fill 94 150 88 72 150 66
-[01:49:23] [Server thread/INFO]: MauGP issued server command: /fill 94 150 88 72 150 66 minecraft:red_concrete
-[01:49:23] [Server thread/INFO]: [MauGP: Successfully filled 526 block(s)]
-[01:49:48] [Server thread/INFO]: MauGP issued server command: /fill 118 150 112
-[01:50:12] [Server thread/INFO]: MauGP issued server command: /fill 118 150 112 96 150 90 minecraft:lime_concrete
-[01:50:12] [Server thread/INFO]: [MauGP: Successfully filled 527 block(s)]
+[05:36:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:36:20] [ServerMain/INFO]: Loaded 7 recipes
+[05:36:21] [Server thread/INFO]: Starting minecraft server version 1.20
+[05:36:21] [Server thread/INFO]: Loading properties
+[05:36:21] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[05:36:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:36:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:36:21] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[05:36:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[05:36:22] [Server thread/INFO]: Default game type: SURVIVAL
+[05:36:22] [Server thread/INFO]: Generating keypair
+[05:36:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:36:22] [Server thread/INFO]: Using epoll channel type
+[05:36:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:36:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:36:22] [Server thread/INFO]: [Permadeath] Loading server plugin Permadeath v1.3
+[05:36:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:36:22] [Server thread/INFO]: [Permadeath] Enabling Permadeath v1.3
+[05:36:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:36:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:36:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:36:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:36:22] [Server thread/INFO]: Preparing level "world"
+[05:36:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:36:23] [Server thread/INFO]: Time elapsed: 737 ms
+[05:36:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:36:24] [Server thread/INFO]: Time elapsed: 82 ms
+[05:36:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:36:24] [Server thread/INFO]: Time elapsed: 60 ms
+[05:36:24] [Server thread/INFO]: Running delayed init tasks
+[05:36:24] [Server thread/INFO]: Permadeath ➤ No se ha encontrado una librería JDA, deberás instalar una en caso de querer utilizar un bot de Discord.
+[05:36:24] [Server thread/INFO]: Descarga aquí: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
+[05:36:24] [Server thread/INFO]: Si no puedes descargarlo allí, únete a este Discord y te daremos acceso al enlace: https://discord.gg/8evPbuxPke
+[05:36:24] [Server thread/INFO]: ------------------------------------------
+[05:36:24] [Server thread/INFO]:              PERMADEATH
+[05:36:24] [Server thread/INFO]:      - Versión: 1.3
+[05:36:24] [Server thread/INFO]:      - Versión del Servidor: v1.20
+[05:36:24] [Server thread/INFO]: ------------------------------------------
+[05:36:24] [Server thread/INFO]:  >> INFORME DE ESTADO
+[05:36:24] [Server thread/INFO]: > Estado de mundos: Overworld: world End: world_the_end
+[05:36:24] [Server thread/INFO]:     > End: world_the_end
+[05:36:24] [Server thread/INFO]:     > Overworld: world
+[05:36:24] [Server thread/INFO]: > Estado de Compatibilidad: Compatible
+[05:36:24] [Server thread/INFO]: > Software: PaperMC (Compatible)
+[05:36:24] [Server thread/INFO]: > Cambios:
+[05:36:24] [Server thread/INFO]: >   Días disponibles: 1-60
+[05:36:24] [Server thread/INFO]: > ADVERTENCIA: No se ha encontrado el plugin World Edit
+[05:36:24] [Server thread/INFO]: > Algunas funciones pueden no funcionar correctamente. Ten en cuenta que las estructuras de The Beginning no podrán ser generadas en días avanzados.
+[05:36:25] [Server thread/INFO]: [PermaDeath] > Se han registrado los cambios de Mobs pacíficos hostiles.
+[05:36:25] [Server thread/INFO]: [PermaDeath] > Se han registrado cambios especiales para PaperMC.
+[05:36:25] [Server thread/INFO]: [PermaDeath] > Se han registrado cambios para el día 40
+[05:36:25] [Server thread/INFO]: [PermaDeath] > No se pudo registrar TheBeginning ya que no se ha encontrado el plugin WorldEdit
+[05:36:25] [Server thread/INFO]: [PermaDeath] > Si necesitas soporte entra a este discord: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
+[05:36:25] [Server thread/INFO]: Done (3.640s)! For help, type "help"
+[05:36:25] [Server thread/INFO]: Timings Reset
+[05:36:25] [Craft Scheduler Thread - 3 - Permadeath/INFO]: Permadeath ➤ Versión del plugin: Versión más reciente instalada.
+[05:36:25] [Server thread/INFO]: [PermaDeath] > Se han registrado cambios para el día 50
+[05:36:32] [User Authenticator #0/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[05:36:35] [Server thread/INFO]: MauGP se ha unido al servidor.
+[05:36:35] [Server thread/INFO]: MauGP[/127.126.97.241:56517] logged in with entity id 197 at ([world]88.31374193393937, 153.8980690946385, 96.01857571745818)
+[05:36:49] [Server thread/INFO]: MauGP issued server command: /fill 94 150 112
+[05:37:01] [Server thread/INFO]: MauGP issued server command: /fill 94 150 112 72 150 90 minecraft:light_blue_concrete
+[05:37:01] [Server thread/INFO]: [MauGP: Successfully filled 526 block(s)]
+[05:38:02] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 71 214 113
+[05:38:13] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 71 214 113 minecraft:black_concrete
+[05:38:13] [Server thread/INFO]: [MauGP: Successfully filled 64 block(s)]
+[05:38:20] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 71 214 113 minecraft:air
+[05:38:20] [Server thread/INFO]: [MauGP: Successfully filled 65 block(s)]
+[05:38:28] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 71 213 113 minecraft:black_concrete
+[05:38:28] [Server thread/INFO]: [MauGP: Successfully filled 64 block(s)]
+[05:38:50] [Server thread/INFO]: MauGP issued server command: /fill 71 213 113
+[05:39:02] [Server thread/INFO]: MauGP issued server command: /fill 71 213 113 143 150 113 minecraft:black_concrete
+[05:39:02] [Server thread/INFO]: [MauGP: Successfully filled 4536 block(s)]
+[05:39:27] [Server thread/INFO]: MauGP issued server command: /clone 143 204 113 143 204 113
+[05:39:29] [Server thread/INFO]: MauGP issued server command: /clone 143 204 113 143 204 113 ~ ~ ~
+[05:39:29] [Server thread/INFO]: [MauGP: Successfully cloned 1 block(s)]
+[05:39:50] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113
+[05:39:59] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41
+[05:40:13] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 to
+[05:40:29] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 143 213 113 masked
+[05:40:29] [Server thread/INFO]: [MauGP: Successfully cloned 5329 block(s)]
+[05:41:03] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 143 213 113 masked
+[05:41:03] [Server thread/INFO]: [MauGP: Successfully cloned 5329 block(s)]
+[05:41:10] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 143 213 113 filtered
+[05:41:13] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 143 213 113 masked
+[05:41:14] [Server thread/INFO]: [MauGP: Successfully cloned 5329 block(s)]
+[05:41:21] [Server thread/INFO]: MauGP issued server command: /fill 143 213 113
+[05:41:31] [Server thread/INFO]: MauGP issued server command: /fill 143 213 113 215 213 185 air
+[05:41:31] [Server thread/INFO]: [MauGP: Successfully filled 5326 block(s)]
+[05:42:07] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
+[05:42:22] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 air
+[05:42:22] [Server thread/INFO]: [MauGP: Successfully filled 136 block(s)]
+[05:42:29] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 minecraft:black_concrete
+[05:42:29] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:42:44] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 143 213 113 masked
+[05:42:44] [Server thread/INFO]: [MauGP: Successfully cloned 5329 block(s)]
+[05:42:52] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 air
+[05:42:52] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:42:56] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 minecraft:black_concrete
+[05:42:56] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:42:59] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 air
+[05:42:59] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:43:00] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 minecraft:black_concrete
+[05:43:00] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:43:05] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 air
+[05:43:05] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:43:07] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 213 113 minecraft:black_concrete
+[05:43:07] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:43:17] [Server thread/INFO]: MauGP issued server command: /fill 143 213 113
+[05:43:36] [Server thread/INFO]: MauGP issued server command: /fill 143 213 113
+[05:43:45] [Server thread/INFO]: MauGP issued server command: /fill 143 213 113 215 213 185 air
+[05:43:46] [Server thread/INFO]: [MauGP: Successfully filled 5329 block(s)]
+[05:44:08] [Server thread/INFO]: MauGP issued server command: /clone 143 150 113 71 150 41 71 213 41 masked
+[05:44:08] [Server thread/INFO]: [MauGP: Successfully cloned 5329 block(s)]
+[05:44:39] [Server thread/INFO]: MauGP issued server command: /fill 143 150 113
+[05:44:44] [Server thread/INFO]: MauGP issued server command: /fill 143 150 113
+[05:45:11] [Server thread/INFO]: MauGP issued server command: /fill 143 150 113 143 213 41 minecraft:black_concrete
+[05:45:11] [Server thread/INFO]: [MauGP: Successfully filled 4464 block(s)]
+[05:45:17] [Server thread/INFO]: MauGP issued server command: /fill 143 213 41
+[05:45:32] [Server thread/INFO]: MauGP issued server command: /fill 143 213 41 71 150 41 minecraft:black_concrete
+[05:45:32] [Server thread/INFO]: [MauGP: Successfully filled 4402 block(s)]
+[05:45:34] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[05:45:34] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[05:45:36] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[05:45:36] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
