@@ -9,5 +9,6 @@ EnderCrystalRegenTime:
 - 150
 PlacedObsidian: []
 ReplacedObsidian: true
-CreatedRegenZone: false
+CreatedRegenZone: true
 DecoratedEndSpawn: true
+RegenZoneLocation: 90.0;38.0;0.0;world_the_end

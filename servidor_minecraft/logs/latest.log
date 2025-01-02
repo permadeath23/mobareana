@@ -407,3 +407,137 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [00:29:11] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1334496, uuid='821a303f-b978-4468-8ec6-c92d9ddd2fd0', l='ServerLevel[world_nether]', x=-705.78, y=78.00, z=-853.70, cpos=[-45, -54], tl=1160, v=true] died: Jess la Emperatriz was slain by Ultra Ravager
 [00:29:44] [Server thread/INFO]: nacholacabragod issued server command: /mobcap
 [00:29:53] [Server thread/INFO]: nacholacabragod issued server command: /clone
+[00:30:01] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:dragon_fireball]
+[00:30:01] [Server thread/INFO]: [MauGP: Killed 2 entities]
+[00:30:36] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1361298, uuid='e79757a8-9a4b-46d2-8dff-277ab0c5f42f', l='ServerLevel[world_nether]', x=-827.61, y=104.11, z=-904.41, cpos=[-52, -57], tl=235, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:30:36] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1361298, uuid='e79757a8-9a4b-46d2-8dff-277ab0c5f42f', l='ServerLevel[world_nether]', x=-827.61, y=104.11, z=-904.41, cpos=[-52, -57], tl=235, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:30:42] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1315305, uuid='0778a41d-058d-4192-b7c1-53384ce54d52', l='ServerLevel[world_nether]', x=-776.42, y=96.14, z=-801.58, cpos=[-49, -51], tl=4825, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:30:47] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1361297, uuid='7dba05e0-2a0f-492e-b58b-c6f50479e878', l='ServerLevel[world_nether]', x=-835.36, y=103.65, z=-896.30, cpos=[-53, -57], tl=464, v=true] died: Carlos el Esclavo suffocated in a wall
+[00:31:43] [Server thread/INFO]: MauGP issued server command: /summon dragon_fireball ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]',HandItems:[{Count:1}],ArmorItems:[{Count:1}],HandDropChances:[0f],ArmorDropChances:[0f]}
+[00:31:43] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
+[00:31:50] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1329601, uuid='a2c36235-257b-4179-8757-e779d7a732d3', l='ServerLevel[world_nether]', x=-770.58, y=78.00, z=-779.58, cpos=[-49, -49], tl=4827, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:31:53] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:dragon_fireball]
+[00:31:53] [Server thread/INFO]: [MauGP: Killed Wither Skeleton Emperador]
+[00:32:05] [Server thread/INFO]: MauGP issued server command: /summon dragon_fireball ~ ~ ~ {HandItems:[{Count:1}],ArmorItems:[{Count:1}],HandDropChances:[0f],ArmorDropChances:[0f]}
+[00:32:05] [Server thread/INFO]: [MauGP: Summoned new Dragon Fireball]
+[00:32:08] [Server thread/INFO]: nacholacabragod issued server command: /fill -672 59
+[00:32:08] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:dragon_fireball]
+[00:32:08] [Server thread/INFO]: [MauGP: Killed Dragon Fireball]
+[00:32:37] [Server thread/INFO]: Named entity EntityRavager['Ultra Ravager'/1371192, uuid='710a91d1-bfb0-4570-afdb-59f5bbfb6df8', l='ServerLevel[world_nether]', x=-694.50, y=35.00, z=-828.50, cpos=[-44, -52], tl=1675, v=true] died: Ultra Ravager suffocated in a wall
+[00:32:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1378638, uuid='d2c3d2e8-18e7-442f-8166-c1e8ad9ff70d', l='ServerLevel[world_nether]', x=-768.08, y=78.00, z=-781.92, cpos=[-49, -49], tl=1072, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:32:58] [Server thread/INFO]: nacholacabragod issued server command: /fill -689 53 -754
+[00:32:59] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1389552, uuid='60532a3c-af78-4a09-868c-0dd3570ea05d', l='ServerLevel[world_nether]', x=-770.04, y=78.00, z=-782.96, cpos=[-49, -49], tl=276, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:33:04] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1392930, uuid='60d91acc-21bd-4ced-82d7-c15a78e2b94e', l='ServerLevel[world_nether]', x=-769.52, y=79.00, z=-783.69, cpos=[-49, -49], tl=66, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:33:10] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1389553, uuid='43603b69-88d2-4b42-914c-6633ec88fcf8', l='ServerLevel[world_nether]', x=-767.96, y=79.00, z=-782.96, cpos=[-48, -49], tl=497, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:33:15] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1395240, uuid='21288e79-c4f9-43c5-8edd-465dc2bccd90', l='ServerLevel[world_nether]', x=-768.41, y=79.00, z=-783.59, cpos=[-49, -49], tl=64, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:33:17] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1392580, uuid='42f2c2a5-31c1-4889-8a72-5fa7da6650ea', l='ServerLevel[world_nether]', x=-719.01, y=63.99, z=-761.48, cpos=[-45, -48], tl=366, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:33:17] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1392580, uuid='42f2c2a5-31c1-4889-8a72-5fa7da6650ea', l='ServerLevel[world_nether]', x=-719.01, y=63.99, z=-761.48, cpos=[-45, -48], tl=366, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:33:21] [Server thread/INFO]: nacholacabragod issued server command: /fill -689 53 -754 -729 59 -772
+[00:33:24] [Server thread/INFO]: nacholacabragod issued server command: /fill -689 53 -754 -729 59 -772 air
+[00:33:24] [Server thread/INFO]: [nacholacabragod: Successfully filled 4309 block(s)]
+[00:33:25] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1392579, uuid='23f4ee3f-e1d3-4d3a-8c31-5b2030442dee', l='ServerLevel[world_nether]', x=-719.01, y=62.53, z=-761.48, cpos=[-45, -48], tl=513, v=true] died: Carlos el Esclavo suffocated in a wall
+[00:33:32] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1350398, uuid='7b9632ff-5899-4613-a821-ef456a2c5e20', l='ServerLevel[world_nether]', x=-748.58, y=90.14, z=-800.58, cpos=[-47, -51], tl=4819, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:33:42] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1371194, uuid='f100a5f3-8c1e-4ebc-a0f8-50c3e7411560', l='ServerLevel[world_nether]', x=-689.40, y=48.73, z=-853.51, cpos=[-44, -54], tl=2982, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:33:42] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1371194, uuid='f100a5f3-8c1e-4ebc-a0f8-50c3e7411560', l='ServerLevel[world_nether]', x=-689.40, y=48.73, z=-853.51, cpos=[-44, -54], tl=2982, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:34:00] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1371193, uuid='a6d2b37b-941c-4a04-a370-4281f0cf0574', l='ServerLevel[world_nether]', x=-682.32, y=48.00, z=-855.61, cpos=[-43, -54], tl=3335, v=true] died: Carlos el Esclavo was killed by nacholacabragod using [Panic Potion]
+[00:34:03] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1400650, uuid='d28d7aee-ec8a-44f1-a4a3-4f802d86eb71', l='ServerLevel[world_nether]', x=-723.98, y=48.11, z=-876.02, cpos=[-46, -55], tl=480, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:34:03] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1400650, uuid='d28d7aee-ec8a-44f1-a4a3-4f802d86eb71', l='ServerLevel[world_nether]', x=-723.98, y=48.11, z=-876.02, cpos=[-46, -55], tl=480, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:34:51] [Server thread/INFO]: MauGP issued server command: /pdc dias
+[00:34:53] [Server thread/INFO]: nacholacabragod issued server command: /pdc dias
+[00:34:58] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1378637, uuid='d22ec2ad-ab33-4482-9c27-3ad02b76fb64', l='ServerLevel[world_nether]', x=-772.92, y=78.00, z=-781.92, cpos=[-49, -49], tl=3739, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:34:58] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
+[00:35:05] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1369296, uuid='7e1a0bc4-ac52-401a-b48e-94c1c2a8e068', l='ServerLevel[world_nether]', x=-728.58, y=70.16, z=-831.44, cpos=[-46, -52], tl=4824, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:35:05] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1369403, uuid='6890442a-c11b-4cb4-a0bc-a1204d1bdf4d', l='ServerLevel[world_nether]', x=-742.42, y=63.00, z=-759.42, cpos=[-47, -48], tl=4819, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:35:09] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:35:09] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:35:20] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1411290, uuid='f2b13fb3-90e7-4f46-a27c-a4519f9c67a7', l='ServerLevel[world_nether]', x=-702.11, y=53.00, z=-742.06, cpos=[-44, -47], tl=997, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using magic
+[00:35:25] [Server thread/INFO]: MauGP issued server command: /tp nacholacabragod
+[00:35:25] [Server thread/INFO]: MauGP has made the advancement [We Need to Go Deeper]
+[00:35:25] [Server thread/INFO]: [MauGP: Teleported MauGP to nacholacabragod]
+[00:35:26] [Server thread/INFO]: MauGP has made the advancement [A Terrible Fortress]
+[00:35:27] [Server thread/INFO]: Named entity CustomGhast['Demonio flotante'/1412782, uuid='cbaa58bd-8bf0-4152-9068-4951fcef250f', l='ServerLevel[world_nether]', x=-721.00, y=61.00, z=-749.00, cpos=[-46, -47], tl=1016, v=true] died: Demonio flotante suffocated in a wall
+[00:35:38] [Server thread/INFO]: Named entity CustomGhast['Demonio flotante'/1413071, uuid='6d53df39-4286-4cf5-ba60-c1154a885083', l='ServerLevel[world_nether]', x=-682.00, y=75.00, z=-855.00, cpos=[-43, -54], tl=1204, v=true] died: Demonio flotante suffocated in a wall
+[00:35:44] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:35:44] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:36:03] [Server thread/INFO]: nacholacabragod issued server command: /pdc give netheritearmor
+[00:36:06] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1423268, uuid='3da95ff7-7d5c-4bd2-9185-d80a6aa44ddf', l='ServerLevel[world_nether]', x=-703.37, y=61.11, z=-855.19, cpos=[-44, -54], tl=348, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:36:06] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1423268, uuid='3da95ff7-7d5c-4bd2-9185-d80a6aa44ddf', l='ServerLevel[world_nether]', x=-703.37, y=61.11, z=-855.19, cpos=[-44, -54], tl=348, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:36:10] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:36:10] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:36:17] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:36:23] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1411771, uuid='7a5a2a38-0ecc-4b36-8988-a5d2941bbbd1', l='ServerLevel[world_nether]', x=-735.88, y=53.00, z=-747.06, cpos=[-46, -47], tl=2231, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using magic
+[00:36:45] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:36:45] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:36:53] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:36:53] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:37:09] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:10] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1394925, uuid='e649daff-90ee-46d1-8e45-1738f75b180d', l='ServerLevel[world_nether]', x=-723.58, y=80.00, z=-801.42, cpos=[-46, -51], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:37:12] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1423685, uuid='da7db108-b02f-4f9d-a8f5-0e051afb1b64', l='ServerLevel[world_nether]', x=-665.88, y=49.46, z=-813.53, cpos=[-42, -51], tl=342, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:37:12] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1423685, uuid='da7db108-b02f-4f9d-a8f5-0e051afb1b64', l='ServerLevel[world_nether]', x=-665.88, y=49.46, z=-813.53, cpos=[-42, -51], tl=342, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:37:13] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:21] [Server thread/INFO]: MauGP has made the advancement [The End?]
+[00:37:21] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:37:21] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[00:37:26] [Craft Scheduler Thread - 6 - Permadeath/ERROR]: Thread Craft Scheduler Thread - 6 - Permadeath failed main thread check: Chunk getEntities call
+java.lang.Throwable: null
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:15) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.getEntities(ServerLevel.java:2563) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.getNMSEntities(CraftWorld.java:1058) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftRegionAccessor.getEntities(CraftRegionAccessor.java:445) ~[paper-1.20.jar:git-Paper-17]
+	at tech.sebazcrc.permadeath.event.player.PlayerListener$13.run(PlayerListener.java:877) ~[Permadeath-1.3.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.jar:git-Paper-17]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:37:26] [Craft Scheduler Thread - 6 - Permadeath/WARN]: [Permadeath] Plugin Permadeath v1.3 generated an exception while executing task 106
+java.lang.IllegalStateException: Asynchronous Chunk getEntities call!
+	at org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:16) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.getEntities(ServerLevel.java:2563) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftWorld.getNMSEntities(CraftWorld.java:1058) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftRegionAccessor.getEntities(CraftRegionAccessor.java:445) ~[paper-1.20.jar:git-Paper-17]
+	at tech.sebazcrc.permadeath.event.player.PlayerListener$13.run(PlayerListener.java:877) ~[Permadeath-1.3.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.jar:git-Paper-17]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[00:37:35] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:39] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1400799, uuid='a961762c-aa82-438b-8b63-0d818c16b65b', l='ServerLevel[world_nether]', x=-758.42, y=103.00, z=-801.42, cpos=[-48, -51], tl=4816, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:37:42] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:45] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:51] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:53] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:37:58] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:37:59] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1404651, uuid='9c6f8582-5f31-4dbc-a46e-1ea34e681608', l='ServerLevel[world_nether]', x=-766.58, y=100.00, z=-808.58, cpos=[-48, -51], tl=4825, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:38:07] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:38:12] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:38:13] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:38:13] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:38:20] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1423562, uuid='c882ffb8-18be-40d0-b011-96999146c7f1', l='ServerLevel[world_nether]', x=-688.71, y=41.46, z=-850.65, cpos=[-44, -54], tl=2207, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:38:20] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1423562, uuid='c882ffb8-18be-40d0-b011-96999146c7f1', l='ServerLevel[world_nether]', x=-688.71, y=41.46, z=-850.65, cpos=[-44, -54], tl=2207, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:38:42] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1424098, uuid='43406ab5-2b68-4d5f-9660-1c71edb33480', l='ServerLevel[world_nether]', x=-760.77, y=103.00, z=-799.08, cpos=[-48, -50], tl=1219, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:38:53] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:38:53] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:39:01] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:39:04] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:39:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1418980, uuid='4eeae411-633c-4084-a6a2-b9168c2b979b', l='ServerLevel[world_nether]', x=-788.42, y=84.00, z=-723.42, cpos=[-50, -46], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:39:07] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1419010, uuid='d8883a58-c15c-4d56-9c43-7929340e5592', l='ServerLevel[world_nether]', x=-720.42, y=103.00, z=-787.58, cpos=[-46, -50], tl=4828, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:39:07] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1419075, uuid='29e27845-06aa-4fe1-b7bd-dce69cdca836', l='ServerLevel[world_nether]', x=-664.42, y=41.16, z=-655.58, cpos=[-42, -41], tl=4820, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:39:12] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1425228, uuid='14af0eb2-30b7-49a6-a328-135a97426a2d', l='ServerLevel[world_nether]', x=-750.46, y=61.46, z=-780.50, cpos=[-47, -49], tl=457, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:39:12] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1425228, uuid='14af0eb2-30b7-49a6-a328-135a97426a2d', l='ServerLevel[world_nether]', x=-750.46, y=61.46, z=-780.50, cpos=[-47, -49], tl=457, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:39:12] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:39:15] [Server thread/INFO]: El jugador nacholacabragod ha usado su medalla de superviviente.
+[00:39:16] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:39:16] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:39:24] [Server thread/INFO]: MauGP has made the advancement [Take Aim]
+[00:39:25] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1422948, uuid='9f1c404b-6646-42c3-99fd-46b08e4c204e', l='ServerLevel[world_nether]', x=-737.58, y=77.14, z=-723.42, cpos=[-47, -46], tl=4811, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:39:46] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:39:46] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:39:58] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:39:58] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:40:01] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1425405, uuid='605a92f2-4a32-4969-8d62-0146f39242bc', l='ServerLevel[world_nether]', x=-786.92, y=84.00, z=-725.92, cpos=[-50, -46], tl=1071, v=true] died: GIGA MagmaCube suffocated in a wall
+[00:40:02] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1425413, uuid='a086bcb8-cc88-4299-ba1b-b5d51abb6ad7', l='ServerLevel[world_nether]', x=-665.82, y=41.00, z=-657.08, cpos=[-42, -42], tl=1071, v=true] died: GIGA MagmaCube suffocated in a wall
