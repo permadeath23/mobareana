@@ -280,3 +280,130 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [00:19:25] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Phantom (94.37031052653572, 87.0, 25.296929095180253
 [00:19:43] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 100
 [00:19:43] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[00:20:03] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[00:20:03] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[00:20:08] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 73, 87, 22
+[00:20:08] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215516, uuid='39d1f5e3-092c-4109-8b5f-80b2c3e03f89', l='ServerLevel[world]', x=73.43, y=87.00, z=22.16, cpos=[4, 1], tl=1093, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
+[00:20:08] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 73, 87, 21
+[00:20:08] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215283, uuid='8e6bd5c1-e4af-4855-92a3-bdb4021d079f', l='ServerLevel[world]', x=73.32, y=87.00, z=21.10, cpos=[4, 1], tl=1108, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
+[00:20:08] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:08] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:09] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 71, 87, 21
+[00:20:09] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215353, uuid='5778279b-a884-4ee9-b178-5b75861938fe', l='ServerLevel[world]', x=71.50, y=87.00, z=21.49, cpos=[4, 1], tl=1122, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
+[00:20:09] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 70, 87, 23
+[00:20:09] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215390, uuid='d09f6ba7-cf8f-462d-bb48-64d0045c3cff', l='ServerLevel[world]', x=70.67, y=87.00, z=23.02, cpos=[4, 1], tl=1117, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
+[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:09] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:10] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 72, 87, 19
+[00:20:10] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215284, uuid='2a42126c-ebaa-4f41-afaf-b1fb8bcf81f4', l='ServerLevel[world]', x=72.53, y=87.00, z=19.16, cpos=[4, 1], tl=1158, v=true] died: Gato Galáctico was slain by nacholacabragod using [Espada de Netherite]
+[00:20:10] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:11] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 75, 87, 19
+[00:20:11] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215203, uuid='1ebdd5d3-a382-450f-9ab2-b0ce426c7b47', l='ServerLevel[world]', x=75.33, y=87.00, z=19.95, cpos=[4, 1], tl=1166, v=true] died: Gato Galáctico was slain by MauGP
+[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:11] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:12] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Endermite Misterioso (73.43466005553046, 87.0, 22.15741549322573
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:12] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Slime (73.31705598094571, 87.0, 21.097171120400958
+[00:20:12] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 80, 88, 22
+[00:20:12] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1215354, uuid='a4a5796f-b1a3-4866-a0dd-0223e86a35c4', l='ServerLevel[world]', x=80.11, y=88.00, z=22.04, cpos=[5, 1], tl=1188, v=true] died: Gato Galáctico was slain by MauGP
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[00:20:12] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:13] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Slime (71.49587345986839, 87.0, 21.4874129579141
+[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:13] [Server thread/INFO]: Un gato supernova va a explotar en: 70 87 23 (world).
+[00:20:13] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Gato Supernova (70.67275105951526, 87.0, 23.02136884767635
+[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[00:20:13] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:14] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:14] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1228050, uuid='7279d47c-e262-4e4e-9ec8-400e5ef8f504', l='ServerLevel[world]', x=76.82, y=87.83, z=8.48, cpos=[4, 0], tl=22, v=true] died: GIGA Slime was slain by MauGP
+[00:20:14] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[00:20:14] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:14] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Wither Skeleton Emperador (72.52710250461054, 87.0, 19.163274346170628
+[00:20:15] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:15] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Pufferfish invulnerable (75.33232869973348, 87.0, 19.949132245136994
+[00:20:15] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[00:20:16] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[00:20:16] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Ultra Ravager (80.11263690486352, 88.0, 22.040576275661916
+[00:20:20] [Server thread/INFO]: Named entity EntityCat['Gato Supernova'/1228051, uuid='9a84193f-c644-459c-a516-f4cc99aacca6', l='ServerLevel[world]', x=70.31, y=87.00, z=23.83, cpos=[4, 1], tl=136, v=true] died: Gato Supernova was slain by MauGP
+[00:20:43] [Server thread/INFO]: nacholacabragod issued server command: /give @s minecraft:barrier
+[00:20:43] [Server thread/INFO]: [nacholacabragod: Gave 1 [Barrier] to nacholacabragod]
+[00:20:48] [Server thread/INFO]: nacholacabragod issued server command: /give @s minecraft:barrier
+[00:20:48] [Server thread/INFO]: [nacholacabragod: Gave 1 [Barrier] to nacholacabragod]
+[00:21:27] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
+[00:21:27] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
+[00:21:34] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1243915, uuid='353371d2-d018-4328-9b4d-cee4ec8ab3ba', l='ServerLevel[world]', x=73.46, y=87.00, z=15.70, cpos=[4, 0], tl=142, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:21:37] [Server thread/INFO]: Named entity EntityRavager['Ultra Ravager'/1228889, uuid='24541651-5015-490e-a2b6-9a58c6f3f075', l='ServerLevel[world]', x=74.09, y=89.00, z=12.95, cpos=[4, 0], tl=1618, v=true] died: Ultra Ravager was slain by MauGP
+[00:21:39] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1228890, uuid='8228a75b-d80e-467a-b7d2-02aa0fd181a7', l='ServerLevel[world]', x=74.75, y=87.00, z=12.43, cpos=[4, 0], tl=1648, v=true] died: Carlos el Esclavo was slain by MauGP
+[00:21:39] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1228891, uuid='8cd8bd76-aaeb-4865-ac38-6d94edd332aa', l='ServerLevel[world]', x=75.92, y=88.46, z=10.91, cpos=[4, 0], tl=1660, v=true] died, message: 'Jess la Emperatriz was slain by MauGP'
+[00:21:39] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1228891, uuid='8cd8bd76-aaeb-4865-ac38-6d94edd332aa', l='ServerLevel[world]', x=75.92, y=88.46, z=10.91, cpos=[4, 0], tl=1660, v=true] died: Jess la Emperatriz was slain by MauGP
+[00:21:45] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1228474, uuid='08a8c15a-aa06-44cb-983c-6f51c3120da3', l='ServerLevel[world]', x=70.64, y=87.00, z=12.59, cpos=[4, 0], tl=1816, v=true] died: Wither Skeleton Emperador was killed by nacholacabragod using [Panic Potion]
+[00:22:44] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1259566, uuid='4aedc54c-5eef-4fdc-9947-ef5f53588d89', l='ServerLevel[world]', x=82.16, y=-32.32, z=31.84, cpos=[5, 1], tl=71, v=true] died: GIGA Slime suffocated in a wall
+[00:22:50] [Server thread/INFO]: MauGP issued server command: /summon wither_skeleton ~ ~ ~ {CustomName:'[{"text":"Wither Skeleton Emperador","color":"gold"}]'}
+[00:22:50] [Server thread/INFO]: [MauGP: Summoned new Wither Skeleton Emperador]
+[00:23:04] [Server thread/INFO]: Named entity EntitySkeletonWither['Ultra Esqueleto Definitivo'/1263980, uuid='b04eb8af-0054-4e6b-9b8d-20925f1bf07f', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=49, v=true] died: Ultra Esqueleto Definitivo was slain by MauGP
+[00:23:34] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:23:34] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:23:38] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1260543, uuid='1294766f-476b-400c-8cc8-2f02c14b58dc', l='ServerLevel[world]', x=80.08, y=-33.00, z=29.92, cpos=[5, 1], tl=1061, v=true] died: GIGA Slime suffocated in a wall
+[00:23:38] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1260544, uuid='2157aaae-a320-4385-82d6-1a29649b2bc0', l='ServerLevel[world]', x=84.92, y=-33.00, z=29.92, cpos=[5, 1], tl=1061, v=true] died: GIGA Slime suffocated in a wall
+[00:23:41] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1269609, uuid='9e3faccb-6b5e-4c69-8d97-2d52ebbc7e61', l='ServerLevel[world]', x=68.51, y=87.64, z=15.46, cpos=[4, 0], tl=300, v=true] died: Wither Skeleton Emperador was slain by MauGP
+[00:23:45] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:23:45] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:23:56] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1274948, uuid='65e90c25-71da-4395-85bc-6312e5d7128f', l='ServerLevel[world]', x=61.59, y=87.00, z=11.61, cpos=[3, 0], tl=113, v=true] died: ither Skeleton Emperador was slain by MauGP
+[00:24:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1272617, uuid='7ceece5d-b869-40b7-9a78-02b3fa79bb4a', l='ServerLevel[world]', x=85.96, y=-32.58, z=29.04, cpos=[5, 1], tl=518, v=true] died: GIGA Slime suffocated in a wall
+[00:24:09] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1278097, uuid='813e19ea-16aa-4e83-baef-36757c4a3fee', l='ServerLevel[world]', x=86.48, y=-33.00, z=28.52, cpos=[5, 1], tl=61, v=true] died: GIGA Slime suffocated in a wall
+[00:24:11] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1279049, uuid='32e762c3-181b-480f-b474-44e9893d149e', l='ServerLevel[world]', x=85.89, y=-32.98, z=28.26, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
+[00:24:11] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1279050, uuid='1a29aa2d-bedc-42bd-a5c1-967265f55f46', l='ServerLevel[world]', x=86.45, y=-32.75, z=28.26, cpos=[5, 1], tl=11, v=true] died: GIGA Slime suffocated in a wall
+[00:24:23] [Server thread/INFO]: MauGP issued server command: /time set 0
+[00:24:23] [Server thread/INFO]: [MauGP: Set the time to 0]
+[00:24:27] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1277362, uuid='f982e66e-2786-404c-8381-0e03334f6018', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=477, v=true] died: ither Skeleton Emperador was slain by MauGP
+[00:24:28] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1282380, uuid='01c98cd3-cded-4931-bddc-98382a20e6b8', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=42, v=true] died: ither Skeleton Emperador was slain by MauGP
+[00:24:33] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1283648, uuid='23186169-35d5-49b8-93b9-36f6cf2c12f0', l='ServerLevel[world]', x=65.50, y=87.00, z=15.50, cpos=[4, 0], tl=28, v=true] died: Wither Skeleton Emperador was slain by MauGP
+[00:24:46] [Server thread/INFO]: nacholacabragod issued server command: /gamemode survival
+[00:24:46] [Server thread/INFO]: [nacholacabragod: Set own game mode to Survival Mode]
+[00:24:55] [Server thread/INFO]: Named entity EntitySkeletonWither['ither Skeleton Emperador'/1285298, uuid='e0b69331-d13c-4429-b276-0e83ee04e39a', l='ServerLevel[world]', x=65.50, y=87.00, z=16.50, cpos=[4, 1], tl=320, v=true] died: ither Skeleton Emperador was slain by MauGP
+[00:24:56] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1285018, uuid='26801fea-8035-416a-8751-7eda564b257d', l='ServerLevel[world]', x=59.93, y=87.00, z=11.35, cpos=[3, 0], tl=359, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:25:03] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1289995, uuid='66e3cfe1-c4c1-411c-ac72-9a61da4af0ad', l='ServerLevel[world]', x=65.50, y=87.00, z=16.50, cpos=[4, 1], tl=37, v=true] died: Wither Skeleton Emperador was slain by MauGP
+[00:25:03] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1284801, uuid='a83adc08-4292-493b-8928-03d415379c3e', l='ServerLevel[world]', x=55.35, y=62.00, z=9.38, cpos=[3, 0], tl=525, v=true] died: Wither Skeleton Emperador was shot by nacholacabragod using [Arco de Gigante]
+[00:25:16] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1291753, uuid='085510ef-e808-4e30-8f1f-8d8c8e0742c1', l='ServerLevel[world]', x=63.40, y=87.00, z=16.42, cpos=[3, 1], tl=124, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:25:31] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1294045, uuid='2e64e352-d248-4757-94ed-c1af8541b624', l='ServerLevel[world]', x=59.89, y=87.00, z=26.14, cpos=[3, 1], tl=207, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:25:34] [Server thread/INFO]: nacholacabragod issued server command: /gamemode creative
+[00:25:34] [Server thread/INFO]: [nacholacabragod: Set own game mode to Creative Mode]
+[00:25:35] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1293993, uuid='b2d3be45-ec72-4f4b-ba14-efa877b79f0d', l='ServerLevel[world]', x=65.91, y=87.00, z=31.80, cpos=[4, 1], tl=292, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:25:35] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1294018, uuid='e662c508-e236-47c5-87e9-db6f0254da7d', l='ServerLevel[world]', x=66.03, y=87.00, z=30.98, cpos=[4, 1], tl=305, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:25:37] [Server thread/INFO]: Named entity EntitySkeletonWither['Wither Skeleton Emperador'/1294131, uuid='867201d0-de2f-4194-bd64-2f832f1b45bd', l='ServerLevel[world]', x=67.84, y=87.00, z=28.48, cpos=[4, 1], tl=325, v=true] died: Wither Skeleton Emperador was slain by nacholacabragod using [Espada de Netherite]
+[00:25:50] [Server thread/INFO]: nacholacabragod has made the advancement [Ice Bucket Challenge]
+[00:26:17] [Server thread/INFO]: nacholacabragod has made the advancement [We Need to Go Deeper]
+[00:26:31] [Server thread/INFO]: nacholacabragod issued server command: /locate structure minecraft:fortress
+[00:26:31] [Server thread/INFO]: Locating element minecraft:fortress took 19 ms
+[00:26:34] [Server thread/INFO]: nacholacabragod issued server command: /tp @s -768 ~ -816
+[00:26:35] [Server thread/INFO]: [nacholacabragod: Teleported nacholacabragod to -767.500000, 51.040017, -815.500000]
+[00:26:35] [Server thread/WARN]: nacholacabragod moved too quickly! -763.560993657441,0.0,-813.3485229813252
+[00:26:43] [Server thread/INFO]: nacholacabragod has made the advancement [A Terrible Fortress]
+[00:27:24] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1316378, uuid='373485d3-1e0a-4b25-be43-57a25533789a', l='ServerLevel[world_nether]', x=-753.26, y=45.00, z=-880.23, cpos=[-48, -56], tl=767, v=true] died, message: 'Jess la Emperatriz hit the ground too hard'
+[00:27:24] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1316378, uuid='373485d3-1e0a-4b25-be43-57a25533789a', l='ServerLevel[world_nether]', x=-753.26, y=45.00, z=-880.23, cpos=[-48, -56], tl=767, v=true] died: Jess la Emperatriz fell from a high place
+[00:27:46] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1324922, uuid='714986fe-0694-401b-8162-410255f76491', l='ServerLevel[world_nether]', x=-724.82, y=83.91, z=-862.02, cpos=[-46, -54], tl=393, v=true] died, message: 'Jess la Emperatriz suffocated in a wall'
+[00:27:46] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1324922, uuid='714986fe-0694-401b-8162-410255f76491', l='ServerLevel[world_nether]', x=-724.82, y=83.91, z=-862.02, cpos=[-46, -54], tl=393, v=true] died: Jess la Emperatriz suffocated in a wall
+[00:27:59] [Server thread/INFO]: Named entity EntityPigZombie['Carlos el Esclavo'/1324921, uuid='17468e45-ed84-45e3-a7a2-ab252fdaf817', l='ServerLevel[world_nether]', x=-726.02, y=81.65, z=-861.64, cpos=[-46, -54], tl=667, v=true] died: Carlos el Esclavo suffocated in a wall
+[00:28:20] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1335096, uuid='c2b1597f-c088-418d-9972-fc09a683dcd7', l='ServerLevel[world]', x=4.84, y=26.00, z=138.16, cpos=[0, 8], tl=71, v=true] died: GIGA Slime suffocated in a wall
+[00:29:06] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1344989, uuid='84a34365-1fd6-4e4e-9d7a-d40ac84d1023', l='ServerLevel[world_nether]', x=-701.31, y=72.00, z=-840.77, cpos=[-44, -53], tl=51, v=true] died, message: 'Jess la Emperatriz was slain by Ultra Ravager'
+[00:29:06] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1344989, uuid='84a34365-1fd6-4e4e-9d7a-d40ac84d1023', l='ServerLevel[world_nether]', x=-701.31, y=72.00, z=-840.77, cpos=[-44, -53], tl=51, v=true] died: Jess la Emperatriz was slain by Ultra Ravager
+[00:29:11] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/1334496, uuid='821a303f-b978-4468-8ec6-c92d9ddd2fd0', l='ServerLevel[world_nether]', x=-705.78, y=78.00, z=-853.70, cpos=[-45, -54], tl=1160, v=true] died, message: 'Jess la Emperatriz was slain by Ultra Ravager'
+[00:29:11] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1334496, uuid='821a303f-b978-4468-8ec6-c92d9ddd2fd0', l='ServerLevel[world_nether]', x=-705.78, y=78.00, z=-853.70, cpos=[-45, -54], tl=1160, v=true] died: Jess la Emperatriz was slain by Ultra Ravager
+[00:29:44] [Server thread/INFO]: nacholacabragod issued server command: /mobcap
+[00:29:53] [Server thread/INFO]: nacholacabragod issued server command: /clone
