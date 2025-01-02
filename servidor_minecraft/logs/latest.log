@@ -714,3 +714,5 @@ java.lang.IllegalStateException: Asynchronous Chunk getEntities call!
 [00:45:59] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/1489969, uuid='0ba7a10b-fddf-403b-9ba1-dcc092353fe8', l='ServerLevel[world_nether]', x=-700.46, y=57.83, z=-741.98, cpos=[-44, -47], tl=161, v=true] died: Jess la Emperatriz suffocated in a wall
 [00:46:04] [Server thread/INFO]: nacholacabragod lost connection: Disconnected
 [00:46:05] [Server thread/INFO]: nacholacabragod ha abandonado el servidor.
+[00:50:24] [Server thread/INFO]: MauGP lost connection: Disconnected
+[00:50:24] [Server thread/INFO]: MauGP ha abandonado el servidor.
