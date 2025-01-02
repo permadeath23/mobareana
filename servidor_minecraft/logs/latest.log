@@ -821,3 +821,51 @@ java.lang.IllegalStateException: Asynchronous Chunk getEntities call!
 [01:29:36] [Server thread/INFO]: MauGP[/127.75.54.12:50619] logged in with entity id 1596553 at ([world]108.83161274901154, 155.98451262563012, 35.55775354352541)
 [01:29:51] [Server thread/INFO]: MauGP lost connection: Disconnected
 [01:29:51] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[01:30:44] [User Authenticator #7/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[01:30:44] [Server thread/INFO]: MauGP se ha unido al servidor.
+[01:30:44] [Server thread/INFO]: MauGP[/127.75.54.12:47107] logged in with entity id 1597697 at ([world]132.61089454728946, 165.348616595406, 38.230209331806684)
+[01:31:00] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
+[01:31:06] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 104
+[01:31:09] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 104 air
+[01:31:09] [Server thread/INFO]: [MauGP: Successfully filled 64 block(s)]
+[01:32:21] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 113 minecraft:black_concrete
+[01:32:21] [Server thread/INFO]: [MauGP: Successfully filled 71 block(s)]
+[01:32:27] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 113 minecraft:air
+[01:32:27] [Server thread/INFO]: [MauGP: Successfully filled 73 block(s)]
+[01:32:30] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 71 150 113 minecraft:black_concrete
+[01:32:30] [Server thread/INFO]: [MauGP: Successfully filled 73 block(s)]
+[01:32:45] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113
+[01:32:57] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41
+[01:33:16] [Server thread/INFO]: MauGP issued server command: /fill 71 150 41 146 150 41 air
+[01:33:16] [Server thread/INFO]: [MauGP: Successfully filled 76 block(s)]
+[01:33:40] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 143 150 41 air
+[01:33:40] [Server thread/INFO]: [MauGP: Successfully filled 4608 block(s)]
+[01:34:21] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 143 150 41 minecraft:black_concrete
+[01:34:21] [Server thread/INFO]: [MauGP: Successfully filled 5329 block(s)]
+[01:34:24] [Server thread/INFO]: MauGP lost connection: Disconnected
+[01:34:24] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[01:35:39] [User Authenticator #8/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[01:35:39] [Server thread/INFO]: MauGP se ha unido al servidor.
+[01:35:39] [Server thread/INFO]: MauGP[/127.75.54.12:58129] logged in with entity id 1602417 at ([world]139.3131188213872, 167.36400526777206, 70.30840397347058)
+[01:36:11] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112
+[01:37:00] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 118 150 112 minecraft:yellow_concrete
+[01:37:00] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
+[01:37:06] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 118 150 112 air
+[01:37:06] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
+[01:37:40] [Server thread/INFO]: MauGP issued server command: /fill 120 150 112
+[01:37:45] [Server thread/INFO]: MauGP issued server command: /fill 120 150 112 142 150 112 air
+[01:37:45] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
+[01:37:50] [Server thread/INFO]: MauGP issued server command: /fill 120 150 112 142 150 112 minecraft:yellow_concrete
+[01:37:50] [Server thread/INFO]: [MauGP: Successfully filled 23 block(s)]
+[01:38:02] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112
+[01:38:17] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 142 150 89 air
+[01:38:17] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
+[01:38:33] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 142 150 88 minecraft:yellow_concrete
+[01:38:33] [Server thread/INFO]: [MauGP: Successfully filled 25 block(s)]
+[01:39:06] [Server thread/INFO]: MauGP issued server command: /fill 142 150 112 142 150 88 minecraft:yellow_concrete
+[01:39:06] [Server thread/INFO]: [MauGP: Successfully filled 24 block(s)]
+[01:39:16] [Server thread/INFO]: MauGP issued server command: /fill 142 150 90
+[01:39:24] [Server thread/INFO]: MauGP issued server command: /fill 142 150 90 120 150 112 minecraft:yellow_concrete
+[01:39:24] [Server thread/INFO]: [MauGP: Successfully filled 484 block(s)]
+[01:39:46] [Server thread/INFO]: MauGP issued server command: /fill 142 150 90 120 150 112 minecraft:white_concrete
+[01:39:46] [Server thread/INFO]: [MauGP: Successfully filled 529 block(s)]
