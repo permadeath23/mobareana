@@ -125,3 +125,57 @@
 [05:45:34] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
 [05:45:36] [Server thread/INFO]: MauGP issued server command: /gamemode creative
 [05:45:36] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[05:46:34] [Server thread/INFO]: MauGP issued server command: /fill 143 152 43 143 172 43
+[05:46:40] [Server thread/INFO]: MauGP issued server command: /fill 143 152 43 143 172 43 minecraft:red_concrete
+[05:46:40] [Server thread/INFO]: [MauGP: Successfully filled 20 block(s)]
+[05:47:13] [Server thread/INFO]: MauGP issued server command: /fill 143 152 43 143 172 66 minecraft:red_concrete
+[05:47:13] [Server thread/INFO]: [MauGP: Successfully filled 483 block(s)]
+[05:47:26] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[05:47:26] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[05:47:47] [Server thread/INFO]: MauGP lost connection: Disconnected
+[05:47:47] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[05:48:14] [User Authenticator #1/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[05:48:14] [Server thread/INFO]: MauGP se ha unido al servidor.
+[05:48:14] [Server thread/INFO]: MauGP[/127.126.97.241:59109] logged in with entity id 5595 at ([world]121.2165080598999, 170.0175573441819, 55.70194794222179)
+[05:48:19] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[05:48:19] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[05:48:31] [Server thread/INFO]: MauGP issued server command: /fill 143 151 42
+[05:49:07] [Server thread/INFO]: MauGP issued server command: /fill 143 151 42 143 171 42
+[05:49:12] [Server thread/INFO]: MauGP issued server command: /fill 143 151 42 143 171 42 minecraft:red_concrete
+[05:49:12] [Server thread/INFO]: [MauGP: Successfully filled 20 block(s)]
+[05:50:10] [Server thread/INFO]: MauGP lost connection: Disconnected
+[05:50:10] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[05:51:37] [User Authenticator #2/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[05:51:37] [Server thread/INFO]: MauGP se ha unido al servidor.
+[05:51:37] [Server thread/INFO]: MauGP[/127.126.97.241:54959] logged in with entity id 6099 at ([world]140.15708204915407, 151.0, 66.47571959678547)
+[05:51:44] [Server thread/INFO]: Villager EntityVillager['Jess la Emperatriz'/132, uuid='d9866ae9-e8ec-421e-891e-f4bafbb093c6', l='ServerLevel[world_nether]', x=18.59, y=58.00, z=75.85, cpos=[1, 4], tl=124375, v=true] died, message: 'Jess la Emperatriz hit the ground too hard'
+[05:51:44] [Server thread/INFO]: Named entity EntityVillager['Jess la Emperatriz'/132, uuid='d9866ae9-e8ec-421e-891e-f4bafbb093c6', l='ServerLevel[world_nether]', x=18.59, y=58.00, z=75.85, cpos=[1, 4], tl=124375, v=true] died: Jess la Emperatriz fell from a high place
+[05:51:49] [Server thread/INFO]: MauGP issued server command: /fill 143 151 42
+[05:52:04] [Server thread/INFO]: MauGP issued server command: /fill 143 151 42 143 171 64 minecraft:pink_concrete
+[05:52:04] [Server thread/INFO]: [MauGP: Successfully filled 483 block(s)]
+[05:52:11] [Server thread/INFO]: MauGP issued server command: /filll
+[05:52:12] [Server thread/INFO]: MauGP issued server command: /fill
+[05:52:23] [Server thread/INFO]: MauGP issued server command: /fill 143 151 88
+[05:52:36] [Server thread/INFO]: MauGP issued server command: /fill 143 151 88 143 171 66 minecraft:red_concrete
+[05:52:36] [Server thread/INFO]: [MauGP: Successfully filled 465 block(s)]
+[05:52:54] [Server thread/INFO]: MauGP issued server command: /fill 143 171 90
+[05:53:11] [Server thread/INFO]: MauGP issued server command: /fill 143 171 90 143 151 112 minecraft:white_concrete
+[05:53:11] [Server thread/INFO]: [MauGP: Successfully filled 483 block(s)]
+[05:53:39] [Server thread/INFO]: MauGP issued server command: /fill 143 173 42
+[05:54:13] [Server thread/INFO]: MauGP issued server command: /fill 143 173 42 143 192 64 minecraft:light_blue_concrete
+[05:54:13] [Server thread/INFO]: [MauGP: Successfully filled 439 block(s)]
+[05:54:38] [Server thread/INFO]: MauGP issued server command: /fill 143 173 66
+[05:54:46] [Server thread/INFO]: MauGP issued server command: /fill 143 192 66
+[05:54:57] [Server thread/INFO]: MauGP issued server command: /fill 143 192 66 143 173 88 minecraft:yellow_concrete
+[05:54:57] [Server thread/INFO]: [MauGP: Successfully filled 460 block(s)]
+[05:55:05] [Server thread/INFO]: MauGP issued server command: /fill 143 192 90
+[05:55:16] [Server thread/INFO]: MauGP issued server command: /fill 143 192 90 143 173 112 minecraft:magenta_concrete
+[05:55:16] [Server thread/INFO]: [MauGP: Successfully filled 460 block(s)]
+[05:55:23] [Server thread/INFO]: MauGP issued server command: /fill 143 192 90 143 173 112 minecraft:lime_concrete
+[05:55:23] [Server thread/INFO]: [MauGP: Successfully filled 460 block(s)]
+[05:55:41] [Server thread/INFO]: MauGP issued server command: /fill 143 211 90
+[05:55:50] [Server thread/INFO]: MauGP issued server command: /fill 143 211 90 143 194 112 minecraft:magenta_concrete
+[05:55:50] [Server thread/INFO]: [MauGP: Successfully filled 414 block(s)]
+[05:56:01] [Server thread/INFO]: MauGP issued server command: /fill 143 194 88
+[05:56:18] [Server thread/INFO]: MauGP issued server command: /fill 143 194 88 143 212 66 minecraft:purple_concrete
+[05:56:18] [Server thread/INFO]: [MauGP: Successfully filled 437 block(s)]
