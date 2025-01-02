@@ -179,3 +179,50 @@
 [05:56:01] [Server thread/INFO]: MauGP issued server command: /fill 143 194 88
 [05:56:18] [Server thread/INFO]: MauGP issued server command: /fill 143 194 88 143 212 66 minecraft:purple_concrete
 [05:56:18] [Server thread/INFO]: [MauGP: Successfully filled 437 block(s)]
+[05:56:58] [Server thread/INFO]: MauGP issued server command: /fill 143 194 64
+[05:57:07] [Server thread/INFO]: MauGP issued server command: /fill 143 194 64 143 212 42 minecraft:orange_concrete
+[05:57:07] [Server thread/INFO]: [MauGP: Successfully filled 437 block(s)]
+[05:57:27] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41
+[05:57:44] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41 143 213 113
+[05:58:00] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41 143 213 113 71 150 41
+[05:58:00] [Server thread/INFO]: [MauGP: Successfully cloned 4672 block(s)]
+[05:58:13] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41 143 213 113 71 150 113
+[05:58:13] [Server thread/INFO]: [MauGP: Successfully cloned 4672 block(s)]
+[05:58:22] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113
+[05:58:36] [Server thread/INFO]: MauGP issued server command: /fill 71 150 113 71 213 185 air
+[05:58:36] [Server thread/INFO]: [MauGP: Successfully filled 4672 block(s)]
+[05:59:16] [Server thread/INFO]: MauGP lost connection: Disconnected
+[05:59:16] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[06:00:04] [User Authenticator #3/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[06:00:04] [Server thread/INFO]: MauGP se ha unido al servidor.
+[06:00:04] [Server thread/INFO]: MauGP[/127.126.97.241:47631] logged in with entity id 10216 at ([world]79.01708760996853, 151.0, 106.23066548889265)
+[06:01:12] [Server thread/INFO]: MauGP issued server command: /fill 72 171 41
+[06:01:20] [Server thread/INFO]: MauGP issued server command: /fill 72 171 41 94 151 41 minecraft:lime_concrete
+[06:01:21] [Server thread/INFO]: [MauGP: Successfully filled 481 block(s)]
+[06:02:15] [Server thread/INFO]: MauGP issued server command: /fill 72 192 41
+[06:02:25] [Server thread/INFO]: MauGP issued server command: /fill 72 192 41 94 173 41 minecraft:white_concrete
+[06:02:25] [Server thread/INFO]: [MauGP: Successfully filled 458 block(s)]
+[06:03:37] [Server thread/INFO]: MauGP issued server command: /fill 120 212 41
+[06:03:45] [Server thread/INFO]: MauGP issued server command: /fill 120 212 41 142 194 41 minecraft:magenta_concrete
+[06:03:45] [Server thread/INFO]: [MauGP: Successfully filled 435 block(s)]
+[06:03:53] [Server thread/INFO]: MauGP issued server command: /fill 142 192 41
+[06:04:03] [Server thread/INFO]: MauGP issued server command: /fill 142 192 41 120 173 41 minecraft:light_blue_concrete
+[06:04:03] [Server thread/INFO]: [MauGP: Successfully filled 458 block(s)]
+[06:04:12] [Server thread/INFO]: MauGP issued server command: /fill 118 173 41
+[06:04:20] [Server thread/INFO]: MauGP issued server command: /fill 118 173 41 96 192 41 minecraft:purple_concrete
+[06:04:20] [Server thread/INFO]: [MauGP: Successfully filled 457 block(s)]
+[06:04:25] [Server thread/INFO]: MauGP issued server command: /fill 94 194 41
+[06:04:34] [Server thread/INFO]: MauGP issued server command: /fill 94 194 41 72 212 41 minecraft:pink_concrete
+[06:04:34] [Server thread/INFO]: [MauGP: Successfully filled 436 block(s)]
+[06:04:44] [Server thread/INFO]: MauGP issued server command: /fill 96 171 41
+[06:04:51] [Server thread/INFO]: MauGP issued server command: /fill 96 171 41 118 151 41 minecraft:red_concrete
+[06:04:51] [Server thread/INFO]: [MauGP: Successfully filled 481 block(s)]
+[06:05:03] [Server thread/INFO]: MauGP issued server command: /fill 120 171 41
+[06:05:11] [Server thread/INFO]: MauGP issued server command: /fill 120 171 41 142 151 41 minecraft:yellow_concrete
+[06:05:11] [Server thread/INFO]: [MauGP: Successfully filled 481 block(s)]
+[06:05:21] [Server thread/INFO]: MauGP issued server command: /fill 118 194 41
+[06:05:30] [Server thread/INFO]: MauGP issued server command: /fill 118 194 41 96 212 41 minecraft:orange_concrete
+[06:05:30] [Server thread/INFO]: [MauGP: Successfully filled 436 block(s)]
+[06:05:47] [Server thread/INFO]: MauGP issued server command: /clone 71 213 41
+[06:06:04] [Server thread/INFO]: MauGP issued server command: /clone 71 213 41 143 150 41
+[06:06:25] [Server thread/INFO]: MauGP issued server command: /clone 143 150 41
