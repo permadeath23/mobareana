@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-01-03 02:28:45 +0000",
       "minecraft:river": "2025-01-03 01:59:59 +0000",
       "minecraft:forest": "2025-01-03 01:59:37 +0000",
       "minecraft:ocean": "2025-01-03 02:00:39 +0000"
@@ -123,7 +124,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2025-01-03 02:00:41 +0000"
+      "golden_apple": "2025-01-03 02:00:41 +0000",
+      "enchanted_golden_apple": "2025-01-03 02:33:05 +0000"
     },
     "done": false
   },
@@ -208,10 +210,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-03 02:22:17 +0000",
+      "minecraft:pillager": "2025-01-03 02:26:54 +0000",
+      "minecraft:zoglin": "2025-01-03 02:27:21 +0000",
       "minecraft:vindicator": "2025-01-03 02:11:20 +0000",
       "minecraft:wither": "2025-01-03 02:22:33 +0000",
       "minecraft:evoker": "2025-01-03 02:08:46 +0000",
       "minecraft:witch": "2025-01-03 02:08:07 +0000",
+      "minecraft:wither_skeleton": "2025-01-03 02:25:38 +0000",
       "minecraft:vex": "2025-01-03 02:20:13 +0000"
     },
     "done": false
@@ -258,12 +263,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-03 02:23:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-03 02:21:30 +0000"
@@ -300,15 +299,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-03 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-03 02:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-01-03 02:25:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_string": "2025-01-03 02:21:30 +0000"
+      "has_snowball": "2025-01-03 02:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-03 02:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-03 02:31:45 +0000"
     },
     "done": true
   },
