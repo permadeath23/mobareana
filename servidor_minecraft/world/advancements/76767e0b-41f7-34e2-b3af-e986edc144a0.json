@@ -156,6 +156,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-03 02:06:44 +0000",
+      "minecraft:skeleton": "2025-01-03 03:09:32 +0000",
       "minecraft:ghast": "2025-01-03 01:58:08 +0000",
       "minecraft:vindicator": "2025-01-03 02:11:23 +0000",
       "minecraft:slime": "2025-01-03 02:58:04 +0000",
@@ -315,6 +316,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 02:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-03 03:14:21 +0000"
     },
     "done": true
   },

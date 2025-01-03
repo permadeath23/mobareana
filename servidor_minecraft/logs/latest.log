@@ -3506,3 +3506,1344 @@ Reason: §cHas sido PERMABANEADO
 [03:08:29] [Server thread/INFO]: [identidad303XDnt: Removed every effect from identidad303XDnt]
 [03:08:29] [Async Chat Thread - #22/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
 [03:08:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
+[03:08:34] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 300000000000000 300000 300000000000
+[03:08:41] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:08:47] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:08:49] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:08:50] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:08:51] [Server thread/INFO]: Set the weather to rain & thunder
+[03:08:51] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:08:51] [Server thread/INFO]: Renzo212123 ha muerto y ahora descanza en paz.
+[03:08:51] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Renzo212123. ¡HA SIDO PERMABANEADO!
+[03:08:51] [Server thread/INFO]: X: 135 || Y: 152 || Z: 76
+[03:08:51] [Server thread/INFO]: Renzo212123 was slain by Skeleton
+[03:08:51] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:08:51] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:08:53] [Server thread/INFO]: Renzo212123 lost connection: Has sido PERMABANEADO
+[03:08:53] [Server thread/INFO]: Renzo212123 ha abandonado el servidor.
+[03:08:53] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:08:54] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:08:55] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:08:55] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:08:56] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:08:56] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:08:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:09:00] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:09:02] [Server thread/INFO]: identidad303XDnt issued server command: /pardon Renzo212123
+[03:09:02] [Server thread/INFO]: [identidad303XDnt: Unbanned Renzo212123]
+[03:09:05] [User Authenticator #16/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[03:09:05] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[03:09:05] [Server thread/INFO]: Renzo212123[/127.66.221.12:48645] logged in with entity id 1031808 at ([world]-33.5, 52.100000001490116, 32.5)
+[03:09:08] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:09:08] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/1023586, uuid='fa6fc161-f801-4799-a7d9-1848f43193f2', l='ServerLevel[world]', x=130.61, y=152.00, z=80.26, cpos=[8, 5], tl=555, v=true] died: Ultra Esqueleto Demoníaco was shot by Wither Skeleton
+[03:09:09] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode survival Renzo212123
+[03:09:09] [Server thread/INFO]: [identidad303XDnt: Set Renzo212123's game mode to Survival Mode]
+[03:09:28] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:09:28] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:09:38] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1041481, uuid='80f147b4-3550-4387-9529-4f4c45383269', l='ServerLevel[world]', x=88.23, y=153.30, z=96.65, cpos=[5, 6], tl=184, v=true] died: GIGA Slime was shot by Wither Skeleton
+[03:09:39] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:09:40] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:09:43] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:09:46] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:09:50] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:09:52] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:09:54] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:09:58] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:00] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:01] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:01] [Server thread/INFO]: identidad303XDnt issued server command: /effect give identidad303XDnt minecraft:strength infinite 100
+[03:10:01] [Server thread/INFO]: [identidad303XDnt: Applied effect Strength to identidad303XDnt]
+[03:10:05] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:10:05] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1041608, uuid='bd7e9991-c40f-4d86-9b58-6cc8c52f8aaa', l='ServerLevel[world]', x=116.13, y=167.50, z=56.06, cpos=[7, 3], tl=361, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:10:05] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:05] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1025567, uuid='c0e72545-9899-4fb0-8440-d704adc30c84', l='ServerLevel[world]', x=93.70, y=152.00, z=67.70, cpos=[5, 4], tl=1570, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:10:05] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1025565, uuid='70d2566a-223b-4ca7-8cd3-efe700c8ee40', l='ServerLevel[world]', x=102.91, y=152.00, z=73.30, cpos=[6, 4], tl=1570, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:10:09] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1041581, uuid='ae472a52-f101-4706-8602-7a979a0f3ad3', l='ServerLevel[world]', x=87.46, y=160.45, z=97.83, cpos=[5, 6], tl=488, v=true] died: Demonio flotante was slain by identidad303XDnt
+[03:10:19] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:21] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:10:26] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:10:28] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846078, uuid='fda425a4-0a7a-4925-b5bd-4164c75b1bee', l='ServerLevel[world]', x=104.90, y=62.76, z=-5.86, cpos=[6, -1], tl=20289, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846079, uuid='dc6af672-724c-4589-8e75-1977c7032145', l='ServerLevel[world]', x=104.74, y=61.93, z=-5.37, cpos=[6, -1], tl=20289, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846080, uuid='a93988c2-5ef6-43c2-8a7a-751641da60fd', l='ServerLevel[world]', x=103.60, y=62.48, z=-5.65, cpos=[6, -1], tl=20289, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846235, uuid='4a430412-0dc9-4bef-aefe-c6c32816ec86', l='ServerLevel[world]', x=117.55, y=62.54, z=-12.78, cpos=[7, -1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846236, uuid='953f6dbb-0f3e-4e49-ab52-5e5af5b55730', l='ServerLevel[world]', x=117.58, y=60.60, z=-12.39, cpos=[7, -1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846081, uuid='7c29a961-eb84-49a1-a7c9-622ec5235007', l='ServerLevel[world]', x=108.76, y=61.49, z=7.68, cpos=[6, 0], tl=20289, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846082, uuid='c2fa4336-d0f5-47ae-b5e2-db8db4058d73', l='ServerLevel[world]', x=108.68, y=60.31, z=7.65, cpos=[6, 0], tl=20289, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846083, uuid='b8bc47a0-c655-4164-9806-e1e8e1b00153', l='ServerLevel[world]', x=107.60, y=60.94, z=7.60, cpos=[6, 0], tl=20289, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846230, uuid='dc13bddc-3d86-4d32-99b7-a22ac1bc2a3f', l='ServerLevel[world]', x=113.47, y=62.47, z=9.60, cpos=[7, 0], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846228, uuid='bc4b0d2b-6f9b-400f-968c-54a68826a89b', l='ServerLevel[world]', x=113.51, y=61.01, z=9.26, cpos=[7, 0], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846231, uuid='12211a04-dc89-47b7-91c6-48c50d9b83ec', l='ServerLevel[world]', x=94.78, y=57.44, z=21.06, cpos=[5, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846234, uuid='228dda83-200e-4e1c-adfc-e00c4f3fecdc', l='ServerLevel[world]', x=94.76, y=58.28, z=21.84, cpos=[5, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846232, uuid='ce231a98-9976-40b9-be97-78641e9eeed8', l='ServerLevel[world]', x=95.36, y=56.87, z=21.78, cpos=[5, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846233, uuid='909dc10d-45ea-449e-b6bd-102b1ee9276a', l='ServerLevel[world]', x=93.58, y=57.17, z=21.52, cpos=[5, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846237, uuid='72e2a422-06df-460f-a6c1-8ec64618ba2a', l='ServerLevel[world]', x=131.74, y=62.76, z=20.57, cpos=[8, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846238, uuid='8f94f1c7-1238-42e8-90e1-e749b1b978e8', l='ServerLevel[world]', x=130.70, y=62.44, z=20.51, cpos=[8, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846239, uuid='b575a994-ed91-4a53-a914-3d827416dd9a', l='ServerLevel[world]', x=146.08, y=55.86, z=20.59, cpos=[9, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846240, uuid='32925c34-1d2a-4cb0-88d9-edc9d71bd6a8', l='ServerLevel[world]', x=147.00, y=56.44, z=20.30, cpos=[9, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846241, uuid='7fccc621-2d48-4970-9167-300277f395fa', l='ServerLevel[world]', x=145.54, y=55.44, z=20.55, cpos=[9, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/846242, uuid='6c283052-cd97-4df5-8fea-27ee9d07a704', l='ServerLevel[world]', x=145.69, y=55.04, z=20.68, cpos=[9, 1], tl=20281, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:10:29] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:10:29] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1023392, uuid='1c8cab7c-5140-47e3-91bc-e4245321ead3', l='ServerLevel[world]', x=110.01, y=152.00, z=59.70, cpos=[6, 3], tl=2179, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1023585, uuid='1917513b-e29f-4167-b1bb-da5e99b5032d', l='ServerLevel[world]', x=123.20, y=152.00, z=62.96, cpos=[7, 3], tl=2166, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1041542, uuid='563e6d95-b1fa-4a51-ae6b-3d231392968a', l='ServerLevel[world]', x=79.83, y=152.00, z=69.95, cpos=[4, 4], tl=1009, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1041545, uuid='675e5cb1-4b06-4dd5-89c9-50a48202e17a', l='ServerLevel[world]', x=83.45, y=152.00, z=79.25, cpos=[5, 4], tl=1002, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1041541, uuid='d2b1023d-2c01-4cf9-9c02-b2466c64cb12', l='ServerLevel[world]', x=77.69, y=152.00, z=98.46, cpos=[4, 6], tl=1009, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:10:29] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1041540, uuid='02cd3eeb-de8c-4ee8-baaa-6021c635ebf1', l='ServerLevel[world]', x=97.31, y=152.00, z=106.87, cpos=[6, 6], tl=1009, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:29] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:10:45] [Async Chat Thread - #23/INFO]: [Not Secure] <Nicopowerxx1253> xdd
+[03:10:49] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[03:10:49] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[03:10:51] [Server thread/INFO]: MauGP has made the advancement [Voluntary Exile]
+[03:10:54] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043539, uuid='10c076f7-3e30-4946-94b4-0ddd7f73ef83', l='ServerLevel[world]', x=107.05, y=152.00, z=74.60, cpos=[6, 4], tl=473, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:54] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043534, uuid='c864c6de-f119-42d7-b423-8fa695ca199b', l='ServerLevel[world]', x=118.14, y=152.00, z=67.55, cpos=[7, 4], tl=473, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:54] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:10:54] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043541, uuid='bd75e9af-2aa2-4460-a887-537c949f2d36', l='ServerLevel[world]', x=107.37, y=153.25, z=81.00, cpos=[6, 5], tl=473, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:54] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:10:54] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:10:54] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043536, uuid='cd202d11-3988-4397-a9e3-3c46394775f2', l='ServerLevel[world]', x=112.52, y=153.00, z=83.62, cpos=[7, 5], tl=473, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:54] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043540, uuid='a6ee4f7e-07a2-43df-be57-779480633691', l='ServerLevel[world]', x=114.56, y=153.00, z=80.78, cpos=[7, 5], tl=473, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:54] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043537, uuid='b37ba47a-4efa-4a78-b457-1255609d6858', l='ServerLevel[world]', x=85.56, y=153.00, z=102.93, cpos=[5, 6], tl=473, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:10:56] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[03:10:56] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043835, uuid='384ea19d-0402-4d2e-a4af-2107ebbf3e76', l='ServerLevel[world]', x=114.37, y=153.00, z=70.49, cpos=[7, 4], tl=129, v=true] died: GIGA Slime was slain by Pufferfish invulnerable
+[03:11:01] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043843, uuid='24b69ce6-ba57-4365-b3fa-e175fa238254', l='ServerLevel[world]', x=105.56, y=152.00, z=75.22, cpos=[6, 4], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043836, uuid='5a338632-396a-49a6-ab71-c96fe3bbef9d', l='ServerLevel[world]', x=115.41, y=152.00, z=69.66, cpos=[7, 4], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043837, uuid='75d439c3-7989-441d-b5a1-cd68f51b6e2e', l='ServerLevel[world]', x=117.70, y=152.00, z=75.26, cpos=[7, 4], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043848, uuid='275f5b0d-95be-4842-a642-f609ecc7a52c', l='ServerLevel[world]', x=104.52, y=152.75, z=83.93, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043849, uuid='2ee6ca74-e771-46b0-a38e-52f6d4312b19', l='ServerLevel[world]', x=105.09, y=152.00, z=86.04, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043850, uuid='b20556b1-bba7-4125-9ae2-403a23fee225', l='ServerLevel[world]', x=104.66, y=152.00, z=87.56, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043838, uuid='39f49e4c-9953-4b66-9f0c-abb089120e83', l='ServerLevel[world]', x=107.58, y=152.00, z=88.37, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043840, uuid='17df5124-a9f0-4e2b-b121-d133a833e6e7', l='ServerLevel[world]', x=108.20, y=152.00, z=89.47, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043846, uuid='3dd8ff90-dc07-4724-891f-3eebe998e407', l='ServerLevel[world]', x=107.98, y=153.00, z=86.45, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043847, uuid='d968ac2c-2511-4f07-9739-364109de0fd7', l='ServerLevel[world]', x=109.52, y=152.00, z=85.26, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043845, uuid='f81de0b7-8ac5-41c1-8e7a-162d26e8cd21', l='ServerLevel[world]', x=103.22, y=153.00, z=81.61, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043839, uuid='e459f748-0b5a-496a-808c-129198cf82f5', l='ServerLevel[world]', x=109.62, y=153.25, z=87.77, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043844, uuid='0232dbfb-8197-42e2-a601-788246be463c', l='ServerLevel[world]', x=105.64, y=152.50, z=80.82, cpos=[6, 5], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043535, uuid='52e1d8f3-150a-49c6-b73a-232ad6bbac82', l='ServerLevel[world]', x=90.55, y=152.00, z=102.78, cpos=[5, 6], tl=623, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043841, uuid='3e746d06-c611-4661-9ce5-1b09f7441139', l='ServerLevel[world]', x=83.99, y=152.00, z=102.52, cpos=[5, 6], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043842, uuid='122059c6-a712-476b-afde-08ffd61b8ba1', l='ServerLevel[world]', x=88.95, y=153.17, z=103.99, cpos=[5, 6], tl=129, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:01] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1043538, uuid='9b6f99e8-d7f9-44b4-9cda-f2935aa76b14', l='ServerLevel[world]', x=83.30, y=152.00, z=104.21, cpos=[5, 6], tl=623, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:11:02] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046401, uuid='f3998783-063d-4dd2-92db-cd83843a84c0', l='ServerLevel[world]', x=114.13, y=152.50, z=68.77, cpos=[7, 4], tl=0, v=true] died: GIGA Slime was slain by Pufferfish invulnerable
+[03:11:02] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046400, uuid='ca3ebf51-6a85-4cb5-97db-f32e2876fed9', l='ServerLevel[world]', x=114.70, y=152.27, z=68.42, cpos=[7, 4], tl=3, v=true] died: GIGA Slime was slain by Pufferfish invulnerable
+[03:11:02] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046399, uuid='7ddf8573-49d1-4544-9879-55282406cf12', l='ServerLevel[world]', x=114.02, y=152.42, z=68.54, cpos=[7, 4], tl=6, v=true] died: GIGA Slime was slain by Pufferfish invulnerable
+[03:11:03] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046404, uuid='75289856-257b-45b5-807c-fb51a24bed07', l='ServerLevel[world]', x=114.95, y=153.02, z=68.48, cpos=[7, 4], tl=14, v=true] died: GIGA Slime was slain by Pufferfish invulnerable
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046402, uuid='bcad965a-c655-417c-abfa-b89f854d6cfa', l='ServerLevel[world]', x=114.11, y=153.00, z=67.11, cpos=[7, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046403, uuid='fb79711b-1651-4eff-bbe8-2431c2413c41', l='ServerLevel[world]', x=115.69, y=152.00, z=68.93, cpos=[7, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046405, uuid='eed7c8d5-3632-4018-bbac-e2ab045d2d76', l='ServerLevel[world]', x=115.62, y=152.00, z=73.04, cpos=[7, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046406, uuid='d12ccdcf-2d7c-4555-b753-dbcd7184765b', l='ServerLevel[world]', x=116.77, y=152.00, z=74.00, cpos=[7, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046407, uuid='fdca8cbe-a45d-4bbf-8924-12012281a167', l='ServerLevel[world]', x=105.96, y=152.00, z=86.27, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046408, uuid='3fd3adf7-4bdc-4584-a8a2-9ddb80c906f3', l='ServerLevel[world]', x=107.04, y=152.00, z=86.09, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046409, uuid='dccdf2b6-ad71-4476-aee4-03a22771ec90', l='ServerLevel[world]', x=105.40, y=152.00, z=87.26, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046410, uuid='f5d60bd5-c8c0-4cb5-ab6a-9707f0346631', l='ServerLevel[world]', x=104.79, y=152.00, z=83.67, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046411, uuid='8a0a7045-a94a-44d9-9396-c3cd259108d9', l='ServerLevel[world]', x=105.03, y=152.00, z=81.73, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046412, uuid='4d26edea-84bc-421e-bca6-182b9ae796e9', l='ServerLevel[world]', x=103.94, y=153.00, z=84.08, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046413, uuid='dcb16177-9f3b-4ca0-b119-8cbae2d44777', l='ServerLevel[world]', x=104.41, y=152.00, z=84.72, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046414, uuid='4b65f72c-72eb-49f0-90d8-1cf147386f5d', l='ServerLevel[world]', x=107.12, y=152.00, z=87.76, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046415, uuid='320819f3-9ec1-4a91-a1b4-29849463061e', l='ServerLevel[world]', x=107.77, y=152.00, z=86.47, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046416, uuid='3addc9bd-c37d-48e2-aaeb-ec7180620576', l='ServerLevel[world]', x=82.94, y=153.00, z=102.26, cpos=[5, 6], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046417, uuid='d67bbc72-0dab-4291-8043-121816c360a9', l='ServerLevel[world]', x=85.68, y=152.00, z=102.30, cpos=[5, 6], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046418, uuid='af661f1d-948c-4cd1-9583-2797895aaf23', l='ServerLevel[world]', x=83.85, y=152.00, z=103.13, cpos=[5, 6], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046419, uuid='db7fb076-b551-4ec0-a5e3-fe02bf09cbdc', l='ServerLevel[world]', x=81.95, y=152.00, z=104.67, cpos=[5, 6], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046420, uuid='7a8a120c-0c8a-414c-9c32-026eed099232', l='ServerLevel[world]', x=81.98, y=152.00, z=106.89, cpos=[5, 6], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046421, uuid='c87db363-c499-4094-aada-0dcd51d4cd44', l='ServerLevel[world]', x=105.19, y=152.00, z=73.63, cpos=[6, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046422, uuid='397b5d21-c6fe-470b-971b-71df57fb606d', l='ServerLevel[world]', x=105.91, y=152.00, z=72.54, cpos=[6, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046423, uuid='927eba71-2809-4d89-8a50-a1eba190f1bc', l='ServerLevel[world]', x=104.71, y=152.00, z=80.37, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046424, uuid='49e19147-e4a0-42a0-8307-cee757bf3f7a', l='ServerLevel[world]', x=106.40, y=152.00, z=79.53, cpos=[6, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046425, uuid='000fbc6c-2432-401e-a88e-1f9f123e56c9', l='ServerLevel[world]', x=105.76, y=152.00, z=80.93, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046426, uuid='6848b034-77d4-4710-8d9b-3c470dbd446e', l='ServerLevel[world]', x=100.92, y=152.00, z=78.43, cpos=[6, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046427, uuid='e6b5f22e-2075-46bc-8435-766f59ed459e', l='ServerLevel[world]', x=102.72, y=152.00, z=80.64, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046428, uuid='c41c5291-32d0-4dbd-8dc6-fe256a376b07', l='ServerLevel[world]', x=101.36, y=152.00, z=81.23, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046429, uuid='9534a9ee-0ca3-470c-9a52-fb6b8b948948', l='ServerLevel[world]', x=105.71, y=152.00, z=84.57, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046430, uuid='f21cd89e-55e3-414f-a6b7-1f478d2ef9f5', l='ServerLevel[world]', x=106.15, y=153.00, z=83.98, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046431, uuid='cc71f63c-f1ad-4a97-9ee5-c40bd5ecb491', l='ServerLevel[world]', x=106.29, y=152.00, z=84.42, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046432, uuid='1fcce8fe-3045-4ae0-9fe2-062d9dc413ae', l='ServerLevel[world]', x=107.69, y=152.00, z=85.28, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046433, uuid='ee0174c9-aee7-460c-b158-a3542c2f189c', l='ServerLevel[world]', x=107.99, y=153.00, z=82.24, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046434, uuid='27a1e9e3-ed18-45ed-8a89-ae6cb15b22e2', l='ServerLevel[world]', x=111.13, y=152.00, z=83.86, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046435, uuid='19dc2c21-5421-4e25-a213-838d4b80c0ad', l='ServerLevel[world]', x=108.04, y=152.00, z=83.45, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046436, uuid='3354d8ce-95b3-47b1-9ccf-795774a58a91', l='ServerLevel[world]', x=110.12, y=152.00, z=85.39, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046437, uuid='9c9c63b2-5e29-4e56-ae82-9e65f71c5073', l='ServerLevel[world]', x=99.03, y=152.00, z=80.04, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046438, uuid='353dcd1f-91ab-4984-b5c2-3739a1dc6590', l='ServerLevel[world]', x=99.84, y=152.00, z=79.68, cpos=[6, 4], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046439, uuid='aadaeb9e-b9d6-498e-b4e9-6dba9a6a9ee6', l='ServerLevel[world]', x=102.25, y=152.00, z=85.88, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046440, uuid='6fcc9e7c-b779-47f1-93b9-721169bcf75c', l='ServerLevel[world]', x=103.37, y=153.00, z=84.16, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046441, uuid='9b7b5acd-560d-4ed0-a92e-b3bf9653339b', l='ServerLevel[world]', x=101.50, y=152.00, z=86.22, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046442, uuid='8dfee166-cb1e-4700-bc45-e03f62650ce2', l='ServerLevel[world]', x=103.06, y=152.00, z=86.80, cpos=[6, 5], tl=36, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046484, uuid='42bb6d37-7b27-4c96-9a6d-158a33241e1e', l='ServerLevel[world]', x=86.35, y=152.13, z=103.47, cpos=[5, 6], tl=45, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046485, uuid='e4608ad4-0b94-44d5-b112-dc3c7701b09b', l='ServerLevel[world]', x=88.09, y=152.26, z=103.40, cpos=[5, 6], tl=45, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046486, uuid='f355cae1-72a2-4ff6-a3d4-9358cf32433c', l='ServerLevel[world]', x=88.98, y=152.20, z=105.29, cpos=[5, 6], tl=45, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046487, uuid='4be2a65a-3f86-4ffb-babb-53b8506dae4d', l='ServerLevel[world]', x=81.03, y=153.05, z=103.81, cpos=[5, 6], tl=45, v=true] died: GIGA Slime tried to swim in lava
+[03:11:04] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1046488, uuid='2ab8851b-1fb5-4c6f-baa5-e7f5f0d782db', l='ServerLevel[world]', x=84.59, y=152.14, z=105.74, cpos=[5, 6], tl=45, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047813, uuid='ef45a37d-ef3d-4abd-ac85-29b8b04df140', l='ServerLevel[world]', x=86.09, y=152.54, z=103.23, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047814, uuid='2145c4d3-d11d-4c87-ba29-eedf56c41d0c', l='ServerLevel[world]', x=86.62, y=152.54, z=103.23, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047815, uuid='a3f108fa-437a-4eda-a5dd-2823714de806', l='ServerLevel[world]', x=86.08, y=152.50, z=103.77, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047816, uuid='6ed8acb2-17d2-4b5e-b5ee-12fb23637c5e', l='ServerLevel[world]', x=86.66, y=152.50, z=103.80, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047817, uuid='8408998d-616c-4dc4-9b39-79b3e618eca0', l='ServerLevel[world]', x=87.84, y=152.54, z=103.16, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047818, uuid='1a603aef-298e-42a8-b53a-0478b8b041e8', l='ServerLevel[world]', x=88.37, y=152.50, z=103.16, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047819, uuid='52344f98-23a8-4642-9d17-a0acf512fd1d', l='ServerLevel[world]', x=88.73, y=152.54, z=105.06, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047820, uuid='9dbb7176-0590-4ca9-a2a4-5b04e2e65a42', l='ServerLevel[world]', x=89.27, y=152.50, z=105.06, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047821, uuid='9c31ea94-3510-4b6a-8c9b-c09cf8c8f2b4', l='ServerLevel[world]', x=80.75, y=152.82, z=103.57, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047822, uuid='ed6c4488-3af3-42fe-8d7b-bb488e090d1b', l='ServerLevel[world]', x=81.29, y=152.86, z=103.55, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047823, uuid='2dbd1e44-8300-4609-9617-4246a0b76de5', l='ServerLevel[world]', x=80.75, y=152.86, z=104.10, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047824, uuid='53474b9b-8231-40a1-8064-7d9b7f0e7367', l='ServerLevel[world]', x=81.33, y=152.86, z=104.12, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047825, uuid='97202f91-5b41-4e3e-8fdd-08bb282f368f', l='ServerLevel[world]', x=84.35, y=152.50, z=105.49, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1047826, uuid='008eff56-989a-4aa6-b0f4-baf19aad5f07', l='ServerLevel[world]', x=84.88, y=152.54, z=105.49, cpos=[5, 6], tl=2, v=true] died: GIGA Slime tried to swim in lava
+[03:11:12] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253
+[03:11:12] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to Nicopowerxx1253]
+[03:11:16] [Async Chat Thread - #24/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:16] [Async Chat Thread - #23/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:16] [Async Chat Thread - #24/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:17] [Async Chat Thread - #23/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:17] [Async Chat Thread - #24/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:17] [Async Chat Thread - #23/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:17] [Async Chat Thread - #24/INFO]: [Not Secure] <Renzo212123> ez server
+[03:11:20] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:11:22] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:11:57] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1049967, uuid='a1549463-ef41-4eaf-97bd-78a583827bc1', l='ServerLevel[world]', x=109.39, y=171.06, z=89.55, cpos=[6, 5], tl=133, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[03:12:00] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:01] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1049963, uuid='b8ddffd3-7afa-40c6-b18b-4ed94aaf0c43', l='ServerLevel[world]', x=107.06, y=166.01, z=103.13, cpos=[6, 6], tl=223, v=true] died: Demonio flotante was shot by NachoOnFire using [Arco de Gigante]
+[03:12:04] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1049903, uuid='2b78a246-c43a-474f-a35d-fb8a7137c29a', l='ServerLevel[world]', x=111.80, y=168.55, z=93.97, cpos=[6, 5], tl=318, v=true] died: Demonio flotante was shot by NachoOnFire using [Arco de Gigante]
+[03:12:09] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:12] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1049958, uuid='fc58aac6-d2be-4ff5-82e4-446d75e7c4d6', l='ServerLevel[world]', x=96.49, y=154.01, z=57.59, cpos=[6, 3], tl=446, v=true] died: Demonio flotante was shot by MauGP using [Arco de Gigante]
+[03:12:13] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1049905, uuid='244c0e2d-2b16-48f8-8aea-010c68248b4e', l='ServerLevel[world]', x=120.59, y=159.91, z=53.64, cpos=[7, 3], tl=495, v=true] died: Demonio flotante was shot by NachoOnFire using [Arco de Gigante]
+[03:12:13] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:14] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:17] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:18] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:19] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:22] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:22] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/1049908, uuid='964ac1a7-3eb9-4641-8131-af50ba2bf254', l='ServerLevel[world]', x=89.20, y=174.72, z=80.63, cpos=[5, 5], tl=668, v=true] died: Ghast Demoníaco was shot by MauGP using [Arco de Gigante]
+[03:12:23] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:25] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:26] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:28] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:30] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:30] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:30] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/1050274, uuid='04bccf4d-0214-47ee-bd42-7fb307d4389c', l='ServerLevel[world]', x=73.74, y=152.00, z=53.67, cpos=[4, 3], tl=370, v=true] died: Ultra Esqueleto Demoníaco tried to swim in lava
+[03:12:31] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:12:39] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:12:39] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:12:39] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1050090, uuid='77b837bb-e2b6-4e30-b9ee-a5920d7e457a', l='ServerLevel[world]', x=135.50, y=174.00, z=43.50, cpos=[8, 2], tl=824, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:12:39] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:12:39] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1049788, uuid='5c890382-6d0e-4c56-ba7f-d004f0ed969e', l='ServerLevel[world]', x=77.42, y=154.59, z=92.58, cpos=[4, 5], tl=1346, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:12:52] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:13:05] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[03:13:05] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[03:13:12] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[03:13:12] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[03:13:19] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1050494, uuid='8df7119e-3196-4b8a-bca7-cf96d28a18a6', l='ServerLevel[world]', x=83.84, y=156.85, z=47.87, cpos=[5, 2], tl=788, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:13:19] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/1050531, uuid='1cfee066-1919-47ae-b37b-6d28a03c4364', l='ServerLevel[world]', x=83.59, y=172.00, z=43.50, cpos=[5, 2], tl=736, v=true] died: Bruja Imposible was blown up by Ender Quantum Creeper
+[03:13:19] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:13:19] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1050493, uuid='34290d40-cc60-4f47-9994-fdab00f76610', l='ServerLevel[world]', x=82.51, y=155.08, z=63.56, cpos=[5, 3], tl=788, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:13:19] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:13:19] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:13:19] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:13:19] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1050495, uuid='1e93ac6e-dba7-4f7a-92ab-62e0c42d89cd', l='ServerLevel[world]', x=75.08, y=154.87, z=85.09, cpos=[4, 5], tl=788, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:13:20] [Server thread/INFO]: Set the weather to rain & thunder
+[03:13:20] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:13:20] [Server thread/INFO]: MauGP ha muerto y ahora descanza en paz.
+[03:13:20] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de MauGP. ¡HA SIDO PERMABANEADO!
+[03:13:20] [Server thread/INFO]: X: 141 || Y: 174 || Z: 63
+[03:13:20] [Server thread/INFO]: MauGP was blown up by Ender Quantum Creeper
+[03:13:20] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:13:20] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:13:25] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:13:25] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:13:26] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:26] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:27] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:28] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:29] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:30] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:31] [Server thread/INFO]: MauGP issued server command: /gamemode survival
+[03:13:31] [Server thread/INFO]: [MauGP: Set own game mode to Survival Mode]
+[03:13:31] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:32] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/1054886, uuid='488dbb05-6675-4581-81d9-91d3f281cbe5', l='ServerLevel[world]', x=139.71, y=155.00, z=74.92, cpos=[8, 4], tl=161, v=true] died: Ultra Esqueleto Demoníaco was blown up by Ultra Esqueleto Demoníaco
+[03:13:32] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:33] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getBukkitEntity()" because the return value of "net.minecraft.world.entity.EntityTypes.spawn(net.minecraft.server.level.WorldServer, net.minecraft.core.BlockPosition, net.minecraft.world.entity.EnumMobSpawn, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)" is null
+	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.SpawnListener.onSpawn(SpawnListener.java:127) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor3.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:759) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:664) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.addEntity(ServerLevel.java:1656) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.addFreshEntity(ServerLevel.java:1564) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.lambda$addFreshEntityWithPassengers$0(ServerLevelAccessor.java:16) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.addFreshEntityWithPassengers(ServerLevelAccessor.java:16) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tryAddFreshEntityWithPassengers(ServerLevel.java:1679) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.createEntity(SummonCommand.java:70) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.spawnEntity(SummonCommand.java:80) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.lambda$register$2(SummonCommand.java:42) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:303) ~[?:?]
+	at net.minecraft.commands.Commands.dispatchServerCommand(Commands.java:292) ~[?:?]
+	at net.minecraft.world.level.BaseCommandBlock.performCommand(BaseCommandBlock.java:133) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.execute(CommandBlock.java:121) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.tick(CommandBlock.java:108) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.tick(BlockBehaviour.java:1157) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickBlock(ServerLevel.java:1300) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.runCollectedTicks(LevelTicks.java:197) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.tick(LevelTicks.java:94) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:814) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:13:38] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1057202, uuid='30c91618-ba9e-44be-bc04-fe420fa51273', l='ServerLevel[world]', x=107.55, y=154.00, z=76.00, cpos=[6, 4], tl=162, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[03:13:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1057087, uuid='36237911-4b64-487e-adae-419d46b2c82c', l='ServerLevel[world]', x=105.58, y=154.24, z=61.98, cpos=[6, 3], tl=299, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[03:13:54] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/1058981, uuid='79268b6a-39d2-413e-a4a9-19b56a1bd024', l='ServerLevel[world]', x=103.98, y=154.30, z=76.98, cpos=[6, 4], tl=372, v=true] died: Ultra Ravager tried to swim in lava
+[03:13:56] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/1058816, uuid='66f7ea7b-aea7-4436-acb0-c8280143dd82', l='ServerLevel[world]', x=102.03, y=154.51, z=75.03, cpos=[6, 4], tl=412, v=true] died: Ultra Ravager tried to swim in lava
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1056902, uuid='d71f426d-0c5e-457f-b633-930354423c71', l='ServerLevel[world]', x=76.29, y=171.06, z=94.94, cpos=[4, 5], tl=541, v=true] died: Demonio flotante was shot by Nicopowerxx1253 using [Arco de Gigante]
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:13:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:01] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:02] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:03] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:04] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:14:05] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:05] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:07] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:07] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:08] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:08] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:09] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:09] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:10] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:14:10] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:11] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:13] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:13] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:15] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:21] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:21] [Server thread/INFO]: NachoOnFire has completed the challenge [Return to Sender]
+[03:14:21] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/1075264, uuid='6a294d82-708c-4cdb-834d-20d1cd12c2b6', l='ServerLevel[world]', x=102.72, y=154.24, z=73.38, cpos=[6, 4], tl=27, v=true] died: Ender Ghast was fireballed by NachoOnFire
+[03:14:22] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:23] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:24] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053891, uuid='82a70c14-f59b-4512-a512-d58ea51b37a3', l='ServerLevel[world]', x=77.38, y=152.00, z=44.04, cpos=[4, 2], tl=1276, v=true] died: GIGA MagmaCube was blown up by Ultra Esqueleto Demoníaco
+[03:14:24] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053892, uuid='6391d096-4f42-4e71-950d-5b2f779e63f2', l='ServerLevel[world]', x=83.18, y=156.01, z=45.03, cpos=[5, 2], tl=1276, v=true] died: GIGA MagmaCube was blown up by Ultra Esqueleto Demoníaco
+[03:14:24] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:24] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 104, 152, 87
+[03:14:24] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1077057, uuid='e019f7ba-0b40-418b-91d9-57456589fe45', l='ServerLevel[world]', x=104.85, y=152.00, z=87.16, cpos=[6, 5], tl=1, v=true] died: Gato Galáctico was blown up by Ultra Esqueleto Demoníaco
+[03:14:24] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[03:14:25] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:25] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[03:14:26] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:26] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[03:14:27] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:14:27] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 136, 188, 66
+[03:14:27] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1077058, uuid='0863f31f-a376-4308-816b-972efe7ca929', l='ServerLevel[world]', x=136.36, y=188.48, z=66.90, cpos=[8, 4], tl=52, v=true] died: Gato Galáctico was slain by Nicopowerxx1253
+[03:14:27] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[03:14:27] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:27] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:14:28] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1074544, uuid='77e337f4-05d3-462b-a865-616b7373f462', l='ServerLevel[world]', x=113.60, y=163.36, z=82.84, cpos=[7, 5], tl=200, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[03:14:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[03:14:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:14:28] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Araña con Efectos (104.85349911649249, 152.0, 87.16176084912269
+[03:14:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[03:14:30] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:14:30] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:14:31] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:14:31] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Esqueleto de Clase (136.36059432554, 188.4784478286231, 66.90267323361942
+[03:14:31] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:31] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053898, uuid='7461fbd8-da04-414c-b135-a1d2e7ed2978', l='ServerLevel[world]', x=75.02, y=152.00, z=82.34, cpos=[4, 5], tl=1413, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:34] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getBukkitEntity()" because the return value of "net.minecraft.world.entity.EntityTypes.spawn(net.minecraft.server.level.WorldServer, net.minecraft.core.BlockPosition, net.minecraft.world.entity.EnumMobSpawn, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)" is null
+	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.SpawnListener.onSpawn(SpawnListener.java:127) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor3.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:759) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:664) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.addEntity(ServerLevel.java:1656) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.addFreshEntity(ServerLevel.java:1564) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.lambda$addFreshEntityWithPassengers$0(ServerLevelAccessor.java:16) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.addFreshEntityWithPassengers(ServerLevelAccessor.java:16) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tryAddFreshEntityWithPassengers(ServerLevel.java:1679) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.createEntity(SummonCommand.java:70) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.spawnEntity(SummonCommand.java:80) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.lambda$register$2(SummonCommand.java:42) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:303) ~[?:?]
+	at net.minecraft.commands.Commands.dispatchServerCommand(Commands.java:292) ~[?:?]
+	at net.minecraft.world.level.BaseCommandBlock.performCommand(BaseCommandBlock.java:133) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.execute(CommandBlock.java:121) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.tick(CommandBlock.java:108) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.tick(BlockBehaviour.java:1157) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickBlock(ServerLevel.java:1300) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.runCollectedTicks(LevelTicks.java:197) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.tick(LevelTicks.java:94) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:814) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:14:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1077417, uuid='cccf3fb6-94fd-4673-a777-bd5b4294e3c9', l='ServerLevel[world]', x=91.76, y=152.00, z=46.08, cpos=[5, 2], tl=186, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1077416, uuid='114481ea-472a-4f5b-85d6-fd65966be629', l='ServerLevel[world]', x=79.81, y=152.00, z=48.19, cpos=[4, 3], tl=186, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053893, uuid='1c973fee-e026-4433-accb-175e23ca78bf', l='ServerLevel[world]', x=86.60, y=152.00, z=49.40, cpos=[5, 3], tl=1482, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1077419, uuid='818ffdd8-cc54-4843-b779-cd13f97ef124', l='ServerLevel[world]', x=87.97, y=152.00, z=51.95, cpos=[5, 3], tl=186, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:35] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1077418, uuid='61ccf331-ad6a-46d9-b070-20099e12c5e9', l='ServerLevel[world]', x=89.52, y=152.00, z=49.57, cpos=[5, 3], tl=186, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:35] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1077415, uuid='622dc02c-32d3-41f9-b96b-161541591d35', l='ServerLevel[world]', x=79.52, y=152.00, z=43.72, cpos=[4, 2], tl=250, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081419, uuid='eca8c24e-8959-402b-88bc-7d4aa9e82d92', l='ServerLevel[world]', x=77.04, y=152.00, z=46.95, cpos=[4, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081422, uuid='b01d24a7-ec6f-4d7f-991c-a984517acb91', l='ServerLevel[world]', x=78.77, y=152.00, z=47.42, cpos=[4, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053895, uuid='e6e87b0f-0381-472f-9ff8-a796f2d9747c', l='ServerLevel[world]', x=78.95, y=155.81, z=47.68, cpos=[4, 2], tl=1546, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081417, uuid='c3edaa2e-e7fe-43d1-afcc-dcbf704e624d', l='ServerLevel[world]', x=86.08, y=152.00, z=45.76, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081423, uuid='6242eac4-84ca-4a12-8e55-3ffe10d94f5f', l='ServerLevel[world]', x=90.12, y=152.00, z=45.48, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081424, uuid='d32dd37f-2664-48b2-9d90-15b5be6c4417', l='ServerLevel[world]', x=93.26, y=152.00, z=46.69, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081425, uuid='6d9c1d61-03a2-4e0c-b8d2-11adcc55179e', l='ServerLevel[world]', x=91.75, y=152.00, z=47.63, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081420, uuid='b6894fe8-095a-4421-8484-7eb442f98b4a', l='ServerLevel[world]', x=80.80, y=152.00, z=46.69, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081426, uuid='1db9d71a-1327-41e0-8f12-8628ef72a846', l='ServerLevel[world]', x=88.92, y=152.00, z=47.56, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081427, uuid='e3e9a88d-d878-4483-bacd-3867a0dc24ef', l='ServerLevel[world]', x=90.08, y=152.00, z=47.75, cpos=[5, 2], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081421, uuid='ec28f99f-3ec1-4cfc-8145-140986bd87b0', l='ServerLevel[world]', x=79.26, y=152.00, z=48.45, cpos=[4, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081428, uuid='3316a69f-624f-4945-a8e8-d4797677ade9', l='ServerLevel[world]', x=88.76, y=152.00, z=49.11, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081429, uuid='adc4fc13-b3b0-4776-8618-936aa2766d7f', l='ServerLevel[world]', x=89.85, y=152.00, z=49.92, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081430, uuid='52d275e3-1fe6-4e9b-b813-848417fc36ae', l='ServerLevel[world]', x=88.05, y=152.00, z=50.16, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081431, uuid='247fa398-fc7a-499f-a04d-f6621ff8a350', l='ServerLevel[world]', x=90.52, y=152.00, z=50.47, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081432, uuid='346daa89-1e3b-4a06-adf4-17cf82ea889c', l='ServerLevel[world]', x=88.78, y=152.00, z=51.24, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081433, uuid='9166f92a-638f-4af9-963b-de13389d0993', l='ServerLevel[world]', x=90.70, y=152.00, z=53.66, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:38] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1081418, uuid='032af9b3-2d1e-468f-b531-7d1aefbaf926', l='ServerLevel[world]', x=87.12, y=152.00, z=48.66, cpos=[5, 3], tl=44, v=true] died: GIGA MagmaCube was blown up by Ender Ghast
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043949, uuid='a2f61038-9b99-4fb2-bc85-c70eda309a24', l='ServerLevel[world]', x=107.76, y=62.76, z=6.69, cpos=[6, 0], tl=4484, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043950, uuid='7b9c7c70-a092-420e-8708-131e0a5fc09c', l='ServerLevel[world]', x=108.94, y=62.50, z=6.93, cpos=[6, 0], tl=4484, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043951, uuid='521b66c1-a98a-4db3-b450-c0164b2d4acb', l='ServerLevel[world]', x=107.75, y=62.46, z=5.76, cpos=[6, 0], tl=4484, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043925, uuid='b1ea6004-c473-4ab6-8f14-2ecc572e97f8', l='ServerLevel[world]', x=101.16, y=60.00, z=3.20, cpos=[6, 0], tl=4487, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043921, uuid='1618d5c7-c2eb-4836-aa3a-e540989cba20', l='ServerLevel[world]', x=101.84, y=60.00, z=3.17, cpos=[6, 0], tl=4487, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043924, uuid='3b365271-b486-4ce0-99a0-341db62acb99', l='ServerLevel[world]', x=101.32, y=60.00, z=2.46, cpos=[6, 0], tl=4487, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043922, uuid='f31d2053-dcc4-4dfb-9be9-318c00855a04', l='ServerLevel[world]', x=101.87, y=60.00, z=3.71, cpos=[6, 0], tl=4487, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043923, uuid='3ea13c02-0030-4ebf-9e4f-37d63bc90da9', l='ServerLevel[world]', x=100.32, y=60.00, z=3.63, cpos=[6, 0], tl=4487, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043896, uuid='7b3e4652-04fa-445e-983c-4745ba095ed3', l='ServerLevel[world]', x=101.85, y=59.94, z=2.10, cpos=[6, 0], tl=4488, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043947, uuid='ee778507-23d2-43d1-9119-a8e9a0440dd2', l='ServerLevel[world]', x=95.02, y=49.41, z=26.90, cpos=[5, 1], tl=4484, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043948, uuid='d50c6153-887e-4ed8-adc7-a0b3f4a43a19', l='ServerLevel[world]', x=95.50, y=49.00, z=26.10, cpos=[5, 1], tl=4484, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043945, uuid='8d995a4e-5508-42de-9b09-ebb52c066dfc', l='ServerLevel[world]', x=96.35, y=49.09, z=26.65, cpos=[6, 1], tl=4484, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043941, uuid='4bc897fc-30d1-49da-bdad-d0ca9c70a88e', l='ServerLevel[world]', x=113.21, y=62.76, z=25.01, cpos=[7, 1], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043942, uuid='ddf0e5ac-8b12-4f66-87f0-d77a27708b3c', l='ServerLevel[world]', x=113.62, y=62.76, z=25.63, cpos=[7, 1], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043944, uuid='c8cc8a21-0601-46d9-a5e2-85f0397dcd55', l='ServerLevel[world]', x=113.27, y=62.46, z=26.38, cpos=[7, 1], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043943, uuid='0b833d96-6092-4d2b-8395-dcf381e55026', l='ServerLevel[world]', x=112.49, y=62.47, z=25.57, cpos=[7, 1], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082676, uuid='dce1e0b7-1e16-464d-8ce8-33ace0c8b031', l='ServerLevel[world]', x=79.45, y=152.00, z=45.06, cpos=[4, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082678, uuid='07270710-7ed2-4cff-af91-ff34b9315612', l='ServerLevel[world]', x=75.28, y=152.00, z=47.92, cpos=[4, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082679, uuid='1e81899a-9b30-4ee1-89d0-0fbd145c9a74', l='ServerLevel[world]', x=78.26, y=152.00, z=43.26, cpos=[4, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082680, uuid='c1ec38a6-bc79-4f55-b872-2126f0bc9d39', l='ServerLevel[world]', x=78.78, y=152.00, z=43.68, cpos=[4, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082681, uuid='f705f63c-271b-4abb-a796-b92d0f19d600', l='ServerLevel[world]', x=77.22, y=152.00, z=44.10, cpos=[4, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Set the weather to rain & thunder
+[03:14:40] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:14:40] [Server thread/INFO]: NachoOnFire ha muerto y ahora descanza en paz.
+[03:14:40] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de NachoOnFire. ¡HA SIDO PERMABANEADO!
+[03:14:40] [Server thread/INFO]: X: 85 || Y: 152 || Z: 43
+[03:14:40] [Server thread/INFO]: NachoOnFire was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082683, uuid='b3eed6d5-ea03-42a1-af6a-7e4e69154586', l='ServerLevel[world]', x=86.04, y=152.00, z=43.30, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082684, uuid='b7abc2ad-5cb0-40db-86e6-01d996cc1042', l='ServerLevel[world]', x=87.07, y=152.00, z=43.38, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082685, uuid='4514bbf0-ebba-493b-90a7-c7c3ac03ebc7', l='ServerLevel[world]', x=85.57, y=152.00, z=45.30, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082686, uuid='c6b93adb-fa4b-492a-9042-3b15f6f72d97', l='ServerLevel[world]', x=88.54, y=152.00, z=46.82, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082687, uuid='6ca27b81-980f-4f01-9325-efb2f353f71c', l='ServerLevel[world]', x=87.24, y=152.00, z=46.90, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082682, uuid='5c93ea3a-dc0e-45ed-98c5-860f08374a3e', l='ServerLevel[world]', x=81.07, y=152.00, z=45.00, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082677, uuid='ccf7fbe2-712c-47a4-b429-5bb8d53550c2', l='ServerLevel[world]', x=80.64, y=152.00, z=45.82, cpos=[5, 2], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043937, uuid='5ecd84d9-42ab-41b3-9f16-32368683bf03', l='ServerLevel[world]', x=124.15, y=58.19, z=33.86, cpos=[7, 2], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043939, uuid='60e01398-e588-4e43-be49-24e8daa05156', l='ServerLevel[world]', x=123.48, y=57.67, z=33.95, cpos=[7, 2], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043940, uuid='49ad588b-781f-4802-9496-bed3ca04e2bb', l='ServerLevel[world]', x=124.50, y=58.44, z=32.61, cpos=[7, 2], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/1043938, uuid='27413dbb-d800-4adf-88f2-71d8fef729f8', l='ServerLevel[world]', x=124.03, y=58.74, z=33.73, cpos=[7, 2], tl=4486, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053894, uuid='98a806f9-e0a0-4166-af1a-392d8bd7a756', l='ServerLevel[world]', x=123.24, y=152.00, z=44.26, cpos=[7, 2], tl=1595, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082688, uuid='3f7ef7f7-364f-4a18-9914-3748ee6de6e5', l='ServerLevel[world]', x=90.09, y=152.00, z=48.07, cpos=[5, 3], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082689, uuid='4edbe516-7cef-410d-ac4e-dcb7656d8b92', l='ServerLevel[world]', x=87.19, y=152.00, z=48.37, cpos=[5, 3], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1082690, uuid='e0f853dd-d394-4eff-be01-18a0d472e4ea', l='ServerLevel[world]', x=89.77, y=152.00, z=48.83, cpos=[5, 3], tl=29, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/1075263, uuid='d16c0838-c3a9-4538-8d00-5568e740afda', l='ServerLevel[world]', x=85.30, y=186.37, z=55.47, cpos=[5, 3], tl=404, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1073808, uuid='125f94d5-6b2a-45c5-bb4f-a18fe224b7b8', l='ServerLevel[world]', x=92.16, y=180.35, z=62.32, cpos=[5, 3], tl=490, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/1069892, uuid='c99272b8-217c-4ffd-bfb3-3e1e52b4069c', l='ServerLevel[world]', x=132.51, y=152.00, z=56.37, cpos=[8, 3], tl=703, v=true] died: Ultra Esqueleto Demoníaco was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053897, uuid='9aa3707e-27df-4e72-b16a-cabd9c47a4ee', l='ServerLevel[world]', x=88.87, y=156.15, z=75.98, cpos=[5, 4], tl=1595, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1053896, uuid='992918f2-0a97-455b-932a-c5321b48309f', l='ServerLevel[world]', x=93.39, y=152.00, z=65.57, cpos=[5, 4], tl=1595, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/1054888, uuid='fff708db-8e93-4a81-8520-fa3b2df9241f', l='ServerLevel[world]', x=90.99, y=152.00, z=71.02, cpos=[5, 4], tl=1534, v=true] died: Ultra Esqueleto Demoníaco was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/1075261, uuid='9a6be1de-9a43-482a-8610-f0e7791056bd', l='ServerLevel[world]', x=95.27, y=204.76, z=78.07, cpos=[5, 4], tl=404, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/1079697, uuid='2ef5e318-d45f-45b6-a2de-722c502a26bc', l='ServerLevel[world]', x=101.63, y=152.00, z=71.35, cpos=[6, 4], tl=183, v=true] died: Ultra Ravager was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/1081275, uuid='576ae1e4-d3ea-4aaa-ab3f-feeac5994d00', l='ServerLevel[world]', x=96.59, y=155.55, z=78.89, cpos=[6, 4], tl=103, v=true] died: Ghast Demoníaco was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/1079611, uuid='95209638-b624-46d2-a91f-f58393281149', l='ServerLevel[world]', x=136.50, y=152.00, z=66.50, cpos=[8, 4], tl=186, v=true] died: Ultra Esqueleto Científico was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1080071, uuid='d5fe319b-3d70-45d0-b1d8-3e1efef7a3dd', l='ServerLevel[world]', x=73.93, y=153.83, z=85.34, cpos=[4, 5], tl=162, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1080072, uuid='001a28e6-5453-4951-93a7-a28c555f4d48', l='ServerLevel[world]', x=75.03, y=152.00, z=80.92, cpos=[4, 5], tl=162, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1080073, uuid='81236abc-8be2-4655-a496-1cd99d7a503f', l='ServerLevel[world]', x=77.00, y=152.00, z=85.09, cpos=[4, 5], tl=162, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1080074, uuid='733fca3d-5e9b-4784-a2ff-a105fd9b68fb', l='ServerLevel[world]', x=78.15, y=152.00, z=86.38, cpos=[4, 5], tl=162, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1074291, uuid='c27aba90-c9df-4e18-a71c-0f521a2ae7c6', l='ServerLevel[world]', x=90.54, y=171.22, z=80.40, cpos=[5, 5], tl=458, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/1075262, uuid='c9160280-c564-493c-b299-b952102a7d9e', l='ServerLevel[world]', x=100.72, y=155.56, z=89.90, cpos=[6, 5], tl=404, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:14:40] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:14:40] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 117, 152, 110
+[03:14:40] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1077059, uuid='1b227c77-358d-4f76-af82-73c262115d28', l='ServerLevel[world]', x=117.53, y=152.00, z=110.48, cpos=[7, 6], tl=318, v=true] died: Gato Galáctico was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 116, 152, 108
+[03:14:40] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/1077060, uuid='9eb3a287-1fb6-4d92-a9fd-436f01a3c053', l='ServerLevel[world]', x=116.48, y=152.00, z=108.50, cpos=[7, 6], tl=318, v=true] died: Gato Galáctico was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: Set the weather to rain & thunder
+[03:14:40] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:14:40] [Server thread/INFO]: MauGP ha muerto y ahora descanza en paz.
+[03:14:40] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de MauGP. ¡HA SIDO PERMABANEADO!
+[03:14:40] [Server thread/INFO]: X: 76 || Y: 153 || Z: 100
+[03:14:40] [Server thread/INFO]: MauGP was blown up by Ender Quantum Creeper
+[03:14:40] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:14:40] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[03:14:40] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[03:14:41] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[03:14:41] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[03:14:42] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[03:14:42] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[03:14:43] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:14:43] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:14:44] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:14:44] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Shulker Tnt (117.5311221846847, 152.0, 110.4778743999138
+[03:14:44] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:14:44] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga Phantom (116.47667485341829, 152.0, 108.50266989472475
+[03:14:45] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:14:45] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:14:50] [Server thread/INFO]: identidad303XDnt issued server command: /tp MauGP
+[03:14:50] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to MauGP]
+[03:14:53] [Server thread/INFO]: NachoOnFire issued server command: /tp identidad303XDnt
+[03:14:53] [Server thread/INFO]: [NachoOnFire: Teleported NachoOnFire to identidad303XDnt]
+[03:14:54] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253
+[03:14:54] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to Nicopowerxx1253]
+[03:14:59] [Server thread/INFO]: MauGP issued server command: /gamemode survival
+[03:14:59] [Server thread/INFO]: [MauGP: Set own game mode to Survival Mode]
+[03:15:01] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[03:15:01] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083607, uuid='cbeb9cbb-d283-48f1-b327-bae8b7b616f2', l='ServerLevel[world]', x=76.47, y=152.00, z=46.15, cpos=[4, 2], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083609, uuid='213b4ebe-abaa-4874-8c1c-548160afc158', l='ServerLevel[world]', x=75.02, y=152.00, z=45.86, cpos=[4, 2], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083605, uuid='ddd95633-ac9c-493c-84e5-da042b9dea9b', l='ServerLevel[world]', x=80.04, y=152.00, z=43.68, cpos=[5, 2], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083580, uuid='ba35b5ea-6724-44f0-8bb2-68da39505469', l='ServerLevel[world]', x=117.99, y=152.00, z=43.92, cpos=[7, 2], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083582, uuid='bd978e15-a83e-405d-b262-5879c5f51103', l='ServerLevel[world]', x=124.81, y=152.00, z=45.79, cpos=[7, 2], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083581, uuid='3a8d0de1-e20b-4e97-a340-a0dfa12979ec', l='ServerLevel[world]', x=130.12, y=152.00, z=43.73, cpos=[8, 2], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083610, uuid='021aba74-2a45-4cf0-bf89-bfe739c001dc', l='ServerLevel[world]', x=74.15, y=152.00, z=50.09, cpos=[4, 3], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083602, uuid='c46521e9-f9ca-4884-b2a7-e1c3d96f7180', l='ServerLevel[world]', x=73.26, y=152.00, z=50.12, cpos=[4, 3], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083606, uuid='7d681d78-a415-4021-b96d-4400fd0e19a9', l='ServerLevel[world]', x=79.56, y=152.00, z=49.06, cpos=[4, 3], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083583, uuid='faa1886d-1293-43b9-883f-f4e558f88333', l='ServerLevel[world]', x=95.93, y=153.04, z=62.19, cpos=[5, 3], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083584, uuid='530d4869-527b-4c25-8824-a898ece68876', l='ServerLevel[world]', x=93.52, y=152.00, z=71.68, cpos=[5, 4], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083586, uuid='d898e71b-0d02-4f6b-82da-212daa700548', l='ServerLevel[world]', x=90.80, y=152.00, z=74.68, cpos=[5, 4], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083585, uuid='e3b93722-6df7-4f19-b0c3-160247db04e5', l='ServerLevel[world]', x=91.63, y=152.00, z=68.16, cpos=[5, 4], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083590, uuid='21deaff9-e2bb-4510-bd2e-94b5ed15315b', l='ServerLevel[world]', x=73.56, y=152.00, z=91.20, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083591, uuid='95c9e0d8-4d06-427d-8f83-52bb7eb97a73', l='ServerLevel[world]', x=76.10, y=152.00, z=87.16, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083592, uuid='3396fd04-3362-4f18-bab8-2f374197f979', l='ServerLevel[world]', x=73.37, y=152.00, z=92.15, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083593, uuid='8ba28ed1-2a77-4740-bf16-47f7f05e417e', l='ServerLevel[world]', x=76.83, y=152.00, z=90.06, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083594, uuid='cbebb2ee-ed7d-4587-a7d4-4e9a8dd97605', l='ServerLevel[world]', x=76.16, y=152.00, z=82.66, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083596, uuid='d818a07f-b90d-4bc2-b0fe-9c29d437c1f5', l='ServerLevel[world]', x=74.66, y=152.00, z=82.57, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083597, uuid='1ad9c7c9-baa7-459f-b6d1-8aff4f37add4', l='ServerLevel[world]', x=75.93, y=152.00, z=85.17, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083598, uuid='7b10f3f7-7bd6-4327-99fd-ab521131d372', l='ServerLevel[world]', x=78.84, y=152.52, z=84.26, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083599, uuid='c12b9f7c-9530-431a-9a9e-b34f64f29dc4', l='ServerLevel[world]', x=78.37, y=152.00, z=82.72, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083601, uuid='2532ca1f-d60c-42de-af4e-62248247ddd7', l='ServerLevel[world]', x=75.98, y=152.00, z=90.27, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083595, uuid='c6e8ac75-9021-4c18-9c68-750210f8f432', l='ServerLevel[world]', x=74.22, y=152.00, z=81.51, cpos=[4, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083588, uuid='23768c3d-f334-4c0c-8e40-896b85fcea0e', l='ServerLevel[world]', x=92.79, y=152.00, z=84.69, cpos=[5, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083589, uuid='18ce4f14-4bf4-40fe-8177-11c4c0ffdf86', l='ServerLevel[world]', x=81.35, y=152.00, z=91.01, cpos=[5, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083600, uuid='1c1c7a96-abea-4961-ae32-5f61cb2b9212', l='ServerLevel[world]', x=80.98, y=152.00, z=88.92, cpos=[5, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1083587, uuid='f2a4fdd9-c6ff-4faa-bf5e-3c98e2630532', l='ServerLevel[world]', x=95.78, y=152.00, z=80.96, cpos=[5, 5], tl=732, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:18] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:15:18] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:15:18] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088684, uuid='0e36f45c-dd1d-4bbb-97fb-72dd40ccd3fa', l='ServerLevel[world]', x=102.58, y=152.00, z=47.78, cpos=[6, 2], tl=354, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088541, uuid='958ee431-4796-4328-83df-886a69bc615f', l='ServerLevel[world]', x=120.17, y=152.00, z=43.52, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088542, uuid='64641748-a32a-4e03-9680-46152fdfe90d', l='ServerLevel[world]', x=117.96, y=152.00, z=43.26, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088543, uuid='e8948905-5d03-4f02-962e-fb90f6d38f20', l='ServerLevel[world]', x=117.74, y=152.00, z=43.99, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088544, uuid='4fa644f1-ba9c-4a6d-8077-48d3eb0e8a26', l='ServerLevel[world]', x=119.58, y=152.00, z=45.14, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088549, uuid='919e32ba-cce0-4ce2-a61e-8cec0b57352c', l='ServerLevel[world]', x=123.12, y=152.00, z=45.79, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088550, uuid='ff285f0f-d5c4-41f9-aee6-8a3ddc91b18c', l='ServerLevel[world]', x=123.78, y=152.00, z=43.26, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088545, uuid='ef466c94-d653-4769-8ff2-74535368ae55', l='ServerLevel[world]', x=124.66, y=152.00, z=46.10, cpos=[7, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088546, uuid='3b2a1d10-1b41-423e-b496-e8afd5284f50', l='ServerLevel[world]', x=129.65, y=152.00, z=45.47, cpos=[8, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088547, uuid='58d8a43f-418e-456e-9848-ca723af6b690', l='ServerLevel[world]', x=130.95, y=152.00, z=43.26, cpos=[8, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088548, uuid='b4ccd751-d67f-4c76-8c90-740fae95c5c3', l='ServerLevel[world]', x=128.87, y=152.00, z=45.15, cpos=[8, 2], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088551, uuid='680ef1be-d3ac-4a50-aba9-455b0e98e474', l='ServerLevel[world]', x=93.84, y=152.00, z=59.39, cpos=[5, 3], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088552, uuid='9a0130b9-f592-4d9a-b78a-3a9748937adc', l='ServerLevel[world]', x=93.92, y=152.00, z=63.64, cpos=[5, 3], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088553, uuid='98b2bd07-03c1-44b9-84d5-bf7e238e1a94', l='ServerLevel[world]', x=91.99, y=152.00, z=61.56, cpos=[5, 3], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088554, uuid='9349179a-c13e-47fd-8187-077b41f9bb7d', l='ServerLevel[world]', x=94.15, y=152.00, z=61.52, cpos=[5, 3], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1088672, uuid='7a889c67-671c-4cc3-ba75-f6a5f38ae14e', l='ServerLevel[world]', x=131.72, y=153.00, z=48.60, cpos=[8, 3], tl=414, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088555, uuid='e965ca90-e90e-467f-9167-7af34c7a4a5d', l='ServerLevel[world]', x=90.97, y=152.00, z=72.77, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088556, uuid='c4c456d7-5f97-49bb-bf87-f42ecd65d6a3', l='ServerLevel[world]', x=93.93, y=152.00, z=69.86, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088557, uuid='bea868b3-1eb0-4b2b-a370-c39e37ede094', l='ServerLevel[world]', x=90.61, y=152.00, z=73.66, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088558, uuid='d5bab841-410e-404c-8a9f-a6e296a31baf', l='ServerLevel[world]', x=91.21, y=152.00, z=72.10, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088559, uuid='7b4abbf4-a3ca-47d6-85b5-79ba977b7bf4', l='ServerLevel[world]', x=88.20, y=153.73, z=68.00, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088560, uuid='a8436d6e-a3ce-4133-8f5c-a517648b7591', l='ServerLevel[world]', x=92.29, y=152.00, z=66.29, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088561, uuid='8d64b9a4-5130-480e-9098-7db56d97c1e1', l='ServerLevel[world]', x=89.45, y=153.73, z=70.76, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088562, uuid='bf995c18-5aa9-4449-9c93-eb427affa13b', l='ServerLevel[world]', x=87.90, y=152.00, z=68.67, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088563, uuid='2e2ecb73-c009-42a3-ac60-42c25e63b45b', l='ServerLevel[world]', x=89.20, y=152.00, z=75.57, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088564, uuid='7d87a239-5049-4540-9b5c-5db2fc721624', l='ServerLevel[world]', x=93.47, y=152.00, z=73.63, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088565, uuid='5ea7bd6a-9e8b-4a13-b279-564aef89e8b5', l='ServerLevel[world]', x=91.64, y=152.00, z=79.75, cpos=[5, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1088740, uuid='bbd00bb0-3f91-4cb7-a66f-c7da071fcacb', l='ServerLevel[world]', x=106.45, y=158.32, z=71.21, cpos=[6, 4], tl=298, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088566, uuid='4ab39b05-0e2f-46d2-8e01-aadac50a8e26', l='ServerLevel[world]', x=97.02, y=153.82, z=73.57, cpos=[6, 4], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1088675, uuid='1c565c82-123b-4c68-b17c-7e0d6d81307d', l='ServerLevel[world]', x=97.16, y=152.00, z=78.41, cpos=[6, 4], tl=395, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1088733, uuid='b22e4b1a-8702-4a27-b767-51363ffa8bc8', l='ServerLevel[world]', x=133.09, y=183.91, z=72.93, cpos=[8, 4], tl=325, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088571, uuid='136fd81c-a057-45ab-9018-77c190817e72', l='ServerLevel[world]', x=76.26, y=152.00, z=87.01, cpos=[4, 5], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088572, uuid='cf8fdf3d-0e0e-4e1a-936f-7499fcbae8c3', l='ServerLevel[world]', x=79.92, y=152.00, z=91.01, cpos=[4, 5], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1088735, uuid='15ba4a8d-20c2-48ca-94bc-c827cb8e417d', l='ServerLevel[world]', x=79.19, y=175.95, z=95.27, cpos=[4, 5], tl=320, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1088688, uuid='bc3e5ad3-600e-4c63-972a-12ba61d42827', l='ServerLevel[world]', x=79.75, y=176.02, z=81.98, cpos=[4, 5], tl=329, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088567, uuid='2cfdf0a9-d82b-4991-9f3f-42fad8f216eb', l='ServerLevel[world]', x=89.23, y=152.00, z=84.12, cpos=[5, 5], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088568, uuid='e4a7e0e1-2e8f-4e97-b1e4-205008decabc', l='ServerLevel[world]', x=94.93, y=152.00, z=86.08, cpos=[5, 5], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088569, uuid='a9b85d4d-9843-4b83-9d98-387880b94dd4', l='ServerLevel[world]', x=94.43, y=152.00, z=82.73, cpos=[5, 5], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088570, uuid='c4163f2c-7902-47b0-a5f9-4ba95bff1119', l='ServerLevel[world]', x=93.23, y=152.00, z=82.73, cpos=[5, 5], tl=533, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1088741, uuid='0b37f814-d06f-4fb5-bbca-fd99f4ad5adb', l='ServerLevel[world]', x=91.95, y=152.10, z=85.52, cpos=[5, 5], tl=295, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:15:45] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/1088742, uuid='dcfa7c8c-28ed-4b31-9784-b3fcdb2df321', l='ServerLevel[world]', x=95.04, y=170.55, z=85.60, cpos=[5, 5], tl=291, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[03:15:46] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1088679, uuid='8aab8b2f-e2e9-410c-9c78-3be6d6c833b2', l='ServerLevel[world]', x=103.78, y=152.00, z=90.21, cpos=[6, 5], tl=374, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:15:46] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:15:46] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:15:46] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:15:50] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:15:52] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:15:53] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:15:59] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:16:00] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:16:02] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089011, uuid='312c4057-20aa-4d59-b1ad-88a73fc46d0d', l='ServerLevel[world]', x=97.35, y=152.00, z=45.08, cpos=[6, 2], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089010, uuid='07348ddb-a61a-4c3f-a233-78c2adfbd3ad', l='ServerLevel[world]', x=113.98, y=153.00, z=45.08, cpos=[7, 2], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089012, uuid='cf359978-80fe-4285-b83d-d1bd05933255', l='ServerLevel[world]', x=135.41, y=152.00, z=47.07, cpos=[8, 2], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089001, uuid='b0672709-f647-4f24-9ef5-1768bed05ddd', l='ServerLevel[world]', x=128.02, y=153.25, z=45.96, cpos=[8, 2], tl=391, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089005, uuid='b68d15e5-ef9d-482b-b557-474656273dd4', l='ServerLevel[world]', x=92.04, y=153.02, z=56.08, cpos=[5, 3], tl=391, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089002, uuid='5083d081-20ec-4559-bcf9-42f0693a6843', l='ServerLevel[world]', x=97.83, y=152.00, z=63.01, cpos=[6, 3], tl=391, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089009, uuid='03ab2ddf-cb04-4244-957c-8df07dc1359c', l='ServerLevel[world]', x=108.59, y=160.43, z=58.35, cpos=[6, 3], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089003, uuid='027770db-0e10-4be4-8837-36a8a951abc3', l='ServerLevel[world]', x=75.08, y=152.50, z=74.22, cpos=[4, 4], tl=391, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089008, uuid='42d86407-55d6-4707-9ada-fafb6768224d', l='ServerLevel[world]', x=78.56, y=158.54, z=77.71, cpos=[4, 4], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089004, uuid='c1c858b6-d692-4b8d-9275-c0f1781a32fb', l='ServerLevel[world]', x=94.54, y=152.42, z=66.49, cpos=[5, 4], tl=391, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089007, uuid='c11add91-cd13-4446-9ba3-913fba4a003d', l='ServerLevel[world]', x=127.16, y=157.82, z=90.67, cpos=[7, 5], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089006, uuid='68d726aa-816f-4b8f-a782-6f6f0e5e3f56', l='ServerLevel[world]', x=138.96, y=152.00, z=93.37, cpos=[8, 5], tl=391, v=true] died: GIGA MagmaCube was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:16:06] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:16:06] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:16:06] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089019, uuid='fee38d1a-4cee-445a-b3f4-4dbf23d06ace', l='ServerLevel[world]', x=136.73, y=152.00, z=102.71, cpos=[8, 6], tl=327, v=true] died: GIGA Slime was blown up by Ender Quantum Creeper
+[03:16:06] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:16:12] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:16:14] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:16:15] [Server thread/INFO]: Set the weather to rain & thunder
+[03:16:15] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:16:15] [Server thread/INFO]: NachoOnFire ha muerto y ahora descanza en paz.
+[03:16:15] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de NachoOnFire. ¡HA SIDO PERMABANEADO!
+[03:16:15] [Server thread/INFO]: X: 111 || Y: 152 || Z: 88
+[03:16:15] [Server thread/INFO]: NachoOnFire was slain by Skeleton
+[03:16:15] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:16:16] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:16:17] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:16:19] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:16:19] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089107, uuid='ab9dbb07-fc1f-4727-add0-bce1192b5e4b', l='ServerLevel[world]', x=117.81, y=152.75, z=67.02, cpos=[7, 4], tl=248, v=true] died: GIGA Slime was shot by Wither Skeleton
+[03:16:20] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:16:21] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089435, uuid='18b3dced-b63c-424c-9169-4f467a7cdcd1', l='ServerLevel[world]', x=113.77, y=152.75, z=69.49, cpos=[7, 4], tl=8, v=true] died: GIGA Slime was shot by Wither Skeleton
+[03:16:25] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[03:16:25] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[03:16:25] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089105, uuid='8ceae39b-4598-4dbe-850e-5bd3701c5ff4', l='ServerLevel[world]', x=111.86, y=152.00, z=64.56, cpos=[6, 4], tl=364, v=true] died: GIGA Slime was shot by Wither Skeleton
+[03:16:27] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089433, uuid='fa7cd064-3ffa-42d3-bca1-99a160c3f3c7', l='ServerLevel[world]', x=109.49, y=152.00, z=68.19, cpos=[6, 4], tl=136, v=true] died: GIGA Slime was shot by Wither Skeleton
+[03:16:28] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089111, uuid='eb5c716d-d011-488c-b6a6-1a95fee378ef', l='ServerLevel[world]', x=82.76, y=153.17, z=110.45, cpos=[5, 6], tl=422, v=true] died: GIGA Slime was slain by Renzo212123
+[03:16:28] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[03:16:28] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[03:16:29] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089575, uuid='3cf7d96e-6630-4bd7-a0f4-7a30c225e973', l='ServerLevel[world]', x=80.52, y=152.42, z=108.82, cpos=[5, 6], tl=7, v=true] died: GIGA Slime was slain by Renzo212123
+[03:16:30] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089576, uuid='478152a6-e4f3-4232-884b-a5fbc47fcc57', l='ServerLevel[world]', x=80.55, y=152.00, z=109.76, cpos=[5, 6], tl=19, v=true] died: GIGA Slime was slain by Renzo212123
+[03:16:32] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:16:32] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/1089588, uuid='7592a8fc-9d98-4a8f-a12a-f2d757596c58', l='ServerLevel[world]', x=79.46, y=153.18, z=108.62, cpos=[4, 6], tl=13, v=true] died: GIGA Slime was slain by Renzo212123
+[03:16:32] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[03:16:32] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[03:16:34] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:16:34] [Server thread/INFO]: Named entity EntityMagmaCube['GIGA MagmaCube'/1089135, uuid='62c4f596-0240-4b57-b7e4-999e235ee6f9', l='ServerLevel[world]', x=135.66, y=152.00, z=44.04, cpos=[8, 2], tl=547, v=true] died: GIGA MagmaCube was slain by Pufferfish invulnerable
+[03:16:35] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: null
+[03:16:37] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/1089200, uuid='8a5c645c-9307-458e-9e0b-78ebdd3ef5ec', l='ServerLevel[world]', x=131.40, y=152.00, z=106.56, cpos=[8, 6], tl=494, v=true] died: Ultra Esqueleto Demoníaco was slain by Skeleton
+[03:16:52] [Async Chat Thread - #25/INFO]: [Not Secure] <Nicopowerxx1253> identidad como que descanso yo pense que estabamos en descanso ya
+[03:16:55] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> ez
+[03:16:59] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:17:01] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:01] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:01] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:01] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:02] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:02] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:03] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> ez
+[03:17:05] [Async Chat Thread - #27/INFO]: [Not Secure] <Nicopowerxx1253> identidad como que descanso yo pense que estabamos en descanso ya
+[03:17:06] [Async Chat Thread - #25/INFO]: [Not Secure] <Nicopowerxx1253> identidad como que descanso yo pense que estabamos en descanso ya
+[03:17:06] [Async Chat Thread - #27/INFO]: [Not Secure] <Nicopowerxx1253> identidad como que descanso yo pense que estabamos en descanso ya
+[03:17:33] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:34] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:34] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:34] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:34] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:34] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:17:34] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:35] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:35] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:35] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:36] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:36] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:36] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:36] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:17:36] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:17:36] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:36] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:39] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:39] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:39] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:17:41] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:41] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:41] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:17:42] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:42] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:42] [Server thread/INFO]: Set the weather to rain & thunder
+[03:17:42] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:17:42] [Server thread/INFO]: Nicopowerxx1253 ha muerto y ahora descanza en paz.
+[03:17:42] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Nicopowerxx1253. ¡HA SIDO PERMABANEADO!
+[03:17:42] [Server thread/INFO]: X: 97 || Y: 152 || Z: 67
+[03:17:42] [Server thread/INFO]: Nicopowerxx1253 was killed by magic
+[03:17:42] [Server thread/INFO]: identidad303XDnt issued server command: /effect give Nicopowerxx1253 minecraft:instant_damage 1 100
+[03:17:42] [Server thread/INFO]: [identidad303XDnt: Applied effect Instant Damage to Nicopowerxx1253]
+[03:17:44] [Server thread/INFO]: Nicopowerxx1253 lost connection: Has sido PERMABANEADO
+[03:17:44] [Server thread/INFO]: Nicopowerxx1253 ha abandonado el servidor.
+[03:17:47] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:17:48] [Server thread/INFO]: identidad303XDnt issued server command: /pardon Nicopowerxx1253
+[03:17:48] [Server thread/INFO]: [identidad303XDnt: Unbanned Nicopowerxx1253]
+[03:17:59] [User Authenticator #17/INFO]: UUID of player Nicopowerxx1253 is 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
+[03:17:59] [Server thread/INFO]: Nicopowerxx1253 se ha unido al servidor.
+[03:17:59] [Server thread/INFO]: Nicopowerxx1253[/127.36.78.88:36973] logged in with entity id 1098153 at ([world]-33.525581275973515, 54.100000001490116, 30.72631572431854)
+[03:18:07] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode survival Nicopowerxx1253
+[03:18:07] [Server thread/INFO]: [identidad303XDnt: Set Nicopowerxx1253's game mode to Survival Mode]
+[03:18:13] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253 identidad303XDnt
+[03:18:13] [Server thread/INFO]: [identidad303XDnt: Teleported Nicopowerxx1253 to identidad303XDnt]
+[03:18:17] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[03:18:17] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[03:18:17] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:18:18] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:18:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:18:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:18:19] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:18:19] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> ahora yo spawneo
+[03:18:19] [Server thread/INFO]: MauGP issued server command: /deop identidad303XDnt
+[03:18:19] [Server thread/INFO]: [MauGP: Made identidad303XDnt no longer a server operator]
+[03:18:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:18:22] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:18:22] [Async Chat Thread - #27/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:18:22] [Async Chat Thread - #26/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:18:22] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:18:23] [Async Chat Thread - #25/INFO]: [Not Secure] <Renzo212123> CABRITUS
+[03:18:25] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253 identidad303XDnt
+[03:18:25] [Server thread/INFO]: MauGP issued server command: /gamemode survival identidad303XDnt
+[03:18:25] [Server thread/INFO]: [MauGP: Set identidad303XDnt's game mode to Survival Mode]
+[03:18:25] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253 identidad303XDnt
+[03:18:30] [Server thread/INFO]: MauGP issued server command: /gamemode creative Renzo212123
+[03:18:30] [Server thread/INFO]: [MauGP: Set Renzo212123's game mode to Creative Mode]
+[03:18:33] [Server thread/INFO]: MauGP issued server command: /op Renzo212123
+[03:18:33] [Server thread/INFO]: [MauGP: Made Renzo212123 a server operator]
+[03:18:35] [Server thread/INFO]: NachoOnFire issued server command: /tp identidad303XDnt NachoOnFire
+[03:18:35] [Server thread/INFO]: [NachoOnFire: Teleported identidad303XDnt to NachoOnFire]

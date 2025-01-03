@@ -3,10 +3,10 @@ Players:
     UUID: 8794f8df-32b5-3f1f-88db-58309a8da55f
     HP: 0
     LastDay: 60
-    banCause: Proyectil
-    banTime: 03:05:43
+    banCause: Explosión
+    banTime: 03:14:40
     banDay: '2025-01-03'
-    coords: 141 156 77
+    coords: 76 153 100
   nacholacabragod:
     UUID: f37ebab5-21bb-3a98-b599-742d6628c9df
     HP: 0
@@ -27,26 +27,26 @@ Players:
     UUID: 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
     HP: 0
     LastDay: 60
-    banCause: Proyectil
-    banTime: 03:05:41
+    banCause: Mobs
+    banTime: 03:08:51
     banDay: '2025-01-03'
-    coords: 133 156 63
+    coords: 135 152 76
   Nicopowerxx1253:
     UUID: 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
     HP: 0
     LastDay: 60
-    banCause: Mobs
-    banTime: 03:00:19
+    banCause: Causa desconocida.
+    banTime: 03:17:42
     banDay: '2025-01-03'
-    coords: 102 152 85
+    coords: 97 152 67
   NachoOnFire:
     UUID: 76767e0b-41f7-34e2-b3af-e986edc144a0
     HP: 0
     LastDay: 60
-    banCause: Explosión
-    banTime: 03:00:02
+    banCause: Mobs
+    banTime: 03:16:15
     banDay: '2025-01-03'
-    coords: 86 152 54
+    coords: 111 152 88
   Detectivefacha:
     UUID: 4c6a8a24-463a-3fa0-8868-fec5aa76743f
     HP: 0
