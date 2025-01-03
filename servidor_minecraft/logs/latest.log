@@ -3138,3 +3138,371 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld
 [02:58:16] [Server thread/INFO]: Named entity EntityCat['Gato Supernova'/890024, uuid='80142f99-b402-4508-8c53-4c46e8d90bb6', l='ServerLevel[world]', x=100.31, y=157.00, z=41.17, cpos=[6, 2], tl=161, v=true] died: Gato Supernova suffocated in a wall
 [02:58:27] [Server thread/INFO]: identidad303XDnt issued server command: /tp Renzo212123
 [02:58:27] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to Renzo212123]
+[02:58:32] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/892712, uuid='e7705b42-5854-4050-aa6c-ba0c59385a69', l='ServerLevel[world]', x=113.16, y=153.82, z=70.68, cpos=[7, 4], tl=328, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[02:58:48] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:58:48] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[02:58:48] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:58:51] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/893978, uuid='228df6d7-3376-44e3-94f2-8b3ff59155b1', l='ServerLevel[world]', x=122.48, y=152.00, z=81.38, cpos=[7, 5], tl=607, v=true] died: Ultra Esqueleto Científico tried to swim in lava
+[02:59:05] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/892196, uuid='bcfb4665-5448-4dd1-8dcd-3e299f08a49a', l='ServerLevel[world]', x=140.00, y=171.64, z=54.37, cpos=[8, 3], tl=1027, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[02:59:15] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[02:59:15] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[02:59:22] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[02:59:22] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[02:59:42] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/896381, uuid='47d17276-a7d2-4c1e-9c27-1f0e23ac79a5', l='ServerLevel[world]', x=91.50, y=165.00, z=44.50, cpos=[5, 2], tl=771, v=true] died: Demonio flotante suffocated in a wall
+[02:59:44] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/896375, uuid='7ac7b957-9e5e-45a3-8604-cabaec9f7a3c', l='ServerLevel[world]', x=96.50, y=165.00, z=43.50, cpos=[6, 2], tl=821, v=true] died: Demonio flotante suffocated in a wall
+[02:59:47] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 100, 157, 41
+[02:59:47] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/902989, uuid='f754e495-98a9-4c2b-aabc-a68ad2f87869', l='ServerLevel[world]', x=100.31, y=157.00, z=41.17, cpos=[6, 2], tl=161, v=true] died: Gato Galáctico suffocated in a wall
+[02:59:47] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:48] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 100, 157, 41
+[02:59:48] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/903160, uuid='61ffe463-dad4-434f-8a83-d4f727043bfc', l='ServerLevel[world]', x=100.31, y=157.00, z=41.17, cpos=[6, 2], tl=161, v=true] died: Gato Galáctico suffocated in a wall
+[02:59:48] [Server thread/ERROR]: Could not pass event EntityPickupItemEvent to Permadeath v1.3
+java.lang.IllegalArgumentException: name cannot be null
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:145) ~[guava-31.1-jre.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.getPlayer(CraftServer.java:598) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:683) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at tech.sebazcrc.permadeath.data.PlayerDataManager.<init>(PlayerDataManager.java:65) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.EntityEvents.onBreakSkull(EntityEvents.java:56) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor29.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.entity.item.ItemEntity.playerTouch(ItemEntity.java:478) ~[?:?]
+	at net.minecraft.world.entity.player.Player.touch(Player.java:632) ~[?:?]
+	at net.minecraft.world.entity.player.Player.aiStep(Player.java:597) ~[?:?]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3016) ~[?:?]
+	at net.minecraft.world.entity.player.Player.tick(Player.java:276) ~[?:?]
+	at net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:758) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:359) ~[?:?]
+	at net.minecraft.network.Connection.tick(Connection.java:593) ~[?:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:234) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1573) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:59:48] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:48] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:48] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 100, 157, 41
+[02:59:48] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/903499, uuid='5eff19fd-88ca-4454-832d-c0fc6fb17d9d', l='ServerLevel[world]', x=100.31, y=157.00, z=41.17, cpos=[6, 2], tl=161, v=true] died: Gato Galáctico suffocated in a wall
+[02:59:48] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:49] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:49] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:49] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:49] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 123, 152, 67
+[02:59:49] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/903502, uuid='44c3072e-e219-4188-b6cc-88f4577415b1', l='ServerLevel[world]', x=123.56, y=152.00, z=67.50, cpos=[7, 4], tl=186, v=true] died: Gato Galáctico was killed by Bruja Imposible using magic
+[02:59:49] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 121, 152, 69
+[02:59:49] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/902992, uuid='f127615f-a372-4c83-80cd-9332628c0b50', l='ServerLevel[world]', x=121.88, y=152.00, z=69.60, cpos=[7, 4], tl=207, v=true] died: Gato Galáctico was killed by Bruja Imposible using magic
+[02:59:49] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:49] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:50] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:50] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:50] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:50] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:50] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:50] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[02:59:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:51] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 132, 152, 64
+[02:59:51] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/903503, uuid='3e587bc3-2f94-480a-8d35-6b48a408067c', l='ServerLevel[world]', x=132.33, y=152.39, z=64.66, cpos=[8, 4], tl=219, v=true] died: Gato Galáctico was blown up by Ghast Demoníaco
+[02:59:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:51] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Ghast Demoníaco (100.31001684320522, 157.0, 41.167566608697754
+[02:59:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:52] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Pufferfish invulnerable (100.31001684320522, 157.0, 41.167566608697754
+[02:59:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:52] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Quantum Creeper (100.31001684320522, 157.0, 41.167566608697754
+[02:59:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:53] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:53] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:53] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Pufferfish invulnerable (123.55942036673824, 152.0, 67.50205212105598
+[02:59:53] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:53] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Gigante (121.87736633447521, 152.0, 69.59886218414164
+[02:59:54] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:54] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 123, 207, 66
+[02:59:54] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/903163, uuid='80dd40db-2b53-47b0-b7ef-a63ea14c1b8d', l='ServerLevel[world]', x=123.70, y=207.24, z=66.56, cpos=[7, 4], tl=297, v=true] died: Gato Galáctico withered away
+[02:59:54] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:55] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:59:55] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:55] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga MagmaCube (132.33268877223517, 152.38723258342463, 64.65598895584759
+[02:59:55] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:56] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:59:56] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 130, 152, 72
+[02:59:56] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/902993, uuid='e3711b08-dc67-4e19-a0eb-e170a5bd175e', l='ServerLevel[world]', x=130.69, y=152.48, z=72.88, cpos=[8, 4], tl=344, v=true] died: Gato Galáctico was slain by Pufferfish invulnerable
+[02:59:56] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:59:56] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:57] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:59:57] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:59:57] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:59:58] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:59:58] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:59:58] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:59:58] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Esqueleto de Clase (123.69773088597837, 207.23665495807396, 66.55828847914349
+[02:59:59] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:00:00] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:00:00] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Shulker Tnt (130.68603178174567, 152.48422943706143, 72.8841864994394
+[03:00:02] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:00:02] [Server thread/INFO]: ¡NachoOnFire no tenía suficientes tótems en el inventario!
+[03:00:02] [Server thread/INFO]: Set the weather to rain & thunder
+[03:00:02] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:00:02] [Server thread/INFO]: NachoOnFire ha muerto y ahora descanza en paz.
+[03:00:02] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de NachoOnFire. ¡HA SIDO PERMABANEADO!
+[03:00:02] [Server thread/INFO]: X: 86 || Y: 152 || Z: 54
+[03:00:02] [Server thread/INFO]: NachoOnFire was blown up by Ghast Demoníaco
+[03:00:07] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:00:11] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[03:00:11] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[03:00:17] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:00:18] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:00:19] [Server thread/INFO]: Set the weather to rain & thunder
+[03:00:19] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:00:19] [Server thread/INFO]: Nicopowerxx1253 ha muerto y ahora descanza en paz.
+[03:00:19] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Nicopowerxx1253. ¡HA SIDO PERMABANEADO!
+[03:00:19] [Server thread/INFO]: X: 102 || Y: 152 || Z: 85
+[03:00:19] [Server thread/INFO]: Nicopowerxx1253 was slain by Giant
+[03:00:21] [Server thread/INFO]: Nicopowerxx1253 lost connection: Has sido PERMABANEADO
+[03:00:21] [Server thread/INFO]: Nicopowerxx1253 ha abandonado el servidor.
+[03:00:22] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:00:24] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:00:28] [Server thread/INFO]: identidad303XDnt issued server command: /pardon Nicopowerxx1253
+[03:00:28] [Server thread/INFO]: [identidad303XDnt: Unbanned Nicopowerxx1253]
+[03:00:30] [User Authenticator #14/INFO]: UUID of player Nicopowerxx1253 is 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
+[03:00:30] [Server thread/INFO]: Nicopowerxx1253 se ha unido al servidor.
+[03:00:30] [Server thread/INFO]: Nicopowerxx1253[/127.36.78.88:50005] logged in with entity id 921129 at ([world]-30.5, 50.100000001490116, 36.5)
+[03:00:30] [Server thread/INFO]: Nicopowerxx1253 lost connection: Disconnected
+[03:00:30] [Server thread/INFO]: Nicopowerxx1253 ha abandonado el servidor.
+[03:00:32] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:00:42] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:00:42] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:00:46] [User Authenticator #14/INFO]: UUID of player Nicopowerxx1253 is 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
+[03:00:46] [Server thread/INFO]: Nicopowerxx1253 se ha unido al servidor.
+[03:00:46] [Server thread/INFO]: Nicopowerxx1253[/127.36.78.88:60493] logged in with entity id 926874 at ([world]-30.5, 50.100000001490116, 36.5)
+[03:00:50] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:01:04] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 126, 152, 65
+[03:01:04] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/903164, uuid='f9e41251-a910-4d71-92de-fabc45a9cc25', l='ServerLevel[world]', x=126.52, y=152.00, z=65.28, cpos=[7, 4], tl=1696, v=true] died: Gato Galáctico was slain by Renzo212123
+[03:01:04] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[03:01:05] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[03:01:06] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode survival Nicopowerxx1253
+[03:01:06] [Server thread/INFO]: [identidad303XDnt: Set Nicopowerxx1253's game mode to Survival Mode]
+[03:01:06] [Server thread/WARN]: Nicopowerxx1253 moved wrongly!
+[03:01:06] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[03:01:07] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:01:08] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:01:08] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Pufferfish invulnerable (126.51694006773326, 152.0, 65.28081859470534
+[03:01:17] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253 identidad303XDnt
+[03:01:17] [Server thread/INFO]: [identidad303XDnt: Teleported Nicopowerxx1253 to identidad303XDnt]
+[03:01:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Renzo212123> afk
+[03:01:32] [Server thread/ERROR]: Could not pass event EntityPickupItemEvent to Permadeath v1.3
+java.lang.IllegalArgumentException: name cannot be null
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:145) ~[guava-31.1-jre.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.getPlayer(CraftServer.java:598) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.Bukkit.getPlayer(Bukkit.java:683) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at tech.sebazcrc.permadeath.data.PlayerDataManager.<init>(PlayerDataManager.java:65) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.EntityEvents.onBreakSkull(EntityEvents.java:56) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor29.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.entity.item.ItemEntity.playerTouch(ItemEntity.java:478) ~[?:?]
+	at net.minecraft.world.entity.player.Player.touch(Player.java:632) ~[?:?]
+	at net.minecraft.world.entity.player.Player.aiStep(Player.java:597) ~[?:?]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3016) ~[?:?]
+	at net.minecraft.world.entity.player.Player.tick(Player.java:276) ~[?:?]
+	at net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:758) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:359) ~[?:?]
+	at net.minecraft.network.Connection.tick(Connection.java:593) ~[?:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:234) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1573) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03:01:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Nicopowerxx1253> XDDD
+[03:01:42] [Server thread/INFO]: identidad303XDnt issued server command: /tp Renzo212123
+[03:01:42] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to Renzo212123]
+[03:02:57] [Server thread/INFO]: NachoOnFire issued server command: /tp Renzo212123
+[03:02:57] [Server thread/INFO]: [NachoOnFire: Teleported NachoOnFire to Renzo212123]
+[03:02:57] [Server thread/INFO]: identidad303XDnt issued server command: /tp Nicopowerxx1253
+[03:02:57] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to Nicopowerxx1253]
+[03:03:05] [Server thread/INFO]: NachoOnFire issued server command: /tp identidad303XDnt
+[03:03:05] [Server thread/INFO]: [NachoOnFire: Teleported NachoOnFire to identidad303XDnt]
+[03:03:11] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[03:03:11] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[03:03:14] [Server thread/INFO]: MauGP issued server command: /gamemode survival
+[03:03:14] [Server thread/INFO]: [MauGP: Set own game mode to Survival Mode]
+[03:03:23] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[03:03:23] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[03:03:23] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[03:03:23] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[03:03:28] [Server thread/INFO]: Renzo212123 issued server command: /pdc doas
+[03:03:30] [Server thread/INFO]: Renzo212123 issued server command: /pdc dias
+[03:03:31] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[03:03:31] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[03:03:33] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:03:34] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[03:03:34] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[03:03:41] [Server thread/INFO]: identidad303XDnt issued server command: /weather clear
+[03:03:41] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[03:03:41] [Server thread/INFO]: [identidad303XDnt: Set the weather to clear]
+[03:03:49] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[03:03:49] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[03:03:51] [Async Chat Thread - #16/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:52] [Async Chat Thread - #17/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:53] [Async Chat Thread - #17/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:53] [Async Chat Thread - #17/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:54] [Async Chat Thread - #17/INFO]: [Not Secure] <Nicopowerxx1253> zzzz
+[03:03:55] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[03:03:55] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[03:03:56] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 100, 152, 87
+[03:03:56] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/902991, uuid='4e7de82d-1612-40e6-b810-4b30bf0911f5', l='ServerLevel[world]', x=100.36, y=152.00, z=87.73, cpos=[6, 5], tl=5145, v=true] died: Gato Galáctico was slain by Renzo212123
+[03:03:56] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[03:03:57] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[03:03:57] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[03:03:57] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[03:03:58] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[03:03:59] [Server thread/INFO]: MauGP issued server command: /gamemode survival
+[03:03:59] [Server thread/INFO]: [MauGP: Set own game mode to Survival Mode]
+[03:03:59] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[03:04:00] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[03:04:00] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Permadeath Demon (100.36197117232126, 152.0, 87.73340361550605
+[03:04:39] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:04:39] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:04:42] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:04:43] [Server thread/INFO]: Set the weather to rain & thunder
+[03:04:43] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:04:43] [Server thread/INFO]: MauGP ha muerto y ahora descanza en paz.
+[03:04:43] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de MauGP. ¡HA SIDO PERMABANEADO!
+[03:04:43] [Server thread/INFO]: X: 126 || Y: 152 || Z: 89
+[03:04:43] [Server thread/INFO]: MauGP was slain by Skeleton
+[03:04:46] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:04:48] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:04:49] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:04:51] [Server thread/INFO]: identidad303XDnt issued server command: /weather clear
+[03:04:51] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[03:04:51] [Server thread/INFO]: [identidad303XDnt: Set the weather to clear]
+[03:04:51] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:04:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Nicopowerxx1253> PENDEJO NO DURA NADA
+[03:04:53] [Async Chat Thread - #17/INFO]: [Not Secure] <Nicopowerxx1253> PENDEJO NO DURA NADA
+[03:04:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Nicopowerxx1253> PENDEJO NO DURA NADA
+[03:04:59] [Server thread/INFO]: MauGP issued server command: /gamemode survival
+[03:04:59] [Server thread/INFO]: [MauGP: Set own game mode to Survival Mode]
+[03:05:18] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/960990, uuid='98b76f85-3d4f-407d-bf1a-56866262977f', l='ServerLevel[world]', x=119.57, y=153.71, z=78.42, cpos=[7, 4], tl=344, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[03:05:20] [Server thread/INFO]: NachoOnFire issued server command: /tp Renzo212123
+[03:05:20] [Server thread/INFO]: [NachoOnFire: Teleported NachoOnFire to Renzo212123]
+[03:05:27] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:05:27] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:05:27] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:05:35] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/952770, uuid='4dbed4e3-6fed-4772-b9dc-24a693c5a4e3', l='ServerLevel[world]', x=84.94, y=152.00, z=103.61, cpos=[5, 6], tl=1180, v=true] died: Ultra Esqueleto Científico tried to swim in lava
+[03:05:35] [Server thread/INFO]: El jugador Nicopowerxx1253 ha usado su medalla de superviviente.
+[03:05:37] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:05:37] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:05:37] [Server thread/INFO]: El jugador MauGP ha usado su medalla de superviviente.
+[03:05:39] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:05:39] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[03:05:41] [Server thread/INFO]: Set the weather to rain & thunder
+[03:05:41] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:05:41] [Server thread/INFO]: Renzo212123 ha muerto y ahora descanza en paz.
+[03:05:41] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Renzo212123. ¡HA SIDO PERMABANEADO!
+[03:05:41] [Server thread/INFO]: X: 133 || Y: 156 || Z: 63
+[03:05:41] [Server thread/INFO]: Renzo212123 was shot by Wither Skeleton
+[03:05:42] [Server thread/INFO]: Renzo212123 lost connection: Has sido PERMABANEADO
+[03:05:42] [Server thread/INFO]: Renzo212123 ha abandonado el servidor.
+[03:05:43] [Server thread/INFO]: ¡MauGP no tenía suficientes tótems en el inventario!
+[03:05:43] [Server thread/INFO]: Set the weather to rain & thunder
+[03:05:43] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[03:05:43] [Server thread/INFO]: MauGP ha muerto y ahora descanza en paz.
+[03:05:43] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de MauGP. ¡HA SIDO PERMABANEADO!
+[03:05:43] [Server thread/INFO]: X: 141 || Y: 156 || Z: 77
+[03:05:43] [Server thread/INFO]: MauGP was shot by Wither Skeleton
+[03:05:45] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:05:48] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[03:05:55] [User Authenticator #15/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[03:05:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@110ca25[id=0a06e831-ad9a-3a47-a4a9-7bbed028d87b,name=Renzo212123,properties={},legacy=false] (/127.66.221.12:60891): You are banned from this server.
+Reason: §cHas sido PERMABANEADO
+[03:05:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@110ca25[id=0a06e831-ad9a-3a47-a4a9-7bbed028d87b,name=Renzo212123,properties={},legacy=false] (/127.66.221.12:60891) lost connection: You are banned from this server.
+Reason: §cHas sido PERMABANEADO
+[03:05:55] [Server thread/INFO]: MauGP issued server command: /gamemode survival
+[03:05:55] [Server thread/INFO]: [MauGP: Set own game mode to Survival Mode]
+[03:05:59] [Server thread/INFO]: identidad303XDnt issued server command: /pardon Renzo212123
+[03:05:59] [Server thread/INFO]: [identidad303XDnt: Unbanned Renzo212123]
+[03:06:00] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:06:02] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:06:05] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:06:07] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[03:06:11] [Server thread/INFO]: identidad303XDnt issued server command: /tp NachoOnFire
+[03:06:11] [Server thread/INFO]: [identidad303XDnt: Teleported identidad303XDnt to NachoOnFire]
+[03:06:12] [User Authenticator #15/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[03:06:13] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[03:06:13] [Server thread/INFO]: Renzo212123[/127.66.221.12:34387] logged in with entity id 986017 at ([world]-41.460090405782914, 51.100000001490116, 39.27423060060985)
+[03:06:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:27] [Async Chat Thread - #19/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:27] [Async Chat Thread - #19/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:28] [Async Chat Thread - #18/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:28] [Async Chat Thread - #19/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:28] [Async Chat Thread - #18/INFO]: [Not Secure] <Nicopowerxx1253> ZZZZZ EZ
+[03:06:49] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:49] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:06:53] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:53] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:06:54] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:54] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:06:54] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:54] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:06:54] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFiret
+[03:06:56] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFiret
+[03:06:56] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFiret
+[03:06:57] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[03:06:57] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[03:06:57] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:57] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:06:58] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:58] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:06:59] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:06:59] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:07:00] [Server thread/INFO]: NachoOnFire issued server command: /tp Nicopowerxx1253 NachoOnFire
+[03:07:00] [Server thread/INFO]: [NachoOnFire: Teleported Nicopowerxx1253 to NachoOnFire]
+[03:07:04] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[03:07:04] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[03:07:10] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode survival Renzo212123
+[03:07:10] [Server thread/INFO]: [identidad303XDnt: Set Renzo212123's game mode to Survival Mode]
+[03:07:46] [Async Chat Thread - #20/INFO]: [Not Secure] <Nicopowerxx1253> DEJA DE TPEAR PEDAZODE BAUTISTA BASURA HUMANA TUS PAPAS TE DECIAN CONDON ROTO CUANDO ERAS CHUCO IMBECIL LA VERDAD QUE ERES MAS BAUTISTA QUE EL PROPIO NACHO GORDO QUESO
+[03:08:01] [Async Chat Thread - #21/INFO]: [Not Secure] <Nicopowerxx1253> de chil
+[03:08:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:15] [Async Chat Thread - #21/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:16] [Async Chat Thread - #20/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:16] [Async Chat Thread - #21/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:16] [Async Chat Thread - #20/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:17] [Async Chat Thread - #20/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:17] [Async Chat Thread - #20/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:18] [Async Chat Thread - #22/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:18] [Async Chat Thread - #20/INFO]: [Not Secure] <Renzo212123> CUANDO SPAWNEO???
+[03:08:19] [Async Chat Thread - #22/INFO]: [Not Secure] <Nicopowerxx1253> me duero
+[03:08:21] [Async Chat Thread - #20/INFO]: [Not Secure] <Nicopowerxx1253> XDD
+[03:08:25] [Server thread/INFO]: identidad303XDnt issued server command: /weather clear
+[03:08:25] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[03:08:25] [Server thread/INFO]: [identidad303XDnt: Set the weather to clear]
+[03:08:26] [Async Chat Thread - #22/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
+[03:08:27] [Async Chat Thread - #20/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
+[03:08:27] [Async Chat Thread - #22/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
+[03:08:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
+[03:08:29] [Server thread/INFO]: identidad303XDnt issued server command: /effect clear
+[03:08:29] [Server thread/INFO]: [identidad303XDnt: Removed every effect from identidad303XDnt]
+[03:08:29] [Async Chat Thread - #22/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
+[03:08:29] [Async Chat Thread - #20/INFO]: [Not Secure] <Nicopowerxx1253> ME DUERMO
