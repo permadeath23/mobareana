@@ -301,6 +301,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-01-03 03:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-03 02:43:44 +0000"
