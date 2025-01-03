@@ -8,7 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-31 21:51:25 +0000",
-      "minecraft:forest": "2024-12-31 21:51:13 +0000"
+      "minecraft:forest": "2024-12-31 21:51:13 +0000",
+      "minecraft:ocean": "2025-01-03 01:53:58 +0000"
     },
     "done": false
   },

@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "76767e0b-41f7-34e2-b3af-e986edc144a0",
+    "name": "NachoOnFire",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "f37ebab5-21bb-3a98-b599-742d6628c9df",
     "name": "nacholacabragod",
     "level": 4,
