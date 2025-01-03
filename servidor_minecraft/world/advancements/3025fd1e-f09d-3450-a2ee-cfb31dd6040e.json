@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:windswept_hills": "2024-12-31 21:40:29 +0000",
       "minecraft:river": "2024-12-31 21:48:41 +0000",
+      "minecraft:cold_ocean": "2025-01-03 02:46:15 +0000",
       "minecraft:forest": "2024-12-31 21:40:05 +0000",
       "minecraft:ocean": "2025-01-02 17:43:05 +0000",
       "minecraft:windswept_savanna": "2024-12-31 21:50:25 +0000"
@@ -262,6 +263,7 @@
       "minecraft:magma_cube": "2024-12-31 22:21:29 +0000",
       "minecraft:wither": "2024-12-31 22:00:47 +0000",
       "minecraft:slime": "2024-12-31 22:20:26 +0000",
+      "minecraft:evoker": "2025-01-03 02:51:51 +0000",
       "minecraft:phantom": "2024-12-31 22:35:41 +0000",
       "minecraft:witch": "2025-01-01 18:23:36 +0000",
       "minecraft:wither_skeleton": "2025-01-01 18:19:27 +0000",
@@ -594,6 +596,24 @@
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-01-03 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-03 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-03 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-03 02:52:31 +0000"
     },
     "done": true
   },

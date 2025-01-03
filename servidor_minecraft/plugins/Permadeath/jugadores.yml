@@ -43,10 +43,10 @@ Players:
     UUID: 76767e0b-41f7-34e2-b3af-e986edc144a0
     HP: 0
     LastDay: 60
-    banCause: Explosión
-    banTime: 02:08:50
+    banCause: Mobs
+    banTime: 02:53:11
     banDay: '2025-01-03'
-    coords: 76 152 87
+    coords: 141 189 66
   Detectivefacha:
     UUID: 4c6a8a24-463a-3fa0-8868-fec5aa76743f
     HP: 0
