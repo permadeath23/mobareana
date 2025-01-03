@@ -653,3 +653,635 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld
 [02:07:48] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
 [02:07:58] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
 [02:07:58] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[02:08:02] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/277978, uuid='f237d256-4f67-43d7-a996-6d2822067f94', l='ServerLevel[world]', x=78.22, y=87.00, z=28.07, cpos=[4, 1], tl=16, v=true] died: Bruja Imposible was slain by MauGP
+[02:08:05] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:08:07] [Server thread/INFO]: Detectivefacha has made the advancement [Monster Hunter]
+[02:08:07] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/277977, uuid='e39bc9d0-d148-439a-8359-0383f0413cbc', l='ServerLevel[world]', x=75.69, y=153.55, z=61.11, cpos=[4, 3], tl=107, v=true] died: Bruja Imposible tried to swim in lava to escape Detectivefacha
+[02:08:08] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/277980, uuid='d0b2ae71-8a0b-4cf1-8798-9e2fe33c3366', l='ServerLevel[world]', x=76.55, y=154.63, z=107.32, cpos=[4, 6], tl=133, v=true] died: Bruja Imposible tried to swim in lava to escape NachoOnFire
+[02:08:10] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/277979, uuid='f526d01d-c4f3-4b55-a813-03dce62f4097', l='ServerLevel[world]', x=75.91, y=154.61, z=58.91, cpos=[4, 3], tl=178, v=true] died: Bruja Imposible was shot by Renzo212123 using [Arco de Gigante]
+[02:08:26] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:28] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:28] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:30] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:30] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:32] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:32] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:35] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:36] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:37] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:38] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:39] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:40] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:41] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/266887, uuid='87a3af14-9bff-4877-9326-08a88145bad5', l='ServerLevel[world]', x=86.20, y=204.04, z=50.74, cpos=[5, 3], tl=1478, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[02:08:41] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:42] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:42] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:43] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:44] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:46] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:46] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:48] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:08:48] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:50] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/286546, uuid='104c674f-0ff8-46a9-9a69-edc105b2fc9f', l='ServerLevel[world]', x=75.25, y=152.00, z=83.84, cpos=[4, 5], tl=512, v=true] died: Ultra Esqueleto Demoníaco tried to swim in lava
+[02:08:50] [Server thread/INFO]: ¡NachoOnFire no tenía suficientes tótems en el inventario!
+[02:08:50] [Server thread/INFO]: Set the weather to rain & thunder
+[02:08:50] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:08:50] [Server thread/INFO]: NachoOnFire ha muerto y ahora descanza en paz.
+[02:08:50] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de NachoOnFire. ¡HA SIDO PERMABANEADO!
+[02:08:50] [Server thread/INFO]: X: 76 || Y: 152 || Z: 87
+[02:08:50] [Server thread/INFO]: NachoOnFire was blown up by Ultra Esqueleto Demoníaco
+[02:08:50] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:08:55] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:09:04] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[02:09:04] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[02:09:27] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:09:30] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:10:16] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:10:34] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:10:34] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:10:38] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:10:38] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:10:56] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:10:56] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:11:03] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:11:03] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:11:17] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[02:11:17] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[02:11:41] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:11:43] [Server thread/INFO]: Named entity EntityCreeper['Ender Quantum Creeper'/333206, uuid='3ced2593-57c2-4b07-a4e9-37f5f71f88fa', l='ServerLevel[world]', x=78.79, y=87.00, z=39.28, cpos=[4, 2], tl=13, v=true] died: Ender Quantum Creeper was slain by MauGP
+[02:11:43] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:11:43] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/327978, uuid='7cabf311-345d-463b-81b1-14a4ba91e1fc', l='ServerLevel[world]', x=102.30, y=170.66, z=55.20, cpos=[6, 3], tl=326, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:11:43] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/329119, uuid='30969528-c997-4793-b877-0b0f9bc172ab', l='ServerLevel[world]', x=75.52, y=152.00, z=65.72, cpos=[4, 4], tl=262, v=true] died: Ultra Ravager was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/329196, uuid='400df3bc-b78e-4a50-8391-41b2c6032817', l='ServerLevel[world]', x=95.12, y=152.00, z=77.02, cpos=[5, 4], tl=257, v=true] died: Ultra Ravager was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:11:43] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/329031, uuid='4de0ddc1-f6a3-443d-bff5-1fb6dff4a70d', l='ServerLevel[world]', x=96.13, y=152.00, z=75.36, cpos=[6, 4], tl=267, v=true] died: Ultra Ravager was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/327527, uuid='d398028b-cf78-4540-a1b2-79d6f914c491', l='ServerLevel[world]', x=128.19, y=175.81, z=65.05, cpos=[8, 4], tl=357, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/327590, uuid='2c52ee8c-d2a7-4c95-95dd-7ddbd6ba71d9', l='ServerLevel[world]', x=85.33, y=154.80, z=90.43, cpos=[5, 5], tl=351, v=true] died: Demonio flotante was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/227, uuid='2f0308f6-582b-4661-9f7b-f290868d4b12', l='ServerLevel[world]', x=103.51, y=59.23, z=151.33, cpos=[6, 9], tl=322888, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:11:43] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/226, uuid='f1ee1d12-3b82-4f30-ba32-f86749c69ae4', l='ServerLevel[world]', x=103.56, y=60.00, z=150.27, cpos=[6, 9], tl=322888, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:11:45] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/113, uuid='03cd574e-1996-47de-abc5-9bce268e9564', l='ServerLevel[world]', x=122.39, y=60.51, z=-37.86, cpos=[7, -3], tl=274187, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:11:45] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/114, uuid='0b7a911c-cfca-48ff-bf74-27cdb2b8cd8b', l='ServerLevel[world]', x=150.71, y=58.02, z=-17.37, cpos=[9, -2], tl=274242, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:11:45] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:11:45] [Server thread/INFO]: Set the weather to rain & thunder
+[02:11:45] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:11:45] [Server thread/INFO]: Detectivefacha ha muerto y ahora descanza en paz.
+[02:11:45] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Detectivefacha. ¡HA SIDO PERMABANEADO!
+[02:11:45] [Server thread/INFO]: X: 74 || Y: 152 || Z: 105
+[02:11:45] [Server thread/INFO]: Detectivefacha was blown up by Ender Quantum Creeper
+[02:11:47] [Server thread/INFO]: Detectivefacha lost connection: Has sido PERMABANEADO
+[02:11:47] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[02:11:48] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:11:48] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:11:50] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:11:51] [Server thread/INFO]: MauGP issued server command: /pardon Detectivefacha
+[02:11:51] [Server thread/INFO]: [MauGP: Unbanned Detectivefacha]
+[02:11:57] [User Authenticator #4/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[02:11:57] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[02:11:57] [Server thread/INFO]: Detectivefacha[/127.69.201.154:35401] logged in with entity id 338792 at ([world]-29.5, 61.100000001490116, 38.5)
+[02:12:05] [Server thread/INFO]: MauGP issued server command: /tp Detectivefacha NachoOnFire
+[02:12:05] [Server thread/INFO]: [MauGP: Teleported Detectivefacha to NachoOnFire]
+[02:12:17] [Server thread/INFO]: MauGP issued server command: /gamemode survival Detectivefacha
+[02:12:17] [Server thread/INFO]: [MauGP: Set Detectivefacha's game mode to Survival Mode]
+[02:12:21] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:12:21] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:12:32] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:12:32] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:12:40] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/349690, uuid='b2ccc036-7c19-47e2-8ccf-bfbc5f4bd035', l='ServerLevel[world]', x=77.88, y=87.00, z=30.20, cpos=[4, 1], tl=10, v=true] died: Bruja Imposible was slain by MauGP
+[02:12:47] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 77, 87, 23
+[02:12:47] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/351995, uuid='ba8a850c-1466-44fc-a76d-e817a247de25', l='ServerLevel[world]', x=77.22, y=87.00, z=23.69, cpos=[4, 1], tl=20, v=true] died: Gato Galáctico was slain by MauGP
+[02:12:47] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:12:48] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:12:49] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:12:50] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:12:51] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 102, 152, 58
+[02:12:51] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/351996, uuid='c2f46917-e073-45dd-bb6f-c235678147ae', l='ServerLevel[world]', x=102.08, y=152.00, z=58.09, cpos=[6, 3], tl=91, v=true] died: Gato Galáctico was shot by Renzo212123 using [Arco de Gigante]
+[02:12:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:12:51] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:12:51] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Shulker Tnt (77.22029881095675, 87.0, 23.686682057028033
+[02:12:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:12:52] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 104, 152, 58
+[02:12:52] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/351997, uuid='120ca8b4-6b0d-4a67-8a27-4c843dca6a0c', l='ServerLevel[world]', x=104.81, y=152.00, z=58.19, cpos=[6, 3], tl=121, v=true] died: Gato Galáctico was slain by NachoOnFire
+[02:12:52] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:12:53] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:12:53] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:12:54] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:12:54] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:12:55] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:12:55] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Giga MagmaCube (102.0818221279345, 152.0, 58.09066693046325
+[02:12:55] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:12:56] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:12:56] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Ultra Ravager (104.80676280832846, 152.0, 58.193168143629485
+[02:12:57] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/349691, uuid='abf94786-d27e-4767-9f37-3820cb4b24a7', l='ServerLevel[world]', x=86.71, y=152.00, z=74.76, cpos=[5, 4], tl=363, v=true] died: Bruja Imposible was slain by Renzo212123
+[02:13:04] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 124, 152, 81
+[02:13:04] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/351998, uuid='353b606f-d73d-4aac-acd5-4caee72fb630', l='ServerLevel[world]', x=124.02, y=152.00, z=81.97, cpos=[7, 5], tl=351, v=true] died: Gato Galáctico was slain by Detectivefacha
+[02:13:04] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:13:05] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:13:06] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:13:07] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:13:08] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:13:08] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Permadeath Demon (124.02187237922026, 152.0, 81.97318828286616
+[02:13:12] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/349692, uuid='01f7b535-e917-45df-b163-526dc84bf79c', l='ServerLevel[world]', x=91.46, y=152.00, z=72.69, cpos=[5, 4], tl=661, v=true] died: Bruja Imposible was slain by Renzo212123
+[02:13:25] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/349693, uuid='c5c5d47b-c4c4-48f5-8fbc-213a6e12c291', l='ServerLevel[world]', x=73.30, y=152.00, z=87.42, cpos=[4, 5], tl=924, v=true] died: Bruja Imposible was slain by Renzo212123
+[02:13:28] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:ender_dragon]
+[02:13:28] [Server thread/INFO]: [MauGP: Killed 2 entities]
+[02:13:43] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:13:45] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:13:46] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[02:13:46] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[02:13:46] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:13:48] [Server thread/INFO]: Set the weather to rain & thunder
+[02:13:48] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:13:48] [Server thread/INFO]: Renzo212123 ha muerto y ahora descanza en paz.
+[02:13:48] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Renzo212123. ¡HA SIDO PERMABANEADO!
+[02:13:48] [Server thread/INFO]: X: 83 || Y: 152 || Z: 82
+[02:13:48] [Server thread/INFO]: Renzo212123 was slain by Skeleton
+[02:13:49] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:13:50] [Server thread/INFO]: Renzo212123 lost connection: Has sido PERMABANEADO
+[02:13:50] [Server thread/INFO]: Renzo212123 ha abandonado el servidor.
+[02:13:51] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:13:53] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:13:55] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:13:56] [Server thread/INFO]: MauGP issued server command: /pardon Renzo212123
+[02:13:56] [Server thread/INFO]: [MauGP: Unbanned Renzo212123]
+[02:14:02] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getBukkitEntity()" because the return value of "net.minecraft.world.entity.EntityTypes.spawn(net.minecraft.server.level.WorldServer, net.minecraft.core.BlockPosition, net.minecraft.world.entity.EnumMobSpawn, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)" is null
+	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.SpawnListener.onSpawn(SpawnListener.java:127) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor3.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:759) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:664) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.addEntity(ServerLevel.java:1656) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.addFreshEntity(ServerLevel.java:1564) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.lambda$addFreshEntityWithPassengers$0(ServerLevelAccessor.java:16) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.addFreshEntityWithPassengers(ServerLevelAccessor.java:16) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tryAddFreshEntityWithPassengers(ServerLevel.java:1679) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.createEntity(SummonCommand.java:70) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.spawnEntity(SummonCommand.java:80) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.lambda$register$2(SummonCommand.java:42) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:303) ~[?:?]
+	at net.minecraft.commands.Commands.dispatchServerCommand(Commands.java:292) ~[?:?]
+	at net.minecraft.world.level.BaseCommandBlock.performCommand(BaseCommandBlock.java:133) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.execute(CommandBlock.java:121) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.tick(CommandBlock.java:108) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.tick(BlockBehaviour.java:1157) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickBlock(ServerLevel.java:1300) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.runCollectedTicks(LevelTicks.java:197) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.tick(LevelTicks.java:94) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:814) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:14:02] [Server thread/ERROR]: Could not pass event CreatureSpawnEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.getBukkitEntity()" because the return value of "net.minecraft.world.entity.EntityTypes.spawn(net.minecraft.server.level.WorldServer, net.minecraft.core.BlockPosition, net.minecraft.world.entity.EnumMobSpawn, org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)" is null
+	at tech.sebazcrc.permadeath.nms.v1_20_R1.NMSHandlerImpl.spawnNMSEntity(NMSHandlerImpl.java:269) ~[Permadeath-1.3.jar:?]
+	at tech.sebazcrc.permadeath.event.entity.SpawnListener.onSpawn(SpawnListener.java:127) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor3.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callCreatureSpawnEvent(CraftEventFactory.java:759) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.doEntityAddEventCalling(CraftEventFactory.java:664) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.addEntity(ServerLevel.java:1656) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.addFreshEntity(ServerLevel.java:1564) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.lambda$addFreshEntityWithPassengers$0(ServerLevelAccessor.java:16) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.ServerLevelAccessor.addFreshEntityWithPassengers(ServerLevelAccessor.java:16) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tryAddFreshEntityWithPassengers(ServerLevel.java:1679) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.createEntity(SummonCommand.java:70) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.spawnEntity(SummonCommand.java:80) ~[?:?]
+	at net.minecraft.server.commands.SummonCommand.lambda$register$2(SummonCommand.java:42) ~[?:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performPrefixedCommand(Commands.java:303) ~[?:?]
+	at net.minecraft.commands.Commands.dispatchServerCommand(Commands.java:292) ~[?:?]
+	at net.minecraft.world.level.BaseCommandBlock.performCommand(BaseCommandBlock.java:133) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.execute(CommandBlock.java:121) ~[?:?]
+	at net.minecraft.world.level.block.CommandBlock.tick(CommandBlock.java:108) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.tick(BlockBehaviour.java:1157) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickBlock(ServerLevel.java:1300) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.runCollectedTicks(LevelTicks.java:197) ~[?:?]
+	at net.minecraft.world.ticks.LevelTicks.tick(LevelTicks.java:94) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:814) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:14:05] [User Authenticator #5/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[02:14:05] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[02:14:05] [Server thread/INFO]: Renzo212123[/127.66.221.12:57509] logged in with entity id 380141 at ([world]-34.49974631820306, 51.100000001490116, 25.395697261755178)
+[02:14:10] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:14:32] [Server thread/INFO]: MauGP issued server command: /gamemode survival Renzo212123
+[02:14:32] [Server thread/INFO]: [MauGP: Set Renzo212123's game mode to Survival Mode]
+[02:14:34] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:14:34] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:14:44] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:14:44] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:14:47] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:14:47] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:14:48] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:14:48] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:15:11] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:15:21] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/378005, uuid='d97312df-d1fe-497f-bd26-5c7ed420c7a1', l='ServerLevel[world]', x=103.68, y=152.00, z=67.94, cpos=[6, 4], tl=1631, v=true] died: Ultra Ravager was shot by Wither Skeleton
+[02:15:23] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/377894, uuid='89a59050-67e7-4829-a428-274fd3e7498a', l='ServerLevel[world]', x=105.40, y=152.00, z=65.60, cpos=[6, 4], tl=1678, v=true] died: Ultra Ravager was shot by Wither Skeleton
+[02:15:27] [Server thread/INFO]: Set the weather to rain & thunder
+[02:15:27] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:15:27] [Server thread/INFO]: Renzo212123 ha muerto y ahora descanza en paz.
+[02:15:27] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Renzo212123. ¡HA SIDO PERMABANEADO!
+[02:15:27] [Server thread/INFO]: X: 120 || Y: 152 || Z: 60
+[02:15:27] [Server thread/INFO]: Renzo212123 was slain by Skeleton
+[02:15:29] [Server thread/INFO]: Renzo212123 lost connection: Has sido PERMABANEADO
+[02:15:29] [Server thread/INFO]: Renzo212123 ha abandonado el servidor.
+[02:15:30] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:15:32] [Server thread/INFO]: MauGP issued server command: /pardon Renzo212123
+[02:15:32] [Server thread/INFO]: [MauGP: Unbanned Renzo212123]
+[02:15:32] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:15:32] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:15:34] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:15:36] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:15:39] [User Authenticator #6/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[02:15:39] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[02:15:39] [Server thread/INFO]: Renzo212123[/127.66.221.12:47363] logged in with entity id 390689 at ([world]-29.5, 53.100000001490116, 37.5)
+[02:15:55] [Server thread/INFO]: MauGP issued server command: /gamemode survival Renzo212123
+[02:15:55] [Server thread/INFO]: [MauGP: Set Renzo212123's game mode to Survival Mode]
+[02:16:01] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:16:03] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:16:04] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:16:06] [Server thread/INFO]: Set the weather to rain & thunder
+[02:16:06] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:16:06] [Server thread/INFO]: Detectivefacha ha muerto y ahora descanza en paz.
+[02:16:06] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Detectivefacha. ¡HA SIDO PERMABANEADO!
+[02:16:06] [Server thread/INFO]: X: 89 || Y: 152 || Z: 61
+[02:16:06] [Server thread/INFO]: Detectivefacha was shot by Wither Skeleton
+[02:16:08] [Server thread/INFO]: Detectivefacha lost connection: Has sido PERMABANEADO
+[02:16:08] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[02:16:09] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:16:11] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:16:11] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:16:13] [Server thread/INFO]: MauGP issued server command: /pardon Detectivefacha
+[02:16:13] [Server thread/INFO]: [MauGP: Unbanned Detectivefacha]
+[02:16:13] [User Authenticator #6/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[02:16:13] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[02:16:13] [Server thread/INFO]: Detectivefacha[/127.69.201.154:60589] logged in with entity id 391141 at ([world]-28.5, 52.100000001490116, 38.5)
+[02:16:31] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:16:36] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:16:47] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:16:47] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:16:50] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:16:50] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:16:56] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:17:02] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:17:07] [Server thread/INFO]: MauGP issued server command: /gamemode survival Detectivefacha
+[02:17:07] [Server thread/INFO]: [MauGP: Set Detectivefacha's game mode to Survival Mode]
+[02:17:14] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:17:14] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:17:18] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:17:18] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:18:04] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:18:04] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:18:06] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:18:06] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]

@@ -27,10 +27,10 @@ Players:
     UUID: 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
     HP: 0
     LastDay: 60
-    banCause: Explosión
-    banTime: 01:59:01
+    banCause: Mobs
+    banTime: 02:15:27
     banDay: '2025-01-03'
-    coords: 120 155 71
+    coords: 120 152 60
   Nicopowerxx1253:
     UUID: 11cf2a9c-88ba-30c2-a8ba-4c56b80bdcca
     HP: 0
@@ -44,13 +44,13 @@ Players:
     HP: 0
     LastDay: 60
     banCause: Explosión
-    banTime: 02:06:49
+    banTime: 02:08:50
     banDay: '2025-01-03'
-    coords: 140 153 57
+    coords: 76 152 87
   Detectivefacha:
     UUID: 4c6a8a24-463a-3fa0-8868-fec5aa76743f
     HP: 0
     banCause: Proyectil
-    banTime: 01:59:42
+    banTime: 02:16:06
     banDay: '2025-01-03'
-    coords: -34 50 38
+    coords: 89 152 61
