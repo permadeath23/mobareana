@@ -1285,3 +1285,231 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02:18:04] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
 [02:18:06] [Server thread/INFO]: MauGP issued server command: /gamemode creative
 [02:18:06] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:18:21] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[02:18:21] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[02:18:32] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[02:18:32] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[02:18:45] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[02:18:45] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[02:18:58] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[02:18:58] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[02:19:10] [Server thread/INFO]: NachoOnFire issued server command: /pdc storm remove hours 100
+[02:19:18] [Server thread/INFO]: NachoOnFire issued server command: /pdc storm removehours 100
+[02:19:19] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[02:20:15] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/413027, uuid='4a4f468f-697e-4c44-94f5-54953af2b47a', l='ServerLevel[world]', x=114.75, y=158.66, z=73.19, cpos=[7, 4], tl=271, v=true] died: Ultra Esqueleto Científico was slain by Skeleton
+[02:20:16] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:20:17] [Server thread/INFO]: Set the weather to rain & thunder
+[02:20:17] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:20:17] [Server thread/INFO]: Detectivefacha ha muerto y ahora descanza en paz.
+[02:20:17] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Detectivefacha. ¡HA SIDO PERMABANEADO!
+[02:20:17] [Server thread/INFO]: X: 109 || Y: 152 || Z: 52
+[02:20:17] [Server thread/INFO]: Detectivefacha was blown up by Ghast Demoníaco
+[02:20:17] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:20:19] [Server thread/INFO]: Detectivefacha lost connection: Has sido PERMABANEADO
+[02:20:19] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[02:20:22] [Server thread/INFO]: MauGP issued server command: /pardon Detectivefacha
+[02:20:22] [Server thread/INFO]: [MauGP: Unbanned Detectivefacha]
+[02:20:22] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:20:23] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:20:24] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:20:26] [User Authenticator #7/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[02:20:26] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[02:20:26] [Server thread/INFO]: Detectivefacha[/127.69.201.154:33049] logged in with entity id 421204 at ([world]-31.5, 51.100000001490116, 38.5)
+[02:20:29] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:20:30] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:20:33] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:20:33] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:20:37] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:20:39] [Server thread/INFO]: MauGP issued server command: /tp Detectivefacha NachoOnFire
+[02:20:39] [Server thread/INFO]: [MauGP: Teleported Detectivefacha to NachoOnFire]
+[02:20:41] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:20:43] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:20:46] [Server thread/INFO]: MauGP issued server command: /gamemode survival Detectivefacha
+[02:20:46] [Server thread/INFO]: [MauGP: Set Detectivefacha's game mode to Survival Mode]
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117476, uuid='97ae1285-d846-403f-800a-76e10f15bfad', l='ServerLevel[world]', x=125.56, y=62.76, z=-0.16, cpos=[7, -1], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117483, uuid='8e11b72f-99d4-441c-a338-b5d7b611b0bc', l='ServerLevel[world]', x=109.14, y=53.00, z=12.66, cpos=[6, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117484, uuid='f881ce39-6d0a-4777-9022-d40e2cd428f6', l='ServerLevel[world]', x=109.95, y=53.00, z=12.34, cpos=[6, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117478, uuid='bd357a3f-626d-4a2e-905a-aacd873d8423', l='ServerLevel[world]', x=125.59, y=62.48, z=0.93, cpos=[7, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117479, uuid='8ecf6e10-c0df-417c-a92c-2d2877b05ea5', l='ServerLevel[world]', x=118.97, y=59.49, z=6.96, cpos=[7, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117481, uuid='223532e3-8100-42b3-8037-1198e7cc26c4', l='ServerLevel[world]', x=118.58, y=58.93, z=5.79, cpos=[7, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117480, uuid='925e9291-1947-4493-99e8-014dce9206ff', l='ServerLevel[world]', x=117.45, y=59.01, z=6.94, cpos=[7, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117482, uuid='7fe78028-562b-49b8-a08f-2b14ccb57be6', l='ServerLevel[world]', x=118.60, y=59.46, z=7.88, cpos=[7, 0], tl=26131, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117558, uuid='dd4a7034-9848-47e3-b562-e71a8bc9b536', l='ServerLevel[world]', x=101.70, y=52.05, z=29.25, cpos=[6, 1], tl=26126, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117559, uuid='2ee5db59-4186-41dc-b0d2-05556e40ba39', l='ServerLevel[world]', x=101.67, y=52.51, z=28.78, cpos=[6, 1], tl=26126, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117554, uuid='2bacc5f4-b7ea-4894-8025-a4697360ac70', l='ServerLevel[world]', x=114.01, y=62.76, z=22.27, cpos=[7, 1], tl=26126, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117556, uuid='847c9773-ad85-4437-936d-5852ad11772d', l='ServerLevel[world]', x=114.00, y=61.78, z=22.73, cpos=[7, 1], tl=26126, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117557, uuid='e4db137b-16b1-4e01-896e-9619a4a811f0', l='ServerLevel[world]', x=114.52, y=62.45, z=21.62, cpos=[7, 1], tl=26126, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/117555, uuid='27385d5c-5388-40d6-9364-6d153f958038', l='ServerLevel[world]', x=113.14, y=61.37, z=22.52, cpos=[7, 1], tl=26126, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/413148, uuid='803dd699-7fb0-4e06-88a2-0304b06ae170', l='ServerLevel[world]', x=130.60, y=153.19, z=47.80, cpos=[8, 2], tl=920, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/413028, uuid='0c5dd9d8-3cf7-4fff-9f7d-ebcf88a46370', l='ServerLevel[world]', x=88.78, y=197.45, z=54.69, cpos=[5, 3], tl=930, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/413510, uuid='850e1edf-6fe9-45d8-a771-c4649fd36165', l='ServerLevel[world]', x=100.56, y=167.70, z=61.63, cpos=[6, 3], tl=898, v=true] died: Ghast Demoníaco was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:20:48] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/413147, uuid='a582e759-cca5-4095-aff6-29b0cb0d24ea', l='ServerLevel[world]', x=135.97, y=199.01, z=50.63, cpos=[8, 3], tl=920, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/413570, uuid='db81f3dd-df14-40cb-9cdc-dfba549ab09e', l='ServerLevel[world]', x=88.10, y=179.61, z=69.74, cpos=[5, 4], tl=893, v=true] died: Ghast Demoníaco was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:20:48] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:20:48] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/413029, uuid='f726defb-966c-4577-9a3f-db9fb235d170', l='ServerLevel[world]', x=114.77, y=198.79, z=92.26, cpos=[7, 5], tl=930, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity CustomGhast['Ender Ghast'/413145, uuid='571e6745-f6a1-47cc-a03a-79290b49df1f', l='ServerLevel[world]', x=85.38, y=185.10, z=100.86, cpos=[5, 6], tl=920, v=true] died: Ender Ghast was blown up by Ender Quantum Creeper
+[02:20:48] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/413453, uuid='902d9cf3-1760-4f14-813c-acd5fddfe094', l='ServerLevel[world]', x=117.23, y=169.16, z=97.52, cpos=[7, 6], tl=904, v=true] died: Ghast Demoníaco was blown up by Ender Quantum Creeper
+[02:21:23] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 139, 152, 100
+[02:21:23] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/440208, uuid='423ea42d-1c30-4d7d-9aed-142120cb619c', l='ServerLevel[world]', x=139.39, y=152.00, z=100.24, cpos=[8, 6], tl=51, v=true] died: Gato Galáctico was slain by Renzo212123
+[02:21:23] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:21:24] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:21:25] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:21:25] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 114, 152, 50
+[02:21:25] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/440209, uuid='707d3f28-d635-4fb8-b21e-e9702070a2bf', l='ServerLevel[world]', x=114.37, y=152.43, z=50.19, cpos=[7, 3], tl=92, v=true] died: Gato Galáctico was slain by NachoOnFire
+[02:21:25] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:21:26] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:21:26] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:21:27] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:21:27] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Araña con Efectos (139.393920146065, 152.0, 100.23750001192093
+[02:21:27] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:21:27] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[02:21:27] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[02:21:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:21:28] [Server thread/INFO]: {Delay:0s,MaxNearbyEntities:6s,MaxSpawnDelay:150s,MinSpawnDelay:60s,RequiredPlayerRange:32s,SpawnCount:4s,SpawnData:{entity:{Item:{Count:1b,id:"minecraft:splash_potion",tag:{CustomPotionEffects:[{Amplifier:3s,Duration:1,Id:7}]}},id:"minecraft:potion"}},SpawnPotentials:[],SpawnRange:5s}
+[02:21:28] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 82, 87, 18
+[02:21:28] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/440206, uuid='323c2a4a-34f2-48da-9c72-aa1a1c19bb25', l='ServerLevel[world]', x=82.33, y=87.00, z=18.45, cpos=[5, 1], tl=162, v=true] died: Gato Galáctico was slain by MauGP
+[02:21:28] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:21:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:21:29] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Bruja Imposible (114.37190433303995, 152.4266294371091, 50.188720828415526
+[02:21:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:21:29] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 107, 155, 50
+[02:21:29] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/440207, uuid='e711810d-f17a-4d32-baff-a783b5a78db3', l='ServerLevel[world]', x=107.38, y=155.01, z=50.26, cpos=[6, 3], tl=183, v=true] died: Gato Galáctico was slain by Detectivefacha
+[02:21:29] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:21:30] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:21:30] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:21:31] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:21:31] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:21:32] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/443271, uuid='fb137073-d97a-4296-9977-3b8b21359605', l='ServerLevel[world]', x=115.41, y=152.38, z=44.07, cpos=[7, 2], tl=66, v=true] died: Bruja Imposible was slain by NachoOnFire
+[02:21:32] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:21:32] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Endermite Misterioso (82.32717248863732, 87.0, 18.4469318232241
+[02:21:32] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:21:33] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:21:33] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Demonio Flotante (107.37545357918202, 155.00898333119915, 50.26059674278474
+[02:21:37] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:21:41] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:21:41] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:21:43] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:21:46] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/444982, uuid='a52ce587-e798-41d0-b4d2-2f9a0aae5ff9', l='ServerLevel[world]', x=131.43, y=174.81, z=70.51, cpos=[8, 4], tl=251, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[02:21:46] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:21:51] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:21:51] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:22:07] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/452174, uuid='f9b96a76-4f68-4939-a341-d81dcdeac911', l='ServerLevel[world]', x=77.91, y=87.00, z=30.19, cpos=[4, 1], tl=15, v=true] died: Bruja Imposible was slain by MauGP
+[02:22:16] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/452175, uuid='fbd38aed-d020-42fe-a7c3-0edadf839922', l='ServerLevel[world]', x=123.59, y=152.00, z=50.55, cpos=[7, 3], tl=213, v=true] died: Bruja Imposible was slain by NachoOnFire
+[02:22:18] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:22:18] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:22:18] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/452176, uuid='0d9b844b-2689-4cfc-957a-e483e6c14c98', l='ServerLevel[world]', x=102.48, y=152.00, z=76.37, cpos=[6, 4], tl=250, v=true] died: Bruja Imposible was shot by Renzo212123 using [Arco de Gigante]
+[02:22:26] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:22:26] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:22:33] [Server thread/INFO]: NachoOnFire issued server command: /kill @e[ type= minecraft:wither ]
+[02:22:33] [Server thread/INFO]: [NachoOnFire: Killed 3 entities]
+[02:22:45] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:22:45] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:22:47] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:22:47] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:22:47] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:22:55] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:23:07] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:23:09] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:23:09] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[02:23:09] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[02:23:10] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:23:11] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:23:26] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:23:32] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/472380, uuid='73f892f9-5e5f-4380-9061-af9bfc2b6cf8', l='ServerLevel[world]', x=77.68, y=87.00, z=27.03, cpos=[4, 1], tl=10, v=true] died: Bruja Imposible was slain by MauGP
+[02:23:36] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:23:36] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:23:37] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:23:37] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:23:38] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:23:43] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:23:43] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:23:49] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:23:49] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:23:55] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:24:00] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:24:02] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:24:11] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/472382, uuid='2741fda3-1267-4e65-a360-5296d0f7d023', l='ServerLevel[world]', x=118.15, y=152.00, z=50.85, cpos=[7, 3], tl=787, v=true] died: Bruja Imposible was shot by Renzo212123 using [Arco de Gigante]
+[02:24:14] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:24:17] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:24:17] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:24:20] [Server thread/WARN]: Renzo212123 moved wrongly!
+[02:24:21] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:24:23] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:24:23] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:24:32] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:24:34] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/154675, uuid='b4f9c3db-4401-4420-b707-b713e0320e73', l='ServerLevel[world]', x=114.36, y=60.04, z=22.54, cpos=[7, 1], tl=29289, v=true] died: Bacalao de la Muerte was struck by lightning
+[02:24:34] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/154676, uuid='4ce5bb6a-4de5-4256-ac58-6114533b9c92', l='ServerLevel[world]', x=114.73, y=59.88, z=24.01, cpos=[7, 1], tl=29289, v=true] died: Bacalao de la Muerte was struck by lightning
+[02:24:36] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:24:43] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:24:59] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:25:19] [Server thread/INFO]: La maldición de un Gato Galáctico ha comenzado en: 99, 152, 76
+[02:25:19] [Server thread/INFO]: Named entity EntityCat['Gato Galáctico'/476755, uuid='8b65edb1-3287-4dff-a582-2e3aad8416a3', l='ServerLevel[world]', x=99.88, y=152.00, z=76.65, cpos=[6, 4], tl=339, v=true] died: Gato Galáctico was slain by Zoglin
+[02:25:19] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 5
+[02:25:20] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 4
+[02:25:21] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 3
+[02:25:22] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 2
+[02:25:23] [Server thread/INFO]: Un gato galáctico invocará un mob al azar en: 1
+[02:25:23] [Server thread/INFO]: Un gato galáctico ha invicado un(a) Permadeath Demon (99.87755554719737, 152.0, 76.64902715567194
+[02:25:29] [Server thread/INFO]: MauGP issued server command: /kill @e[type=minecraft:ender_dragon]
+[02:25:29] [Server thread/INFO]: [MauGP: Killed PERMADEATH DEMON]
+[02:25:35] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:25:44] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:25:50] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:25:50] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:25:55] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:26:00] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[02:26:00] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[02:26:00] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:26:08] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:26:12] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:26:13] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:26:17] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:26:19] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/472381, uuid='5f68fc74-1e6a-4f13-93bc-28b9d3632388', l='ServerLevel[world]', x=117.47, y=152.00, z=55.32, cpos=[7, 3], tl=3353, v=true] died: Bruja Imposible was shot by Wither Skeleton
+[02:26:21] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:26:28] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/452177, uuid='240255ac-6653-4036-a97c-b4ec75f83052', l='ServerLevel[world]', x=101.23, y=152.08, z=51.25, cpos=[6, 3], tl=5236, v=true] died: Bruja Imposible was slain by Zoglin
+[02:26:56] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:27:25] [Server thread/INFO]: NachoOnFire lost connection: Disconnected
+[02:27:25] [Server thread/INFO]: NachoOnFire ha abandonado el servidor.
+[02:27:26] [Server thread/INFO]: MauGP issued server command: /effect give @e[type=minecraft:sniffer] minecraft:speed infinite 50
+[02:27:26] [Server thread/INFO]: [MauGP: Applied effect Speed to 10 targets]
+[02:27:31] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:27:31] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:27:32] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:27:35] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:27:35] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:27:46] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:27:55] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:27:56] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Científico'/485671, uuid='73061d7f-18ce-4ff1-bb46-b4e02ed3dc2a', l='ServerLevel[world]', x=78.94, y=87.00, z=42.19, cpos=[4, 2], tl=12, v=true] died: Ultra Esqueleto Científico was slain by MauGP
+[02:27:57] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:27:57] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:27:58] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:27:58] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:27:58] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:28:11] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.

@@ -161,6 +161,7 @@
       "minecraft:phantom": "2025-01-03 02:05:01 +0000",
       "minecraft:witch": "2025-01-03 01:58:23 +0000",
       "minecraft:wither_skeleton": "2025-01-03 02:06:20 +0000",
+      "minecraft:cave_spider": "2025-01-03 02:23:05 +0000",
       "minecraft:vex": "2025-01-03 01:58:31 +0000",
       "minecraft:zombie_villager": "2025-01-03 02:11:25 +0000"
     },
@@ -202,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-03 02:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-03 02:15:34 +0000"
@@ -211,6 +218,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-03 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-03 02:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-01-03 02:16:38 +0000"
     },
     "done": true
   },
@@ -265,6 +284,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-03 02:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-03 02:27:04 +0000"
     },
     "done": true
   },

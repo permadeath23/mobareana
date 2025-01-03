@@ -50,7 +50,7 @@ Players:
   Detectivefacha:
     UUID: 4c6a8a24-463a-3fa0-8868-fec5aa76743f
     HP: 0
-    banCause: Proyectil
-    banTime: 02:16:06
+    banCause: Explosión
+    banTime: 02:20:17
     banDay: '2025-01-03'
-    coords: 89 152 61
+    coords: 109 152 52
