@@ -1857,3 +1857,97 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld
 [02:38:11] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
 [02:38:13] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
 [02:38:17] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:19] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[02:38:21] [User Authenticator #10/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[02:38:21] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[02:38:21] [Server thread/INFO]: Renzo212123[/127.66.221.12:36209] logged in with entity id 580523 at ([world]-39.70701031124581, 53.11040004163981, 31.906485177474497)
+[02:38:22] [Server thread/INFO]: El jugador identidad303XDnt ha usado su medalla de superviviente.
+[02:38:23] [Server thread/INFO]: Set the weather to rain & thunder
+[02:38:23] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:38:23] [Server thread/INFO]: identidad303XDnt ha muerto y ahora descanza en paz.
+[02:38:23] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de identidad303XDnt. ¡HA SIDO PERMABANEADO!
+[02:38:23] [Server thread/INFO]: X: 132 || Y: 153 || Z: 60
+[02:38:23] [Server thread/INFO]: identidad303XDnt was blown up by Ghast Demoníaco
+[02:38:25] [Server thread/INFO]: identidad303XDnt lost connection: Has sido PERMABANEADO
+[02:38:25] [Server thread/INFO]: identidad303XDnt ha abandonado el servidor.
+[02:38:28] [Server thread/INFO]: MauGP issued server command: /pardon identidad303XDnt
+[02:38:28] [Server thread/INFO]: [MauGP: Unbanned identidad303XDnt]
+[02:38:28] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:38:35] [User Authenticator #10/INFO]: UUID of player identidad303XDnt is 3025fd1e-f09d-3450-a2ee-cfb31dd6040e
+[02:38:35] [Server thread/INFO]: identidad303XDnt se ha unido al servidor.
+[02:38:35] [Server thread/INFO]: identidad303XDnt[/127.24.77.239:52749] logged in with entity id 580628 at ([world]132.90572598880198, 153.9115555291976, 60.706844594984716)
+[02:38:42] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:43] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:46] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:46] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:48] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:38:48] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:38:49] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:50] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:54] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:55] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:38:56] [Server thread/INFO]: Set the weather to rain & thunder
+[02:38:56] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:38:56] [Server thread/INFO]: Detectivefacha ha muerto y ahora descanza en paz.
+[02:38:56] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Detectivefacha. ¡HA SIDO PERMABANEADO!
+[02:38:56] [Server thread/INFO]: X: 109 || Y: 153 || Z: 45
+[02:38:56] [Server thread/INFO]: Detectivefacha was blown up by Ghast Demoníaco
+[02:38:58] [Server thread/INFO]: Detectivefacha lost connection: Has sido PERMABANEADO
+[02:38:58] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[02:39:01] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:39:01] [Server thread/INFO]: MauGP issued server command: /pardon Detectivefacha
+[02:39:01] [Server thread/INFO]: [MauGP: Unbanned Detectivefacha]
+[02:39:06] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:39:06] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:39:17] [User Authenticator #10/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[02:39:17] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[02:39:17] [Server thread/INFO]: Detectivefacha[/127.69.201.154:35839] logged in with entity id 587070 at ([world]-36.5, 54.100000001490116, 25.5)
+[02:40:25] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:40:25] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:41:14] [Server thread/INFO]: MauGP issued server command: /op identidad303XDnt
+[02:41:14] [Server thread/INFO]: [MauGP: Made identidad303XDnt a server operator]
+[02:41:21] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[02:41:21] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[02:41:44] [Server thread/INFO]: identidad303XDnt issued server command: /weather clear
+[02:41:44] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[02:41:44] [Server thread/INFO]: [identidad303XDnt: Set the weather to clear]
+[02:41:49] [Server thread/INFO]: identidad303XDnt issued server command: /effect clear
+[02:41:49] [Server thread/INFO]: [identidad303XDnt: Removed every effect from identidad303XDnt]
+[02:42:01] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:42:01] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:42:03] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:42:03] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:42:28] [User Authenticator #11/INFO]: UUID of player NachoOnFire is 76767e0b-41f7-34e2-b3af-e986edc144a0
+[02:42:28] [Server thread/INFO]: NachoOnFire se ha unido al servidor.
+[02:42:28] [Server thread/INFO]: NachoOnFire[/127.78.145.104:40263] logged in with entity id 610547 at ([world]98.27947026228854, 152.08968449286704, 65.73826609263325)
+[02:42:32] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:42:32] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:42:33] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[02:42:33] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[02:42:35] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:42:35] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:42:41] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[02:42:41] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[02:42:54] [Server thread/INFO]: NachoOnFire issued server command: /effect clear
+[02:42:54] [Server thread/INFO]: [NachoOnFire: Removed every effect from NachoOnFire]
+[02:43:15] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode survival Detectivefacha
+[02:43:15] [Server thread/INFO]: [identidad303XDnt: Set Detectivefacha's game mode to Survival Mode]
+[02:43:22] [Server thread/INFO]: identidad303XDnt issued server command: /tp Detectivefacha NachoOnFire
+[02:43:22] [Server thread/INFO]: [identidad303XDnt: Teleported Detectivefacha to NachoOnFire]
+[02:43:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Detectivefacha> amigos mi tio esta haciendo pvp con mi papá
+[02:43:57] [Async Chat Thread - #5/INFO]: [Not Secure] <Detectivefacha> ahora vengo
+[02:44:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Detectivefacha> tengo que hacer pvp con mi primo
+[02:44:02] [Server thread/INFO]: Detectivefacha lost connection: Disconnected
+[02:44:03] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[02:44:04] [Async Chat Thread - #5/INFO]: [Not Secure] <Renzo212123> XDDDDDDDDDDDD
+[02:45:54] [Async Chat Thread - #6/INFO]: [Not Secure] <Renzo212123> scooby doo pa pa????
+[02:45:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Renzo212123> scooby doo pa pa????
+[02:45:55] [Async Chat Thread - #6/INFO]: [Not Secure] <Renzo212123> scooby doo pa pa????
+[02:45:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Renzo212123> scooby doo pa pa????
+[02:45:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Renzo212123> scooby doo pa pa????
+[02:45:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Renzo212123> scooby doo pa pa????
+[02:46:12] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode spectator
+[02:46:12] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Spectator Mode]
+[02:46:21] [Server thread/INFO]: identidad303XDnt issued server command: /gamemode creative
+[02:46:21] [Server thread/INFO]: [identidad303XDnt: Set own game mode to Creative Mode]
+[02:47:48] [Async Chat Thread - #8/INFO]: [Not Secure] <identidad303XDnt> ya ?
