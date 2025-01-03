@@ -148,3 +148,508 @@
 [01:56:32] [Server thread/INFO]: NachoOnFire issued server command: /pdc dias
 [01:57:49] [Server thread/INFO]: NachoOnFire issued server command: /give @s minecraft:arrow
 [01:57:49] [Server thread/INFO]: [NachoOnFire: Gave 1 [Arrow] to NachoOnFire]
+[01:58:05] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/95971, uuid='dd104f26-21be-46e8-8a4f-2d697648dffb', l='ServerLevel[world]', x=110.39, y=152.54, z=73.56, cpos=[6, 4], tl=110, v=true] died: Demonio flotante was fireballed by Renzo212123 using [Arco de Gigante]
+[01:58:07] [Server thread/INFO]: NachoOnFire has made the advancement [Take Aim]
+[01:58:08] [Server thread/INFO]: NachoOnFire has made the advancement [Monster Hunter]
+[01:58:08] [Server thread/INFO]: NachoOnFire has completed the challenge [Uneasy Alliance]
+[01:58:08] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/97996, uuid='bdb0551a-296a-44af-b092-278293114bee', l='ServerLevel[world]', x=113.52, y=156.03, z=74.92, cpos=[7, 4], tl=49, v=true] died: Demonio flotante was blown up by Ghast Demoníaco
+[01:58:10] [Server thread/INFO]: Named entity EntityGhast['Ghast Demoníaco'/96109, uuid='9a0c80ab-b206-43f6-abff-5bbca20e332a', l='ServerLevel[world]', x=105.48, y=152.25, z=80.35, cpos=[6, 5], tl=188, v=true] died: Ghast Demoníaco was shot by Renzo212123 using [Arco de Gigante]
+[01:58:12] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/96028, uuid='6932e407-bc5d-4630-b6a5-fc8bad80b537', l='ServerLevel[world]', x=113.66, y=166.54, z=74.09, cpos=[7, 4], tl=245, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[01:58:23] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/102772, uuid='5368f3ff-4fd8-400d-a5ed-a37d40b60478', l='ServerLevel[world]', x=116.87, y=152.00, z=67.54, cpos=[7, 4], tl=59, v=true] died: Bruja Imposible was slain by NachoOnFire
+[01:58:26] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/102773, uuid='8a09ebae-b178-40e1-a600-255bd51a3008', l='ServerLevel[world]', x=111.56, y=152.00, z=63.94, cpos=[6, 3], tl=133, v=true] died: Bruja Imposible was slain by Renzo212123
+[01:58:34] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[01:58:34] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]
+[01:58:34] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/102771, uuid='60228c6a-a38e-4711-8283-0e0acdf26710', l='ServerLevel[world]', x=78.16, y=87.00, z=27.35, cpos=[4, 1], tl=296, v=true] died: Bruja Imposible was slain by MauGP
+[01:59:00] [Server thread/INFO]: Named entity EntityCreeper['Ender Quantum Creeper'/116658, uuid='cda75f20-2506-41e4-a690-53341c9a7831', l='ServerLevel[world]', x=79.03, y=87.00, z=38.51, cpos=[4, 2], tl=15, v=true] died: Ender Quantum Creeper was slain by MauGP
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/126, uuid='e0e37ee9-b0d0-468d-95d8-62e8e022442b', l='ServerLevel[world]', x=130.59, y=61.89, z=12.63, cpos=[8, 0], tl=324978, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/128, uuid='7718febd-46f1-4d30-9ebe-eafa82c94232', l='ServerLevel[world]', x=129.75, y=60.74, z=12.59, cpos=[8, 0], tl=325702, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/125, uuid='0863e668-05cf-41d3-9891-2856392d9cef', l='ServerLevel[world]', x=117.25, y=62.76, z=21.97, cpos=[7, 1], tl=329152, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/137, uuid='c2d30ed7-1f69-4a46-8ad6-07418305c6ff', l='ServerLevel[world]', x=118.31, y=62.48, z=21.43, cpos=[7, 1], tl=325718, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/127, uuid='905d78d1-7439-425e-9570-b2bb9fae8c9a', l='ServerLevel[world]', x=116.54, y=62.47, z=21.49, cpos=[7, 1], tl=366286, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/134, uuid='a0fa6d4e-12ca-468e-ac4c-1e2e0caf307a', l='ServerLevel[world]', x=117.40, y=62.00, z=20.71, cpos=[7, 1], tl=362969, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/135, uuid='d326d570-16e3-4f7f-a6fd-11e26a0d7301', l='ServerLevel[world]', x=129.66, y=62.47, z=24.39, cpos=[8, 1], tl=362830, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/136, uuid='696ce405-0542-4d98-a9c7-d0d326afea75', l='ServerLevel[world]', x=129.48, y=61.32, z=23.86, cpos=[8, 1], tl=325700, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/139, uuid='5759ea4d-e8a3-4416-9186-0bae30a049b8', l='ServerLevel[world]', x=144.63, y=62.10, z=31.76, cpos=[9, 1], tl=325634, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/230, uuid='84adb183-8685-4359-ba8b-b0cb9122a866', l='ServerLevel[world]', x=133.43, y=62.76, z=40.90, cpos=[8, 2], tl=362910, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/231, uuid='81ca2cfd-7e8a-44df-a4d7-8cbd9e2fbfe3', l='ServerLevel[world]', x=119.77, y=58.00, z=57.48, cpos=[7, 3], tl=371369, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[01:59:01] [Server thread/INFO]: NachoOnFire has reached the goal [Postmortal]
+[01:59:01] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/253, uuid='a9830cc6-d46f-463a-9a71-3ed89218d98c', l='ServerLevel[world]', x=127.37, y=62.76, z=84.35, cpos=[7, 5], tl=322233, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/250, uuid='a3d855c0-24a0-48bc-9e6a-e1ff2b639903', l='ServerLevel[world]', x=127.35, y=61.85, z=83.60, cpos=[7, 5], tl=325817, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/251, uuid='533e8f13-30da-4318-a95a-12b774bb9795', l='ServerLevel[world]', x=129.88, y=54.74, z=94.92, cpos=[8, 5], tl=325725, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Set the weather to rain & thunder
+[01:59:01] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[01:59:01] [Server thread/INFO]: NachoOnFire ha muerto y ahora descanza en paz.
+[01:59:01] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de NachoOnFire. ¡HA SIDO PERMABANEADO!
+[01:59:01] [Server thread/INFO]: X: 105 || Y: 154 || Z: 71
+[01:59:01] [Server thread/INFO]: NachoOnFire was blown up by Ender Quantum Creeper
+[01:59:01] [Server thread/INFO]: Set the weather to rain & thunder
+[01:59:01] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[01:59:01] [Server thread/INFO]: Renzo212123 ha muerto y ahora descanza en paz.
+[01:59:01] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Renzo212123. ¡HA SIDO PERMABANEADO!
+[01:59:01] [Server thread/INFO]: X: 120 || Y: 155 || Z: 71
+[01:59:01] [Server thread/INFO]: Renzo212123 was blown up by Ender Quantum Creeper
+[01:59:03] [Server thread/INFO]: Renzo212123 lost connection: Has sido PERMABANEADO
+[01:59:03] [Server thread/INFO]: Renzo212123 ha abandonado el servidor.
+[01:59:06] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[01:59:06] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[01:59:08] [Server thread/INFO]: MauGP issued server command: /pardon Renzo212123
+[01:59:08] [Server thread/INFO]: [MauGP: Unbanned Renzo212123]
+[01:59:19] [User Authenticator #2/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[01:59:19] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[01:59:19] [Server thread/INFO]: Renzo212123[/127.66.221.12:48193] logged in with entity id 123144 at ([world]-35.5, 52.100000001490116, 29.5)
+[01:59:23] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[01:59:23] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[01:59:34] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[01:59:34] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[01:59:36] [User Authenticator #2/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[01:59:36] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[01:59:36] [Server thread/INFO]: Detectivefacha[/127.69.201.154:33253] logged in with entity id 132861 at ([world]-34.5, 50.0, 38.5)
+[01:59:42] [Server thread/INFO]: Set the weather to rain & thunder
+[01:59:42] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[01:59:42] [Server thread/INFO]: Detectivefacha ha muerto y ahora descanza en paz.
+[01:59:42] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de Detectivefacha. ¡HA SIDO PERMABANEADO!
+[01:59:42] [Server thread/INFO]: X: -35 || Y: 50 || Z: 38
+[01:59:42] [Server thread/INFO]: Detectivefacha was shot by a skull from Wither
+[01:59:44] [Server thread/INFO]: Detectivefacha lost connection: Has sido PERMABANEADO
+[01:59:44] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[01:59:47] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[01:59:47] [Server thread/INFO]: MauGP issued server command: /pardon Detectivefacha
+[01:59:47] [Server thread/INFO]: [MauGP: Unbanned Detectivefacha]
+[01:59:50] [User Authenticator #2/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[01:59:50] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[01:59:50] [Server thread/INFO]: Detectivefacha[/127.69.201.154:45823] logged in with entity id 142007 at ([world]-35.5, 51.100000001490116, 32.5)
+[01:59:58] [Server thread/INFO]: MauGP issued server command: /tp Detectivefacha MauGP
+[01:59:58] [Server thread/INFO]: [MauGP: Teleported Detectivefacha to MauGP]
+[02:00:04] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:00:09] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:00:09] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/254, uuid='147d2c2a-044a-4d87-a17f-66a1905c1066', l='ServerLevel[world]', x=127.66, y=60.79, z=84.48, cpos=[7, 5], tl=226300, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:00:09] [Server thread/INFO]: Named entity EntityCod['Bacalao de la Muerte'/264, uuid='cca72f1b-2827-4d11-a23c-fe016128fc13', l='ServerLevel[world]', x=147.58, y=57.76, z=82.74, cpos=[9, 5], tl=226209, v=true] died: Bacalao de la Muerte was blown up by Ender Quantum Creeper
+[02:00:17] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:00:19] [Server thread/INFO]: MauGP issued server command: /tp Detectivefacha MauGP
+[02:00:19] [Server thread/INFO]: [MauGP: Teleported Detectivefacha to MauGP]
+[02:00:25] [Server thread/INFO]: MauGP issued server command: /gamemode survival Detectivefacha
+[02:00:25] [Server thread/INFO]: [MauGP: Set Detectivefacha's game mode to Survival Mode]
+[02:00:33] [Server thread/INFO]: MauGP issued server command: /tp Renzo212123 NachoOnFire
+[02:00:33] [Server thread/INFO]: [MauGP: Teleported Renzo212123 to NachoOnFire]
+[02:00:38] [Server thread/INFO]: NachoOnFire issued server command: /tp @a NachoOnFire
+[02:00:38] [Server thread/INFO]: [NachoOnFire: Teleported 4 entities to NachoOnFire]
+[02:00:48] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:00:48] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:00:52] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:00:52] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:00:57] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:00:57] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:01:04] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[02:01:04] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[02:01:05] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:01:05] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:01:07] [Netty Epoll Server IO #1/ERROR]: Packet encoding of packet ID 82 threw (skippable? false)
+java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:91) ~[fastutil-8.5.9.jar:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:469) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:21) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:473) ~[?:?]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:733) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:721) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.FriendlyByteBuf.writeItem(FriendlyByteBuf.java:690) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.write(EntityDataSerializers.java:45) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.copy(EntityDataSerializers.java:42) ~[?:?]
+	at net.minecraft.network.syncher.SynchedEntityData$DataValue.write(SynchedEntityData.java:355) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.pack(ClientboundSetEntityDataPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.write(ClientboundSetEntityDataPacket.java:38) ~[?:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:41) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[paper-1.20.jar:git-Paper-17]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:467) ~[?:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$11(Connection.java:441) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:01:07] [Netty Epoll Server IO #3/ERROR]: Packet encoding of packet ID 82 threw (skippable? false)
+java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:91) ~[fastutil-8.5.9.jar:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:469) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:21) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:473) ~[?:?]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:733) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:721) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.FriendlyByteBuf.writeItem(FriendlyByteBuf.java:690) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.write(EntityDataSerializers.java:45) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.copy(EntityDataSerializers.java:42) ~[?:?]
+	at net.minecraft.network.syncher.SynchedEntityData$DataValue.write(SynchedEntityData.java:355) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.pack(ClientboundSetEntityDataPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.write(ClientboundSetEntityDataPacket.java:38) ~[?:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:41) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[paper-1.20.jar:git-Paper-17]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:467) ~[?:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$11(Connection.java:441) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:01:07] [Netty Epoll Server IO #2/ERROR]: Packet encoding of packet ID 82 threw (skippable? false)
+java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:91) ~[fastutil-8.5.9.jar:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:469) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:21) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:473) ~[?:?]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:733) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:721) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.FriendlyByteBuf.writeItem(FriendlyByteBuf.java:690) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.write(EntityDataSerializers.java:45) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.copy(EntityDataSerializers.java:42) ~[?:?]
+	at net.minecraft.network.syncher.SynchedEntityData$DataValue.write(SynchedEntityData.java:355) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.pack(ClientboundSetEntityDataPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.write(ClientboundSetEntityDataPacket.java:38) ~[?:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:41) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[paper-1.20.jar:git-Paper-17]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:467) ~[?:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$11(Connection.java:441) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:01:07] [Netty Epoll Server IO #3/ERROR]: Packet encoding of packet ID 82 threw (skippable? false)
+java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:91) ~[fastutil-8.5.9.jar:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:469) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:21) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:473) ~[?:?]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:733) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.item.ItemStack.copy(ItemStack.java:721) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.FriendlyByteBuf.writeItem(FriendlyByteBuf.java:690) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.write(EntityDataSerializers.java:45) ~[?:?]
+	at net.minecraft.network.syncher.EntityDataSerializers$1.copy(EntityDataSerializers.java:42) ~[?:?]
+	at net.minecraft.network.syncher.SynchedEntityData$DataValue.write(SynchedEntityData.java:355) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.pack(ClientboundSetEntityDataPacket.java:18) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.write(ClientboundSetEntityDataPacket.java:38) ~[?:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:41) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[paper-1.20.jar:git-Paper-17]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:467) ~[?:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$11(Connection.java:441) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:01:07] [Server thread/INFO]: MauGP lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+[02:01:07] [Server thread/INFO]: MauGP ha abandonado el servidor.
+[02:01:07] [Server thread/INFO]: NachoOnFire lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+[02:01:07] [Server thread/INFO]: NachoOnFire ha abandonado el servidor.
+[02:01:07] [Server thread/INFO]: Renzo212123 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+[02:01:07] [Server thread/INFO]: Renzo212123 ha abandonado el servidor.
+[02:01:07] [Server thread/INFO]: Detectivefacha lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.IllegalArgumentException: The expected number of elements must be nonnegative
+[02:01:07] [Server thread/INFO]: Detectivefacha ha abandonado el servidor.
+[02:01:11] [User Authenticator #3/INFO]: UUID of player NachoOnFire is 76767e0b-41f7-34e2-b3af-e986edc144a0
+[02:01:11] [Server thread/INFO]: NachoOnFire se ha unido al servidor.
+[02:01:11] [Server thread/INFO]: NachoOnFire[/127.78.145.104:50313] logged in with entity id 171513 at ([world]112.8431407267676, 152.0, 67.07245879754319)
+[02:01:13] [User Authenticator #3/INFO]: UUID of player Detectivefacha is 4c6a8a24-463a-3fa0-8868-fec5aa76743f
+[02:01:13] [Server thread/INFO]: Detectivefacha se ha unido al servidor.
+[02:01:13] [Server thread/INFO]: Detectivefacha[/127.69.201.154:37085] logged in with entity id 171539 at ([world]123.26611385315063, 152.0, 72.9871231737164)
+[02:01:16] [User Authenticator #3/INFO]: UUID of player MauGP is 8794f8df-32b5-3f1f-88db-58309a8da55f
+[02:01:16] [Server thread/INFO]: MauGP se ha unido al servidor.
+[02:01:16] [Server thread/INFO]: MauGP[/127.126.97.241:38651] logged in with entity id 171565 at ([world]122.20504166103349, 154.0942626654561, 76.28641687608301)
+[02:01:26] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:01:26] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:01:27] [User Authenticator #3/INFO]: UUID of player Renzo212123 is 0a06e831-ad9a-3a47-a4a9-7bbed028d87b
+[02:01:27] [Server thread/INFO]: Renzo212123 se ha unido al servidor.
+[02:01:27] [Server thread/INFO]: Renzo212123[/127.66.221.12:38377] logged in with entity id 171690 at ([world]105.81352919266577, 152.0, 71.79101298642955)
+[02:01:31] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:01:31] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:01:33] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[02:01:33] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[02:02:34] [Server thread/INFO]: MauGP issued server command: /team join kbros @a
+[02:02:34] [Server thread/INFO]: [MauGP: Added 4 members to team [kbros]]
+[02:02:37] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:02:37] [Server thread/INFO]: Detectivefacha has reached the goal [Postmortal]
+[02:03:51] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:03:51] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:03:55] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:03:55] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:04:05] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/206472, uuid='dae47bb3-66b9-4073-b4fd-980525420a61', l='ServerLevel[world]', x=145.69, y=-10.00, z=38.16, cpos=[9, 2], tl=71, v=true] died: GIGA Slime suffocated in a wall
+[02:04:21] [Server thread/INFO]: NachoOnFire has made the advancement [Not Today, Thank You]
+[02:04:23] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/213707, uuid='898cf5af-7dd6-4f26-a030-ae299f675faa', l='ServerLevel[world]', x=78.41, y=87.00, z=29.19, cpos=[4, 1], tl=16, v=true] died: Bruja Imposible was slain by MauGP
+[02:04:24] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/213091, uuid='c6eb0ffb-ae72-4065-8318-69f1a226059c', l='ServerLevel[world]', x=77.01, y=87.00, z=30.71, cpos=[4, 1], tl=51, v=true] died: Bruja Imposible was slain by MauGP
+[02:04:26] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/213708, uuid='8ec6256f-01f7-488e-a464-ea56834249e5', l='ServerLevel[world]', x=111.09, y=152.00, z=85.28, cpos=[6, 5], tl=79, v=true] died: Bruja Imposible was slain by Renzo212123
+[02:04:32] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/213092, uuid='f3caf367-4ca5-444f-9a05-a6312d16db6a', l='ServerLevel[world]', x=125.09, y=152.00, z=66.85, cpos=[7, 4], tl=223, v=true] died: Bruja Imposible was slain by Renzo212123
+[02:04:45] [Server thread/INFO]: Renzo212123 has completed the challenge [Great View From Up Here]
+[02:04:46] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:04:48] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:04:51] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:04:54] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:04:59] [Server thread/INFO]: Named entity EntitySlime['GIGA Slime'/208271, uuid='17291637-28b9-4d8d-8752-cacd6b4bf522', l='ServerLevel[world]', x=143.08, y=-10.00, z=40.92, cpos=[8, 2], tl=1061, v=true] died: GIGA Slime suffocated in a wall
+[02:05:00] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/216920, uuid='94df014d-cbb6-4af8-ae62-a31be5ca799b', l='ServerLevel[world]', x=86.48, y=153.90, z=93.94, cpos=[5, 5], tl=563, v=true] died: Demonio flotante was slain by Renzo212123
+[02:05:18] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:05:26] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/216208, uuid='c1ee7ea7-fdd6-4b66-bd15-2532270041b9', l='ServerLevel[world]', x=79.73, y=152.00, z=72.22, cpos=[4, 4], tl=1138, v=true] died: Ultra Ravager was fireballed by Demonio flotante
+[02:05:34] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/216265, uuid='6b691308-bae5-470c-aa9a-8b119cd79482', l='ServerLevel[world]', x=135.00, y=152.95, z=65.21, cpos=[8, 4], tl=1294, v=true] died: Ultra Ravager tried to swim in lava
+[02:05:35] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:05:35] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:05:42] [Server thread/INFO]: Named entity UltraRavager['Ultra Ravager'/216134, uuid='f72cf477-c619-4586-91d1-615e915cd3aa', l='ServerLevel[world]', x=114.13, y=154.48, z=82.66, cpos=[7, 5], tl=1471, v=true] died: Ultra Ravager tried to swim in lava
+[02:05:45] [Server thread/INFO]: Detectivefacha has completed the challenge [Great View From Up Here]
+[02:05:52] [Server thread/INFO]: El jugador Renzo212123 ha usado su medalla de superviviente.
+[02:05:58] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:06:03] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:06:03] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:06:05] [Server thread/INFO]: MauGP issued server command: /gamemode spectator
+[02:06:05] [Server thread/INFO]: [MauGP: Set own game mode to Spectator Mode]
+[02:06:08] [Server thread/INFO]: MauGP issued server command: /gamemode creative
+[02:06:08] [Server thread/INFO]: [MauGP: Set own game mode to Creative Mode]
+[02:06:12] [Server thread/INFO]: Named entity EntityCreeper['Ender Quantum Creeper'/239280, uuid='f6df6988-6338-4f54-acc0-4d5bee81d80e', l='ServerLevel[world]', x=80.50, y=88.00, z=30.50, cpos=[5, 1], tl=117, v=true] died: Ender Quantum Creeper was slain by MauGP
+[02:06:22] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/243414, uuid='8fa29810-2142-4f19-9872-45ca5133fe35', l='ServerLevel[world]', x=77.94, y=87.00, z=42.59, cpos=[4, 2], tl=13, v=true] died: Ultra Esqueleto Demoníaco was slain by MauGP
+[02:06:24] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:06:25] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:06:25] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:06:29] [Server thread/INFO]: Named entity EntityCreeper['Ender Quantum Creeper'/239277, uuid='d8f47535-22f3-4b5d-bc86-e2bf2a5ae4e7', l='ServerLevel[world]', x=80.50, y=88.00, z=54.50, cpos=[5, 3], tl=463, v=true] died: Ender Quantum Creeper was slain by MauGP
+[02:06:39] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:06:42] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:06:44] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:06:44] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:06:46] [Server thread/INFO]: El jugador NachoOnFire ha usado su medalla de superviviente.
+[02:06:46] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:06:49] [Server thread/INFO]: ¡NachoOnFire no tenía suficientes tótems en el inventario!
+[02:06:49] [Server thread/INFO]: Set the weather to rain & thunder
+[02:06:49] [Server thread/INFO]: Permadeath ➤ ¡Ha comenzado el modo UHC!
+[02:06:49] [Server thread/INFO]: NachoOnFire ha muerto y ahora descanza en paz.
+[02:06:49] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de NachoOnFire. ¡HA SIDO PERMABANEADO!
+[02:06:49] [Server thread/INFO]: X: 140 || Y: 153 || Z: 57
+[02:06:49] [Server thread/INFO]: NachoOnFire was blown up by Ultra Esqueleto Demoníaco
+[02:06:49] [Server thread/ERROR]: Could not pass event ProjectileHitEvent to Permadeath v1.3
+java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.Entity.getWorld()" because "h" is null
+	at tech.sebazcrc.permadeath.util.mob.CustomSkeletons.onH(CustomSkeletons.java:35) ~[Permadeath-1.3.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor5.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:git-Paper-17]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.jar:git-Paper-17]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.jar:git-Paper-17]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callProjectileHitEvent(CraftEventFactory.java:1473) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.world.entity.projectile.Projectile.preOnHit(Projectile.java:184) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.preOnHit(AbstractArrow.java:296) ~[?:?]
+	at net.minecraft.world.entity.projectile.AbstractArrow.tick(AbstractArrow.java:232) ~[?:?]
+	at net.minecraft.world.entity.projectile.Arrow.tick(Arrow.java:112) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1352) ~[?:?]
+	at net.minecraft.world.level.Level.guardEntityTick(Level.java:919) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.lambda$tick$12(ServerLevel.java:872) ~[?:?]
+	at net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:852) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1543) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.jar:git-Paper-17]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.jar:git-Paper-17]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:06:49] [Server thread/INFO]: Named entity EntitySkeleton['Ultra Esqueleto Demoníaco'/243412, uuid='6679cbbb-3f2e-434a-b282-3b805525e45f', l='ServerLevel[world]', x=141.10, y=152.00, z=59.03, cpos=[8, 3], tl=552, v=true] died: Ultra Esqueleto Demoníaco tried to swim in lava
+[02:06:53] [Server thread/INFO]: ¡Comienza el Death Train con duración de 5 horas y 30 minutos!
+[02:07:02] [Server thread/INFO]: Named entity EntityWitch['Bruja Imposible'/213705, uuid='418482cd-f2a4-4135-8ad3-5e69b1839fc1', l='ServerLevel[world]', x=95.17, y=154.62, z=65.50, cpos=[5, 4], tl=3196, v=true] died: Bruja Imposible was shot by Renzo212123 using [Arco de Gigante]
+[02:07:13] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[02:07:13] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[02:07:20] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:07:22] [Server thread/INFO]: Named entity EntityGhast['Demonio flotante'/216827, uuid='708b501b-6459-4794-bcfa-57f430831788', l='ServerLevel[world]', x=106.37, y=167.16, z=83.28, cpos=[6, 5], tl=3418, v=true] died: Demonio flotante was shot by Renzo212123 using [Arco de Gigante]
+[02:07:25] [Server thread/INFO]: El jugador Detectivefacha ha usado su medalla de superviviente.
+[02:07:30] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[02:07:30] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[02:07:36] [Server thread/INFO]: NachoOnFire issued server command: /gamemode creative
+[02:07:36] [Server thread/INFO]: [NachoOnFire: Set own game mode to Creative Mode]
+[02:07:48] [Server thread/INFO]: NachoOnFire issued server command: /gamemode survival
+[02:07:48] [Server thread/INFO]: [NachoOnFire: Set own game mode to Survival Mode]
+[02:07:58] [Server thread/INFO]: MauGP issued server command: /effect give MauGP minecraft:strength infinite 255
+[02:07:58] [Server thread/INFO]: [MauGP: Applied effect Strength to MauGP]

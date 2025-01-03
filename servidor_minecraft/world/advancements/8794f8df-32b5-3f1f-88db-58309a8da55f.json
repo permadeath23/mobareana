@@ -338,6 +338,7 @@
       "minecraft:ghast": "2025-01-01 18:23:34 +0000",
       "minecraft:vindicator": "2024-12-31 22:38:33 +0000",
       "minecraft:creeper": "2025-01-01 18:19:08 +0000",
+      "minecraft:wither": "2025-01-03 02:05:06 +0000",
       "minecraft:evoker": "2025-01-01 18:23:13 +0000",
       "minecraft:slime": "2025-01-02 00:20:14 +0000",
       "minecraft:phantom": "2025-01-01 18:23:42 +0000",
@@ -825,6 +826,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-01-03 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-03 02:05:07 +0000"
     },
     "done": true
   },
